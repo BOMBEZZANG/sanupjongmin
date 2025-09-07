@@ -1,0 +1,27 @@
+{
+  "version": "1",
+  "privacy_declarations": [
+    {
+      "privacy_types": [
+        {
+          "data_category": "IDENTIFIERS",
+          "data_type": "DEVICE_ID",
+          "is_linked": false,
+          "is_tracked": true,
+          "purposes": [
+            "THIRD_PARTY_ADVERTISING"
+          ]
+        },
+        {
+          "data_category": "USAGE_DATA",
+          "data_type": "ADVERTISING_DATA",
+          "is_linked": false,
+          "is_tracked": true,
+          "purposes": [
+            "THIRD_PARTY_ADVERTISING"
+          ]
+        }
+      ]
+    }
+  ]
+}

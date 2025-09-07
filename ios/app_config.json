@@ -1,0 +1,52 @@
+{
+    "bundle_id": "com.example.sanupjongmin",
+    "app_name": "산업안전기사-기출문제,음성듣기,해설강의",
+    "version": "8.0.0",
+    "build_number": "6",
+    "description": "산업안전기사 자격증 합격? 이 앱 하나면 끝!\n\n* 주요 기능*\n- 최신 기출문제 19세트!\n- 연도별, 과목별 기출문제 풀기\n- 기출문제 음성듣기\n- 랜덤 문제 풀기\n- 모든 문제 해설 제공\n- 오답노트: 틀린 문제만 자동 저장\n- 즐겨찾기 기능: 내가 찜한 문제를 다시 복습\n- Wifi, 인터넷 없이도 사용 가능\n- 완전 무료\n\n지하철 및 이동중에도 , 언제 어디서나 간편하게 기출문제를 풀고, 실력을 완성하세요. 합격에 필요한 모든 것!\n이 앱만 있으면 산업안전기사 자격증을 손에 넣을 수 있습니다.\n",
+    "privacy_url": "https://grea.site/2024/10/07/%EC%95%B1-%EC%A7%80%EC%9B%90-%EC%A0%95%EB%B3%B4/",
+    "keywords": [
+        "산업안전기사",
+        "산업안전기사 기출문제",
+        "산업안전기사 필기",
+        "산업안전기사 자격증",
+        "산업안전기사 해설",
+        "산업안전기사 오답노트",
+        "자격증",
+        "기출문제"
+    ],
+    "categories": [
+        "EDUCATION",
+        "PRODUCTIVITY"
+    ],
+    "screenshot_folder": "/Users/jongminkim/Desktop/Apps/qcjongmin/appauto/raw_DB/rawdbs/산업안전기사/Screenshots",
+    "metadata": {
+        "support_url": "https://grea.site/2024/10/07/%EC%95%B1-%EC%A7%80%EC%9B%90-%EC%A0%95%EB%B3%B4/",
+        "marketing_url": "https://bangkokwalkerr.blogspot.com/",
+        "copyright": "2025 Jongmin Kim",
+        "contact_name": "Jongmin KIM",
+        "contact_phone": "+821020221026",
+        "contact_email": "bombezzang100@gmail.com",
+        "requires_login": false,
+        "primary_language": "ko",
+        "third_party_content": false,
+        "age_rating_declaration": {
+            "violence_cartoon_or_fantasy": "NONE",
+            "violence_realistic": "NONE",
+            "violence_prolonged_graphic_or_sadistic": "NONE",
+            "profanity_or_crude_humor": "NONE",
+            "mature_or_suggestive_themes": "NONE",
+            "horror_or_fear_themes": "NONE",
+            "medical_or_treatment_information": "NONE",
+            "alcohol_tobacco_or_drug_use_or_references": "NONE",
+            "simulated_gambling": "NONE",
+            "sexual_content_or_nudity": "NONE",
+            "graphic_sexual_content_and_nudity": "NONE",
+            "unrestricted_web_access": false,
+            "gambling_and_contests": false
+        },
+        "price": 0.0,
+        "available_countries": 175,
+        "personal_data_collected": false
+    }
+}

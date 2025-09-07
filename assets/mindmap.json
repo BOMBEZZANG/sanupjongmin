@@ -1,0 +1,421 @@
+[
+  {
+    "root": {
+      "title": "산업안전기사",
+      "children": [
+        {
+          "title": "건설안전기술",
+          "children": [
+            {
+              "title": "가설공사",
+              "children": [
+                {
+                  "title": "거푸집동바리"
+                },
+                {
+                  "title": "비계"
+                },
+                {
+                  "title": "통로"
+                },
+                {
+                  "title": "타워크레인"
+                }
+              ]
+            },
+            {
+              "title": "토공사",
+              "children": [
+                {
+                  "title": "토사붕괴"
+                },
+                {
+                  "title": "흙막이"
+                },
+                {
+                  "title": "사면안정"
+                },
+                {
+                  "title": "히빙"
+                }
+              ]
+            },
+            {
+              "title": "건설장비",
+              "children": [
+                {
+                  "title": "리프트"
+                },
+                {
+                  "title": "항타기"
+                },
+                {
+                  "title": "크레인안전장치"
+                }
+              ]
+            },
+            {
+              "title": "안전관리",
+              "children": [
+                {
+                  "title": "유해위험방지계획서"
+                },
+                {
+                  "title": "산업안전관리비"
+                },
+                {
+                  "title": "조도기준"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "기계위험방지기술",
+          "children": [
+            {
+              "title": "방호장치",
+              "children": [
+                {
+                  "title": "프레스방호"
+                },
+                {
+                  "title": "광전자식"
+                },
+                {
+                  "title": "칩브레이커"
+                },
+                {
+                  "title": "가드"
+                }
+              ]
+            },
+            {
+              "title": "양중기",
+              "children": [
+                {
+                  "title": "크레인"
+                },
+                {
+                  "title": "지게차"
+                },
+                {
+                  "title": "롤러기"
+                },
+                {
+                  "title": "컨베이어"
+                }
+              ]
+            },
+            {
+              "title": "점검보전",
+              "children": [
+                {
+                  "title": "예방보전"
+                },
+                {
+                  "title": "상태기준보전"
+                },
+                {
+                  "title": "급정지"
+                },
+                {
+                  "title": "안전인증"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "안전관리론",
+          "children": [
+            {
+              "title": "법규제도",
+              "children": [
+                {
+                  "title": "안전보건규정"
+                },
+                {
+                  "title": "산업안전보건위원회"
+                },
+                {
+                  "title": "안전보건진단"
+                }
+              ]
+            },
+            {
+              "title": "재해통계",
+              "children": [
+                {
+                  "title": "발생률"
+                },
+                {
+                  "title": "강도율"
+                },
+                {
+                  "title": "사망만인율"
+                },
+                {
+                  "title": "하인리히"
+                }
+              ]
+            },
+            {
+              "title": "교육훈련",
+              "children": [
+                {
+                  "title": "TWI"
+                },
+                {
+                  "title": "위험예지훈련"
+                },
+                {
+                  "title": "재해사례연구"
+                },
+                {
+                  "title": "학습원칙"
+                }
+              ]
+            },
+            {
+              "title": "심리행동",
+              "children": [
+                {
+                  "title": "욕구단계"
+                },
+                {
+                  "title": "리더십"
+                },
+                {
+                  "title": "바이오리듬"
+                },
+                {
+                  "title": "주의특성"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "인간공학 및 시스템안전공학",
+          "children": [
+            {
+              "title": "위험분석",
+              "children": [
+                {
+                  "title": "PHA"
+                },
+                {
+                  "title": "FTA"
+                },
+                {
+                  "title": "ETA"
+                },
+                {
+                  "title": "HAZOP"
+                }
+              ]
+            },
+            {
+              "title": "신뢰성",
+              "children": [
+                {
+                  "title": "수명곡선"
+                },
+                {
+                  "title": "MTBF"
+                },
+                {
+                  "title": "MTTR"
+                },
+                {
+                  "title": "FailSafe"
+                }
+              ]
+            },
+            {
+              "title": "인간공학설계",
+              "children": [
+                {
+                  "title": "시각표시"
+                },
+                {
+                  "title": "청각표시"
+                },
+                {
+                  "title": "작업자세"
+                },
+                {
+                  "title": "OWAS"
+                }
+              ]
+            },
+            {
+              "title": "작업환경",
+              "children": [
+                {
+                  "title": "WBGT"
+                },
+                {
+                  "title": "조도"
+                },
+                {
+                  "title": "소음"
+                },
+                {
+                  "title": "정보량"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "전기위험방지기술",
+          "children": [
+            {
+              "title": "감전재해",
+              "children": [
+                {
+                  "title": "인체저항"
+                },
+                {
+                  "title": "심실세동"
+                },
+                {
+                  "title": "누전차단기"
+                },
+                {
+                  "title": "접지"
+                }
+              ]
+            },
+            {
+              "title": "전기설비",
+              "children": [
+                {
+                  "title": "차단기"
+                },
+                {
+                  "title": "피뢰기"
+                },
+                {
+                  "title": "방폭구조"
+                },
+                {
+                  "title": "회전구체"
+                }
+              ]
+            },
+            {
+              "title": "정전기",
+              "children": [
+                {
+                  "title": "발생요인"
+                },
+                {
+                  "title": "제전"
+                },
+                {
+                  "title": "접지대책"
+                },
+                {
+                  "title": "퍼지"
+                }
+              ]
+            },
+            {
+              "title": "활선작업",
+              "children": [
+                {
+                  "title": "접근거리"
+                },
+                {
+                  "title": "검전"
+                },
+                {
+                  "title": "절연장비"
+                },
+                {
+                  "title": "차단절차"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "화학설비위험방지기술",
+          "children": [
+            {
+              "title": "물질특성",
+              "children": [
+                {
+                  "title": "인화점"
+                },
+                {
+                  "title": "폭발범위"
+                },
+                {
+                  "title": "최소점화에너지"
+                },
+                {
+                  "title": "연소열"
+                }
+              ]
+            },
+            {
+              "title": "화학설비",
+              "children": [
+                {
+                  "title": "반응기"
+                },
+                {
+                  "title": "열교환기"
+                },
+                {
+                  "title": "저장탱크"
+                },
+                {
+                  "title": "고압용기"
+                }
+              ]
+            },
+            {
+              "title": "폭발방호",
+              "children": [
+                {
+                  "title": "BLEVE"
+                },
+                {
+                  "title": "분진폭발"
+                },
+                {
+                  "title": "방폭구조"
+                },
+                {
+                  "title": "안전밸브"
+                }
+              ]
+            },
+            {
+              "title": "위험관리",
+              "children": [
+                {
+                  "title": "PSM"
+                },
+                {
+                  "title": "계측장치"
+                },
+                {
+                  "title": "보호거리"
+                },
+                {
+                  "title": "누출감지"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,3719 @@
+[
+  {
+    "rowid": 1,
+    "term": "위험성 평가",
+    "definition": "기계 설계·제조·사용 전 과정에서 잠재적 위험을 식별·분석하여 허용 가능한 수준으로 낮추기 위한 체계적 절차입니다.",
+    "category": "기계위험방지기술",
+    "filename": "dictionary_audio_1.mp3"
+  },
+  {
+    "rowid": 2,
+    "term": "방호장치",
+    "definition": "기계의 위험 부분과 작업자를 물리적으로 분리하여 접촉을 방지하는 고정식 또는 이동식 보호 구조물입니다.",
+    "category": "기계위험방지기술",
+    "filename": "dictionary_audio_2.mp3"
+  },
+  {
+    "rowid": 3,
+    "term": "인터록",
+    "definition": "방호장치가 열리거나 제거되면 기계의 동작이 자동으로 정지되도록 연결된 안전회로입니다.",
+    "category": "기계위험방지기술",
+    "filename": "dictionary_audio_3.mp3"
+  },
+  {
+    "rowid": 4,
+    "term": "비상정지장치",
+    "definition": "기계 운전 중 긴급 상황에서 즉시 동력을 차단하여 위험을 최소화하는 수동 스위치입니다.",
+    "category": "기계위험방지기술",
+    "filename": "dictionary_audio_4.mp3"
+  },
+  {
+    "rowid": 5,
+    "term": "라이트커튼",
+    "definition": "다중 광선 센서로 작업 영역을 감지하며, 빔이 차단되면 기계를 정지시켜 접근 사고를 예방합니다.",
+    "category": "기계위험방지기술",
+    "filename": "dictionary_audio_5.mp3"
+  },
+  {
+    "rowid": 6,
+    "term": "로크아웃/태그아웃",
+    "definition": "정비·보수 중 에너지원을 잠금 및 경고표시하여 오작동 재가동을 방지하는 절차입니다.",
+    "category": "기계위험방지기술",
+    "filename": "dictionary_audio_6.mp3"
+  },
+  {
+    "rowid": 7,
+    "term": "과부하 보호장치",
+    "definition": "모터·기어 등에 과도한 부하가 걸릴 때 자동으로 전원을 차단해 파손과 화재를 방지합니다.",
+    "category": "기계위험방지기술",
+    "filename": "dictionary_audio_7.mp3"
+  },
+  {
+    "rowid": 8,
+    "term": "안전울타리",
+    "definition": "기계 주변에 설치하여 위험 구역에 대한 작업자 진입을 차단하는 철망 혹은 투명 패널 구조물입니다.",
+    "category": "기계위험방지기술",
+    "filename": "dictionary_audio_8.mp3"
+  },
+  {
+    "rowid": 9,
+    "term": "안전커버",
+    "definition": "회전축·벨트·체인 등 움직이는 부품을 덮어 직접 접촉을 방지하는 이동식 방호구입니다.",
+    "category": "기계위험방지기술",
+    "filename": "dictionary_audio_9.mp3"
+  },
+  {
+    "rowid": 10,
+    "term": "이중손 조작장치",
+    "definition": "작업자가 양손으로 동시에 버튼을 눌러야만 기계가 동작하여 손 끼임 사고를 예방합니다.",
+    "category": "기계위험방지기술",
+    "filename": "dictionary_audio_10.mp3"
+  },
+  {
+    "rowid": 11,
+    "term": "속도제한장치",
+    "definition": "설정된 최대 속도를 초과하지 못하도록 기계의 회전·이송 속도를 제어하는 장치입니다.",
+    "category": "기계위험방지기술",
+    "filename": "dictionary_audio_11.mp3"
+  },
+  {
+    "rowid": 12,
+    "term": "토크리미터",
+    "definition": "전달 토크가 설정값을 넘으면 미끄러져 구동계 파손과 협착 위험을 줄이는 보호 장치입니다.",
+    "category": "기계위험방지기술",
+    "filename": "dictionary_audio_12.mp3"
+  },
+  {
+    "rowid": 13,
+    "term": "안전 PLC",
+    "definition": "고신뢰성 안전 기능을 위해 설계·인증된 프로그래머블 로직 컨트롤러입니다.",
+    "category": "기계위험방지기술",
+    "filename": "dictionary_audio_13.mp3"
+  },
+  {
+    "rowid": 14,
+    "term": "기능안전",
+    "definition": "전기·전자·프로그래머블 시스템이 고장 시에도 안전을 유지하도록 설계하는 국제적 개념입니다.",
+    "category": "기계위험방지기술",
+    "filename": "dictionary_audio_14.mp3"
+  },
+  {
+    "rowid": 15,
+    "term": "ISO 13849-1",
+    "definition": "기계 제어 시스템의 안전 관련 부품에 대한 설계·성능 요구 사항을 규정한 국제표준입니다.",
+    "category": "기계위험방지기술",
+    "filename": "dictionary_audio_15.mp3"
+  },
+  {
+    "rowid": 16,
+    "term": "퍼포먼스 레벨",
+    "definition": "ISO 13849-1에서 정의하는 안전 제어 시스템의 위험 저감 능력 등급(PL a~e)입니다.",
+    "category": "기계위험방지기술",
+    "filename": "dictionary_audio_16.mp3"
+  },
+  {
+    "rowid": 17,
+    "term": "IEC 62061",
+    "definition": "기계용 전기·전자·프로그래머블 제어 시스템의 기능안전 요구 사항을 규정한 표준입니다.",
+    "category": "기계위험방지기술",
+    "filename": "dictionary_audio_17.mp3"
+  },
+  {
+    "rowid": 18,
+    "term": "안전무결성수준",
+    "definition": "IEC 61508/62061에서 규정하는 안전 기능의 실패 확률 기반 등급(SIL 1~4)을 의미합니다.",
+    "category": "기계위험방지기술",
+    "filename": "dictionary_audio_18.mp3"
+  },
+  {
+    "rowid": 19,
+    "term": "근접센서",
+    "definition": "금속 또는 비금속 물체 접근을 비접촉 방식으로 감지하여 기계 제어 신호로 활용하는 센서입니다.",
+    "category": "기계위험방지기술",
+    "filename": "dictionary_audio_19.mp3"
+  },
+  {
+    "rowid": 20,
+    "term": "포토센서",
+    "definition": "빛의 차단·반사를 이용해 대상 물체를 감지하고 안전 회로에 연동되는 센서입니다.",
+    "category": "기계위험방지기술",
+    "filename": "dictionary_audio_20.mp3"
+  },
+  {
+    "rowid": 21,
+    "term": "압력센서",
+    "definition": "유·공압 시스템의 압력을 모니터링하여 허용 범위를 넘으면 경보 또는 차단하는 장치입니다.",
+    "category": "기계위험방지기술",
+    "filename": "dictionary_audio_21.mp3"
+  },
+  {
+    "rowid": 22,
+    "term": "온도감지기",
+    "definition": "베어링·모터 등의 과열을 감시하여 화재·파손 위험을 예방하는 센서입니다.",
+    "category": "기계위험방지기술",
+    "filename": "dictionary_audio_22.mp3"
+  },
+  {
+    "rowid": 23,
+    "term": "열해방체",
+    "definition": "설정 온도 이상에서 전류를 차단해 과열·화재를 방지하는 일회용 보호 소자입니다.",
+    "category": "기계위험방지기술",
+    "filename": "dictionary_audio_23.mp3"
+  },
+  {
+    "rowid": 24,
+    "term": "낙하물 방지망",
+    "definition": "고소 작업 기계에서 떨어지는 부품·공구가 작업자에게 떨어지는 것을 막는 그물망입니다.",
+    "category": "기계위험방지기술",
+    "filename": "dictionary_audio_24.mp3"
+  },
+  {
+    "rowid": 25,
+    "term": "접지",
+    "definition": "정전기나 누전으로 인한 감전·화재를 예방하기 위해 금속 부위를 지면에 연결하는 방법입니다.",
+    "category": "기계위험방지기술",
+    "filename": "dictionary_audio_25.mp3"
+  },
+  {
+    "rowid": 26,
+    "term": "과전류 차단기",
+    "definition": "전류가 정격치를 초과하면 자동으로 차단해 전기 화재·감전 사고를 막는 스위치입니다.",
+    "category": "기계위험방지기술",
+    "filename": "dictionary_audio_26.mp3"
+  },
+  {
+    "rowid": 27,
+    "term": "지락 차단기",
+    "definition": "누설전류를 감지해 매우 짧은 시간 내 전원을 차단하는 감전 보호 장치입니다.",
+    "category": "기계위험방지기술",
+    "filename": "dictionary_audio_27.mp3"
+  },
+  {
+    "rowid": 28,
+    "term": "정전기 방지장치",
+    "definition": "정전기 축적을 억제·방전시켜 폭발성 분진·화학물 누설 환경에서 점화를 방지합니다.",
+    "category": "기계위험방지기술",
+    "filename": "dictionary_audio_28.mp3"
+  },
+  {
+    "rowid": 29,
+    "term": "에너지 격리",
+    "definition": "잠재적 위험 에너지(전기·압축공기·유압 등)를 완전히 차단·방출하는 절차입니다.",
+    "category": "기계위험방지기술",
+    "filename": "dictionary_audio_29.mp3"
+  },
+  {
+    "rowid": 30,
+    "term": "유압 안전밸브",
+    "definition": "시스템 압력이 설정값을 초과하면 유체를 우회시켜 폭발·파열을 방지하는 밸브입니다.",
+    "category": "기계위험방지기술",
+    "filename": "dictionary_audio_30.mp3"
+  },
+  {
+    "rowid": 31,
+    "term": "기계적 스톱퍼",
+    "definition": "이동 부품의 스트로크 끝단에 설치되어 과도한 운동을 기계적으로 막는 한계장치입니다.",
+    "category": "기계위험방지기술",
+    "filename": "dictionary_audio_31.mp3"
+  },
+  {
+    "rowid": 32,
+    "term": "경보장치",
+    "definition": "위험 상태 발생 시 시각·청각·진동 신호로 작업자에게 즉시 알리는 장치입니다.",
+    "category": "기계위험방지기술",
+    "filename": "dictionary_audio_32.mp3"
+  },
+  {
+    "rowid": 33,
+    "term": "안전색·표지",
+    "definition": "위험 구역과 비상 통로 위치를 색상·도형·문구로 명확히 표시하는 시각적 경고체계입니다.",
+    "category": "기계위험방지기술",
+    "filename": "dictionary_audio_33.mp3"
+  },
+  {
+    "rowid": 34,
+    "term": "인체공학 설계",
+    "definition": "작업자 신체 특성과 한계를 고려해 기계를 설계하여 피로 및 사고를 감소시키는 방법입니다.",
+    "category": "기계위험방지기술",
+    "filename": "dictionary_audio_34.mp3"
+  },
+  {
+    "rowid": 35,
+    "term": "협착 위험",
+    "definition": "회전 부품에 의복·머리카락 등이 끼어드는 유형의 기계적 위험입니다.",
+    "category": "기계위험방지기술",
+    "filename": "dictionary_audio_35.mp3"
+  },
+  {
+    "rowid": 36,
+    "term": "절단 위험",
+    "definition": "칼날·톱날 등 날카로운 부품 접촉으로 인한 절단·절상의 위험입니다.",
+    "category": "기계위험방지기술",
+    "filename": "dictionary_audio_36.mp3"
+  },
+  {
+    "rowid": 37,
+    "term": "파단 위험",
+    "definition": "부품이 피로·과부하로 파손되어 파편이 튀어 부상이나 설비 손상을 초래하는 위험입니다.",
+    "category": "기계위험방지기술",
+    "filename": "dictionary_audio_37.mp3"
+  },
+  {
+    "rowid": 38,
+    "term": "전단 위험",
+    "definition": "두 부재가 서로 교차하여 신체 일부를 절단할 수 있는 기계적 위험입니다.",
+    "category": "기계위험방지기술",
+    "filename": "dictionary_audio_38.mp3"
+  },
+  {
+    "rowid": 39,
+    "term": "꼬임 위험",
+    "definition": "회전축·스크루 등에 의복·머리카락이 감겨 신체 손상을 초래하는 위험입니다.",
+    "category": "기계위험방지기술",
+    "filename": "dictionary_audio_39.mp3"
+  },
+  {
+    "rowid": 40,
+    "term": "충돌 위험",
+    "definition": "빠른 속도의 이동 부품과 작업자 또는 물체가 물리적으로 충돌하여 발생하는 위험입니다.",
+    "category": "기계위험방지기술",
+    "filename": "dictionary_audio_40.mp3"
+  },
+  {
+    "rowid": 41,
+    "term": "포획 위험",
+    "definition": "두 고체 사이에 신체가 눌려 골절·좌상을 입을 수 있는 위험입니다.",
+    "category": "기계위험방지기술",
+    "filename": "dictionary_audio_41.mp3"
+  },
+  {
+    "rowid": 42,
+    "term": "비산물 위험",
+    "definition": "가공 중 칩·파편 등이 고속으로 튀어 눈·얼굴에 상해를 주는 위험입니다.",
+    "category": "기계위험방지기술",
+    "filename": "dictionary_audio_42.mp3"
+  },
+  {
+    "rowid": 43,
+    "term": "소음 노출",
+    "definition": "기계 운전 중 85dB 이상의 소음이 청력 손상을 유발할 수 있는 노출입니다.",
+    "category": "기계위험방지기술",
+    "filename": "dictionary_audio_43.mp3"
+  },
+  {
+    "rowid": 44,
+    "term": "진동 노출",
+    "definition": "장시간 손·팔·전신 진동이 신경·혈관·근골격계 질환을 일으킬 수 있는 노출입니다.",
+    "category": "기계위험방지기술",
+    "filename": "dictionary_audio_44.mp3"
+  },
+  {
+    "rowid": 45,
+    "term": "방폭 구조",
+    "definition": "가연성 가스·분진 환경에서 점화원이 되지 않도록 설계된 전기·기계 구조입니다.",
+    "category": "기계위험방지기술",
+    "filename": "dictionary_audio_45.mp3"
+  },
+  {
+    "rowid": 46,
+    "term": "위험지역",
+    "definition": "기계 주위 중 실제 위험원이 존재하여 추가 보호조치가 필요한 영역입니다.",
+    "category": "기계위험방지기술",
+    "filename": "dictionary_audio_46.mp3"
+  },
+  {
+    "rowid": 47,
+    "term": "안전거리",
+    "definition": "방호장치와 위험부 사이의 최소 간격으로, 작업자 속도와 기계 정지 시간을 고려해 결정됩니다.",
+    "category": "기계위험방지기술",
+    "filename": "dictionary_audio_47.mp3"
+  },
+  {
+    "rowid": 48,
+    "term": "기동 전 경보",
+    "definition": "기계 작동 전 사이렌·램프로 작업자에게 기동 사실을 알리는 경고입니다.",
+    "category": "기계위험방지기술",
+    "filename": "dictionary_audio_48.mp3"
+  },
+  {
+    "rowid": 49,
+    "term": "소프트스타터",
+    "definition": "모터 기동 시 전압을 점진적으로 올려 기계적 충격과 과전류를 줄이는 장치입니다.",
+    "category": "기계위험방지기술",
+    "filename": "dictionary_audio_49.mp3"
+  },
+  {
+    "rowid": 50,
+    "term": "인버터 제어",
+    "definition": "모터 속도를 가변 주파수로 제어해 에너지 절약과 안전한 가속·감속을 구현합니다.",
+    "category": "기계위험방지기술",
+    "filename": "dictionary_audio_50.mp3"
+  },
+  {
+    "rowid": 51,
+    "term": "자동 정지 시스템",
+    "definition": "이상 진동·과열·센서 단선 등 결함 발생 시 즉시 기계 운전을 중단하는 보호 로직입니다.",
+    "category": "기계위험방지기술",
+    "filename": "dictionary_audio_51.mp3"
+  },
+  {
+    "rowid": 52,
+    "term": "예지보전",
+    "definition": "센서 데이터 분석으로 고장을 사전에 예측하고 계획 정비함으로써 돌발 정지를 방지합니다.",
+    "category": "기계위험방지기술",
+    "filename": "dictionary_audio_52.mp3"
+  },
+  {
+    "rowid": 53,
+    "term": "TPM",
+    "definition": "설비 효율과 안전을 동시에 향상시키기 위한 전사적 예방 보전 활동입니다.",
+    "category": "기계위험방지기술",
+    "filename": "dictionary_audio_53.mp3"
+  },
+  {
+    "rowid": 54,
+    "term": "위험요인 목록화",
+    "definition": "모든 작업 단계별 잠재적 위험원을 기록·분류하는 초기 안전관리 과정입니다.",
+    "category": "기계위험방지기술",
+    "filename": "dictionary_audio_54.mp3"
+  },
+  {
+    "rowid": 55,
+    "term": "FMEA",
+    "definition": "고장모드와 발생 원인·영향을 분석하여 우선순위 개선 대책을 수립하는 기법입니다.",
+    "category": "기계위험방지기술",
+    "filename": "dictionary_audio_55.mp3"
+  },
+  {
+    "rowid": 56,
+    "term": "CE 마킹",
+    "definition": "EU 시장에서 기계가 필수 안전·보건 요구를 충족했음을 나타내는 제품 인증 마크입니다.",
+    "category": "기계위험방지기술",
+    "filename": "dictionary_audio_56.mp3"
+  },
+  {
+    "rowid": 57,
+    "term": "KC 인증",
+    "definition": "대한민국 국가통합인증마크로 기계 제품의 안전 기준 충족을 나타냅니다.",
+    "category": "기계위험방지기술",
+    "filename": "dictionary_audio_57.mp3"
+  },
+  {
+    "rowid": 58,
+    "term": "낙하 방지 고리",
+    "definition": "고소 기계 작업 시 작업자를 안전 라인에 연결해 추락을 막는 고정점입니다.",
+    "category": "기계위험방지기술",
+    "filename": "dictionary_audio_58.mp3"
+  },
+  {
+    "rowid": 59,
+    "term": "밀폐공간 안전",
+    "definition": "통풍 불량 공간에서 질식·중독·폭발 위험을 관리하기 위한 절차와 장비를 말합니다.",
+    "category": "기계위험방지기술",
+    "filename": "dictionary_audio_59.mp3"
+  },
+  {
+    "rowid": 60,
+    "term": "통합안전회로",
+    "definition": "일반 제어와 안전 제어를 단일 네트워크에서 관리하되 안전 등급을 유지하도록 설계된 회로입니다.",
+    "category": "기계위험방지기술",
+    "filename": "dictionary_audio_60.mp3"
+  },
+  {
+    "rowid": 61,
+    "term": "페일 세이프",
+    "definition": "부품 고장 발생 시 기계가 자동으로 안전한 상태에 머무르도록 하는 설계 원칙입니다.",
+    "category": "기계위험방지기술",
+    "filename": "dictionary_audio_61.mp3"
+  },
+  {
+    "rowid": 62,
+    "term": "방호커버 스위치",
+    "definition": "커버가 열리면 회로가 단절되어 기계 기동이 불가능해지는 위치 감지 스위치입니다.",
+    "category": "기계위험방지기술",
+    "filename": "dictionary_audio_62.mp3"
+  },
+  {
+    "rowid": 63,
+    "term": "서보락",
+    "definition": "서보모터 전원이 차단되면 기계적 브레이크가 작동해 갑작스러운 이동을 막는 기능입니다.",
+    "category": "기계위험방지기술",
+    "filename": "dictionary_audio_63.mp3"
+  },
+  {
+    "rowid": 64,
+    "term": "안전 릴레이",
+    "definition": "이중 접점 및 자기 모니터 기능으로 PL e 등급 안전 회로를 구성하는 릴레이입니다.",
+    "category": "기계위험방지기술",
+    "filename": "dictionary_audio_64.mp3"
+  },
+  {
+    "rowid": 65,
+    "term": "이중화",
+    "definition": "안전 기능을 두 개 이상 독립 경로로 구현해 단일 고장 시에도 안전을 유지하는 설계입니다.",
+    "category": "기계위험방지기술",
+    "filename": "dictionary_audio_65.mp3"
+  },
+  {
+    "rowid": 66,
+    "term": "자체진단",
+    "definition": "제어기가 주기적으로 내부 회로를 검사해 오류 발생 시 안전 정지하는 기능입니다.",
+    "category": "기계위험방지기술",
+    "filename": "dictionary_audio_66.mp3"
+  },
+  {
+    "rowid": 67,
+    "term": "위험도 행렬",
+    "definition": "사고 발생 가능성과 결과 심각도를 교차하여 위험 수준을 시각화한 표입니다.",
+    "category": "기계위험방지기술",
+    "filename": "dictionary_audio_67.mp3"
+  },
+  {
+    "rowid": 68,
+    "term": "5S 활동",
+    "definition": "정리·정돈·청소·청결·습관화를 통해 작업장 안전과 효율을 향상시키는 관리 기법입니다.",
+    "category": "기계위험방지기술",
+    "filename": "dictionary_audio_68.mp3"
+  },
+  {
+    "rowid": 69,
+    "term": "인로 잭",
+    "definition": "다중 권선 드럼이 돌발 낙하 시 잠기는 추락 방지용 감속 장치입니다.",
+    "category": "기계위험방지기술",
+    "filename": "dictionary_audio_69.mp3"
+  },
+  {
+    "rowid": 70,
+    "term": "펜스 스캐닝 라이다",
+    "definition": "레이저 스캐닝으로 사람·물체 침입을 감지해 기계를 감속 또는 정지시키는 센서입니다.",
+    "category": "기계위험방지기술",
+    "filename": "dictionary_audio_70.mp3"
+  },
+  {
+    "rowid": 71,
+    "term": "위험 작업 허가서",
+    "definition": "비정형·고위험 작업 수행 전 안전 조치 이행을 확인·승인하는 문서입니다.",
+    "category": "기계위험방지기술",
+    "filename": "dictionary_audio_71.mp3"
+  },
+  {
+    "rowid": 72,
+    "term": "위험성 검증",
+    "definition": "설계된 안전 조치가 목표 위험 감소 수준을 실제로 달성하는지 시험·확인하는 과정입니다.",
+    "category": "기계위험방지기술",
+    "filename": "dictionary_audio_72.mp3"
+  },
+  {
+    "rowid": 73,
+    "term": "재시동 방지",
+    "definition": "정전 후 전원 복구 시 자동 재시동을 방지해 예기치 못한 기동을 막는 회로 기능입니다.",
+    "category": "기계위험방지기술",
+    "filename": "dictionary_audio_73.mp3"
+  },
+  {
+    "rowid": 74,
+    "term": "키드 인터록",
+    "definition": "열쇠 순서를 통해 방호문·밸브 등을 안전 절차대로만 개폐하도록 강제하는 시스템입니다.",
+    "category": "기계위험방지기술",
+    "filename": "dictionary_audio_74.mp3"
+  },
+  {
+    "rowid": 75,
+    "term": "단락 보호",
+    "definition": "배선·회로의 단락 시 과전류를 빠르게 차단해 화재·파손을 방지하는 장치입니다.",
+    "category": "기계위험방지기술",
+    "filename": "dictionary_audio_75.mp3"
+  },
+  {
+    "rowid": 76,
+    "term": "제동 시간 측정",
+    "definition": "기계 정지까지의 시간을 측정·기록해 안전거리 계산의 근거로 사용하는 작업입니다.",
+    "category": "기계위험방지기술",
+    "filename": "dictionary_audio_76.mp3"
+  },
+  {
+    "rowid": 77,
+    "term": "안전 회의",
+    "definition": "현장 근로자와 관리자가 정기적으로 모여 위험 개선·사고 사례를 공유하는 활동입니다.",
+    "category": "기계위험방지기술",
+    "filename": "dictionary_audio_77.mp3"
+  },
+  {
+    "rowid": 78,
+    "term": "안전 문화",
+    "definition": "조직 구성원이 안전을 최우선 가치로 내재화한 태도·행동·제도를 총칭합니다.",
+    "category": "기계위험방지기술",
+    "filename": "dictionary_audio_78.mp3"
+  },
+  {
+    "rowid": 79,
+    "term": "비접촉 방호장치",
+    "definition": "물리적 접촉 없이 센서로 위험 접근을 확인하고 기계를 정지시키는 시스템입니다.",
+    "category": "기계위험방지기술",
+    "filename": "dictionary_audio_79.mp3"
+  },
+  {
+    "rowid": 80,
+    "term": "오조작 방지 설계",
+    "definition": "사용자의 실수가 위험한 동작으로 이어지지 않도록 기계 구조를 설계하는 기법입니다.",
+    "category": "기계위험방지기술",
+    "filename": "dictionary_audio_80.mp3"
+  },
+  {
+    "rowid": 81,
+    "term": "회전주의 경고등",
+    "definition": "기계 가동 중임을 360° 시각 신호로 표시해 접근 인원의 주의를 환기합니다.",
+    "category": "기계위험방지기술",
+    "filename": "dictionary_audio_81.mp3"
+  },
+  {
+    "rowid": 82,
+    "term": "안전 압력 스위치",
+    "definition": "압력 과대 상승 시 전원을 차단하여 폭발·누출 사고를 방지하는 스위치입니다.",
+    "category": "기계위험방지기술",
+    "filename": "dictionary_audio_82.mp3"
+  },
+  {
+    "rowid": 83,
+    "term": "인체 검출 매트",
+    "definition": "바닥에 설치되어 사람이 밟으면 기계에 정지 신호를 보내는 접촉식 감지장치입니다.",
+    "category": "기계위험방지기술",
+    "filename": "dictionary_audio_83.mp3"
+  },
+  {
+    "rowid": 84,
+    "term": "위험 허용 기준",
+    "definition": "사회·법규·기술 수준에서 수용 가능한 최대 위험도를 정의한 값입니다.",
+    "category": "기계위험방지기술",
+    "filename": "dictionary_audio_84.mp3"
+  },
+  {
+    "rowid": 85,
+    "term": "체결 토크 관리",
+    "definition": "볼트·너트 체결 토크를 규정값으로 관리하여 구조물 이탈·파손 위험을 방지합니다.",
+    "category": "기계위험방지기술",
+    "filename": "dictionary_audio_85.mp3"
+  },
+  {
+    "rowid": 86,
+    "term": "광학 방호 슬리브",
+    "definition": "레이저 스캐너 감지 영역을 먼지·충격으로부터 보호하는 투명 튜브형 커버입니다.",
+    "category": "기계위험방지기술",
+    "filename": "dictionary_audio_86.mp3"
+  },
+  {
+    "rowid": 87,
+    "term": "실제움직임 시뮬레이션",
+    "definition": "가상 모델로 기계 동작과 위험 상황을 예측·검증해 안전 설계를 최적화하는 기술입니다.",
+    "category": "기계위험방지기술",
+    "filename": "dictionary_audio_87.mp3"
+  },
+  {
+    "rowid": 88,
+    "term": "안전계수",
+    "definition": "설계하중 대비 허용하중 비율을 여유로 두어 구조적 파손을 방지하는 값입니다.",
+    "category": "기계위험방지기술",
+    "filename": "dictionary_audio_88.mp3"
+  },
+  {
+    "rowid": 89,
+    "term": "비상 탈출구",
+    "definition": "기계·설비 내부 혹은 접근 통로에서 긴급 대피 시 사용할 수 있도록 확보된 문·통로입니다.",
+    "category": "기계위험방지기술",
+    "filename": "dictionary_audio_89.mp3"
+  },
+  {
+    "rowid": 90,
+    "term": "클러치-브레이크 유니트",
+    "definition": "프레스에서 회전 운동을 빠르게 연결·차단해 작업자 안전을 확보하는 구동 장치입니다.",
+    "category": "기계위험방지기술",
+    "filename": "dictionary_audio_90.mp3"
+  },
+  {
+    "rowid": 91,
+    "term": "안전 엔코더",
+    "definition": "2채널 신호로 축 위치·속도를 중복 검증하여 안전 제동·속도 제한에 사용되는 센서입니다.",
+    "category": "기계위험방지기술",
+    "filename": "dictionary_audio_91.mp3"
+  },
+  {
+    "rowid": 92,
+    "term": "제진 패드",
+    "definition": "설비 하부에 설치되어 진동 전달을 저감하고 기계 변위로 인한 위험을 줄이는 부품입니다.",
+    "category": "기계위험방지기술",
+    "filename": "dictionary_audio_92.mp3"
+  },
+  {
+    "rowid": 93,
+    "term": "유해광 방어",
+    "definition": "고출력 레이저나 UV 광원에서 방출되는 유해 광선을 차단해 눈·피부를 보호하는 방호층입니다.",
+    "category": "기계위험방지기술",
+    "filename": "dictionary_audio_93.mp3"
+  },
+  {
+    "rowid": 94,
+    "term": "광학 필터 실드",
+    "definition": "용접·플라즈마 가공 시 발생하는 자외선·적외선을 차단하는 보호용 렌즈 또는 창입니다.",
+    "category": "기계위험방지기술",
+    "filename": "dictionary_audio_94.mp3"
+  },
+  {
+    "rowid": 95,
+    "term": "자동 소화시스템",
+    "definition": "기계 캐비닛 내부 화재 발생 시 열·불꽃 감지로 소화약제를 자동 방출하는 설비입니다.",
+    "category": "기계위험방지기술",
+    "filename": "dictionary_audio_95.mp3"
+  },
+  {
+    "rowid": 96,
+    "term": "밀폐형 윤활",
+    "definition": "윤활 그리스 외부 누출을 막아 미끄럼·화재·환경오염 위험을 줄이는 설계입니다.",
+    "category": "기계위험방지기술",
+    "filename": "dictionary_audio_96.mp3"
+  },
+  {
+    "rowid": 97,
+    "term": "스텝간 틈새",
+    "definition": "플랫폼과 기계 사이 발 끼임을 방지하기 위해 허용 간격을 규정한 설계 항목입니다.",
+    "category": "기계위험방지기술",
+    "filename": "dictionary_audio_97.mp3"
+  },
+  {
+    "rowid": 98,
+    "term": "안전지침서",
+    "definition": "기계 설치·운전·정비 시 준수해야 할 위험 예방 방법과 비상조치가 수록된 문서입니다.",
+    "category": "기계위험방지기술",
+    "filename": "dictionary_audio_98.mp3"
+  },
+  {
+    "rowid": 99,
+    "term": "자동 재설정 금지",
+    "definition": "이상 정지 후 원인 확인 전에는 수동으로만 재시동이 가능하도록 하는 안전 회로 요건입니다.",
+    "category": "기계위험방지기술",
+    "filename": "dictionary_audio_99.mp3"
+  },
+  {
+    "rowid": 100,
+    "term": "위험감소 단계",
+    "definition": "제거 → 대체 → 공학적 제어 → 행정적 제어 → 보호구 순으로 위험을 저감하는 우선순위 체계입니다.",
+    "category": "기계위험방지기술",
+    "filename": "dictionary_audio_100.mp3"
+  },
+  {
+    "rowid": 101,
+    "term": "방폭구조 (Explosion-Proof Design)",
+    "definition": "가연성 가스·증기 존재 환경에서 점화원을 차단하거나 화염 전파를 막도록 설계된 전기·기계 장치의 구조.",
+    "category": "화학설비위험방지기술",
+    "filename": "dictionary_audio_101.mp3"
+  },
+  {
+    "rowid": 102,
+    "term": "안전밸브 (Safety Valve)",
+    "definition": "압력용기 내부 압력이 설정값을 초과할 때 자동으로 개방되어 과압을 방출하는 장치.",
+    "category": "화학설비위험방지기술",
+    "filename": "dictionary_audio_102.mp3"
+  },
+  {
+    "rowid": 103,
+    "term": "압력용기 (Pressure Vessel)",
+    "definition": "내부에 액체·기체를 외부보다 높은 압력으로 저장·취급하기 위한 밀폐 용기.",
+    "category": "화학설비위험방지기술",
+    "filename": "dictionary_audio_103.mp3"
+  },
+  {
+    "rowid": 104,
+    "term": "열폭주 (Thermal Runaway)",
+    "definition": "발열 반응 속도가 열 제거 속도를 초과하여 온도가 급격히 상승하는 현상.",
+    "category": "화학설비위험방지기술",
+    "filename": "dictionary_audio_104.mp3"
+  },
+  {
+    "rowid": 105,
+    "term": "플레어스택 (Flare Stack)",
+    "definition": "과잉 가연성 가스나 비상 배출가스를 연소시켜 안전하게 방출하는 수직형 굴뚝.",
+    "category": "화학설비위험방지기술",
+    "filename": "dictionary_audio_105.mp3"
+  },
+  {
+    "rowid": 106,
+    "term": "폭주반응 (Runaway Reaction)",
+    "definition": "제어되지 않은 화학반응으로 압력·온도·속도가 급격히 증가하여 위험을 유발하는 상태.",
+    "category": "화학설비위험방지기술",
+    "filename": "dictionary_audio_106.mp3"
+  },
+  {
+    "rowid": 107,
+    "term": "가연한계 (Flammability Limits)",
+    "definition": "가연성 혼합기체가 점화 가능하기 위한 최저·최고 농도 범위로 LEL과 UEL로 표현.",
+    "category": "화학설비위험방지기술",
+    "filename": "dictionary_audio_107.mp3"
+  },
+  {
+    "rowid": 108,
+    "term": "LEL (Lower Explosive Limit)",
+    "definition": "가스·증기가 공기 중에서 폭발할 수 있는 최저 농도 한계.",
+    "category": "화학설비위험방지기술",
+    "filename": "dictionary_audio_108.mp3"
+  },
+  {
+    "rowid": 109,
+    "term": "UEL (Upper Explosive Limit)",
+    "definition": "가스·증기가 공기 중에서 폭발할 수 있는 최고 농도 한계.",
+    "category": "화학설비위험방지기술",
+    "filename": "dictionary_audio_109.mp3"
+  },
+  {
+    "rowid": 110,
+    "term": "정전기 방전 (Electrostatic Discharge)",
+    "definition": "정전하 축적이 파괴적으로 방전되어 점화원이나 설비 손상을 일으키는 현상.",
+    "category": "화학설비위험방지기술",
+    "filename": "dictionary_audio_110.mp3"
+  },
+  {
+    "rowid": 111,
+    "term": "접지 (Grounding)",
+    "definition": "정전기나 누설전류를 땅으로 안전하게 방전하기 위한 전기적 연결.",
+    "category": "화학설비위험방지기술",
+    "filename": "dictionary_audio_111.mp3"
+  },
+  {
+    "rowid": 112,
+    "term": "본딩 (Bonding)",
+    "definition": "금속 설비 간 전위차를 없애 정전기 불꽃을 방지하기 위해 상호 연결하는 기술.",
+    "category": "화학설비위험방지기술",
+    "filename": "dictionary_audio_112.mp3"
+  },
+  {
+    "rowid": 113,
+    "term": "가스검지기 (Gas Detector)",
+    "definition": "대기 중 유해·가연성 가스 농도를 지속적으로 모니터링하는 센서 장치.",
+    "category": "화학설비위험방지기술",
+    "filename": "dictionary_audio_113.mp3"
+  },
+  {
+    "rowid": 114,
+    "term": "폭발 해치 (Explosion Vent)",
+    "definition": "폭발 압력이 설정값에 도달하면 파손·개방돼 압력을 배출하는 안전 패널.",
+    "category": "화학설비위험방지기술",
+    "filename": "dictionary_audio_114.mp3"
+  },
+  {
+    "rowid": 115,
+    "term": "폭발 차단기 (Flame Arrestor)",
+    "definition": "배관 내부 화염 전파를 물리적으로 막아 설비 전반의 폭발 확산을 방지하는 장치.",
+    "category": "화학설비위험방지기술",
+    "filename": "dictionary_audio_115.mp3"
+  },
+  {
+    "rowid": 116,
+    "term": "질소퍼지 (Nitrogen Purging)",
+    "definition": "용기·배관 내 산소·가연성 가스를 치환하기 위해 질소를 주입하는 작업.",
+    "category": "화학설비위험방지기술",
+    "filename": "dictionary_audio_116.mp3"
+  },
+  {
+    "rowid": 117,
+    "term": "안전영역 분류 (Hazardous Area Classification)",
+    "definition": "가연성 물질 존재 확률에 따라 설비 구역을 0·1·2등급 등으로 나누는 관리 절차.",
+    "category": "화학설비위험방지기술",
+    "filename": "dictionary_audio_117.mp3"
+  },
+  {
+    "rowid": 118,
+    "term": "압력상승율 (Pressure Rise Rate)",
+    "definition": "폭발 시험 시 단위 시간당 압력 증가 속도로 폭발 위험성 판단 지표.",
+    "category": "화학설비위험방지기술",
+    "filename": "dictionary_audio_118.mp3"
+  },
+  {
+    "rowid": 119,
+    "term": "열교환기 (Heat Exchanger)",
+    "definition": "두 유체 간 열을 전달해 온도를 제어하는 공정 핵심 장치.",
+    "category": "화학설비위험방지기술",
+    "filename": "dictionary_audio_119.mp3"
+  },
+  {
+    "rowid": 120,
+    "term": "부식 (Corrosion)",
+    "definition": "금속이 화학·전기화학 반응으로 파손·감량되는 현상으로 설비 누설의 주요 원인.",
+    "category": "화학설비위험방지기술",
+    "filename": "dictionary_audio_120.mp3"
+  },
+  {
+    "rowid": 121,
+    "term": "응력부식균열 (SCC)",
+    "definition": "부식 환경과 인장응력이 동시에 작용해 발생하는 미세 균열 파괴.",
+    "category": "화학설비위험방지기술",
+    "filename": "dictionary_audio_121.mp3"
+  },
+  {
+    "rowid": 122,
+    "term": "내압시험 (Hydrostatic Test)",
+    "definition": "압력용기에 물을 채우고 설계압력 이상을 가해 기밀·강도를 점검하는 검사.",
+    "category": "화학설비위험방지기술",
+    "filename": "dictionary_audio_122.mp3"
+  },
+  {
+    "rowid": 123,
+    "term": "기밀시험 (Pneumatic Test)",
+    "definition": "압축 공기·질소 등을 주입해 용기나 배관의 누설 여부를 확인하는 시험.",
+    "category": "화학설비위험방지기술",
+    "filename": "dictionary_audio_123.mp3"
+  },
+  {
+    "rowid": 124,
+    "term": "작업허가서 (Work Permit)",
+    "definition": "위험 작업 전 안전 조건·책임자를 명시하고 승인받는 문서 제도.",
+    "category": "화학설비위험방지기술",
+    "filename": "dictionary_audio_124.mp3"
+  },
+  {
+    "rowid": 125,
+    "term": "밀폐공간 (Confined Space)",
+    "definition": "통풍이 불량하고 가스·산소 결핍 위험이 있는 제한된 출입 공간.",
+    "category": "화학설비위험방지기술",
+    "filename": "dictionary_audio_125.mp3"
+  },
+  {
+    "rowid": 126,
+    "term": "산소결핍 (Oxygen Deficiency)",
+    "definition": "공기 중 산소 농도가 18% 미만으로 떨어져 질식 위험이 있는 상태.",
+    "category": "화학설비위험방지기술",
+    "filename": "dictionary_audio_126.mp3"
+  },
+  {
+    "rowid": 127,
+    "term": "질식위험성 평가",
+    "definition": "밀폐공간 산소농도·유해가스 농도를 분석해 질식 가능성을 판단하는 절차.",
+    "category": "화학설비위험방지기술",
+    "filename": "dictionary_audio_127.mp3"
+  },
+  {
+    "rowid": 128,
+    "term": "안전문화 (Safety Culture)",
+    "definition": "조직 구성원의 안전에 대한 가치·태도가 공유돼 행동으로 나타나는 집합적 특징.",
+    "category": "화학설비위험방지기술",
+    "filename": "dictionary_audio_128.mp3"
+  },
+  {
+    "rowid": 129,
+    "term": "위험성평가 (Risk Assessment)",
+    "definition": "위험 요인을 파악하고 발생 확률·결과를 분석해 수용 가능 여부를 결정하는 체계.",
+    "category": "화학설비위험방지기술",
+    "filename": "dictionary_audio_129.mp3"
+  },
+  {
+    "rowid": 130,
+    "term": "HAZOP (Hazard and Operability Study)",
+    "definition": "단어 가이드를 사용해 공정 편차와 위험성을 체계적으로 도출·검토하는 기법.",
+    "category": "화학설비위험방지기술",
+    "filename": "dictionary_audio_130.mp3"
+  },
+  {
+    "rowid": 131,
+    "term": "LOPA (Layer of Protection Analysis)",
+    "definition": "다중 방호계층의 독립성을 고려해 사고 빈도를 정량평가하는 중간 수준 기법.",
+    "category": "화학설비위험방지기술",
+    "filename": "dictionary_audio_131.mp3"
+  },
+  {
+    "rowid": 132,
+    "term": "SIL (Safety Integrity Level)",
+    "definition": "안전계장시스템이 요구 기능을 수행할 확률을 계량화한 신뢰성 등급.",
+    "category": "화학설비위험방지기술",
+    "filename": "dictionary_audio_132.mp3"
+  },
+  {
+    "rowid": 133,
+    "term": "안전계장시스템 (SIS)",
+    "definition": "프로세스 이상 시 자동으로 안전 동작을 수행해 위험을 허용 가능한 수준으로 낮추는 제어 시스템.",
+    "category": "화학설비위험방지기술",
+    "filename": "dictionary_audio_133.mp3"
+  },
+  {
+    "rowid": 134,
+    "term": "방호벽 (Blast Wall)",
+    "definition": "폭발 압력·파편으로부터 인원·설비를 보호하기 위한 구조물.",
+    "category": "화학설비위험방지기술",
+    "filename": "dictionary_audio_134.mp3"
+  },
+  {
+    "rowid": 135,
+    "term": "격리밸브 (Emergency Isolation Valve)",
+    "definition": "비상 시 유해물질 유출을 신속 차단하기 위해 자동 또는 수동으로 닫히는 밸브.",
+    "category": "화학설비위험방지기술",
+    "filename": "dictionary_audio_135.mp3"
+  },
+  {
+    "rowid": 136,
+    "term": "이중격벽 탱크 (Double-Walled Tank)",
+    "definition": "내·외벽 두 겹 구조로 누출 시 외벽이 2차 방어 역할을 하는 저장탱크.",
+    "category": "화학설비위험방지기술",
+    "filename": "dictionary_audio_136.mp3"
+  },
+  {
+    "rowid": 137,
+    "term": "드레인 시스템 (Drain System)",
+    "definition": "배관·탱크 바닥의 액체를 안전하게 회수·배출하기 위한 배수 설비.",
+    "category": "화학설비위험방지기술",
+    "filename": "dictionary_audio_137.mp3"
+  },
+  {
+    "rowid": 138,
+    "term": "정전기 제거봉 (Ionizing Bar)",
+    "definition": "대전된 분진·필름 등에서 이온을 방사해 정전기를 중화시키는 장치.",
+    "category": "화학설비위험방지기술",
+    "filename": "dictionary_audio_138.mp3"
+  },
+  {
+    "rowid": 139,
+    "term": "화염검지기 (Flame Detector)",
+    "definition": "적외선·자외선 등을 감지해 화재 발생을 즉시 인지하는 탐지기.",
+    "category": "화학설비위험방지기술",
+    "filename": "dictionary_audio_139.mp3"
+  },
+  {
+    "rowid": 140,
+    "term": "스프링클러 시스템",
+    "definition": "화재 시 열감지로 자동 개방돼 물을 살수하는 고정식 소화설비.",
+    "category": "화학설비위험방지기술",
+    "filename": "dictionary_audio_140.mp3"
+  },
+  {
+    "rowid": 141,
+    "term": "포소화설비 (Foam System)",
+    "definition": "액체 화재에서 거품막을 형성해 산소 차단·재발화 방지하는 소화 방식.",
+    "category": "화학설비위험방지기술",
+    "filename": "dictionary_audio_141.mp3"
+  },
+  {
+    "rowid": 142,
+    "term": "분말소화기 (Dry Chemical Extinguisher)",
+    "definition": "미세 분말이 화학반응·열 차단으로 화염을 억제하는 휴대용 소화기.",
+    "category": "화학설비위험방지기술",
+    "filename": "dictionary_audio_142.mp3"
+  },
+  {
+    "rowid": 143,
+    "term": "이산화탄소 소화기",
+    "definition": "CO₂ 가스로 산소 농도를 낮추고 냉각해 불을 끄는 소화기.",
+    "category": "화학설비위험방지기술",
+    "filename": "dictionary_audio_143.mp3"
+  },
+  {
+    "rowid": 144,
+    "term": "방폭등 (Explosion-Proof Lighting)",
+    "definition": "방폭 등급이 필요한 구역에서 사용되는 불꽃 차단형 조명 기구.",
+    "category": "화학설비위험방지기술",
+    "filename": "dictionary_audio_144.mp3"
+  },
+  {
+    "rowid": 145,
+    "term": "결로 (Condensation)",
+    "definition": "표면 온도가 이슬점 이하일 때 수분이 액화되어 부식·화학반응을 촉진하는 현상.",
+    "category": "화학설비위험방지기술",
+    "filename": "dictionary_audio_145.mp3"
+  },
+  {
+    "rowid": 146,
+    "term": "배관응력해석 (Pipe Stress Analysis)",
+    "definition": "온도·압력·외력에 의한 배관 변형·응력을 계산해 파손을 방지하는 설계 작업.",
+    "category": "화학설비위험방지기술",
+    "filename": "dictionary_audio_146.mp3"
+  },
+  {
+    "rowid": 147,
+    "term": "피로파괴 (Fatigue Failure)",
+    "definition": "반복 응력에 의한 균열 성장으로 금속이 허용 응력 이하에서도 파손되는 현상.",
+    "category": "화학설비위험방지기술",
+    "filename": "dictionary_audio_147.mp3"
+  },
+  {
+    "rowid": 148,
+    "term": "API 653",
+    "definition": "강재 저장탱크 검사·수리·개조·재건설에 대한 미국석유협회 표준.",
+    "category": "화학설비위험방지기술",
+    "filename": "dictionary_audio_148.mp3"
+  },
+  {
+    "rowid": 149,
+    "term": "API 650",
+    "definition": "대형 용접 강제 저장탱크 설계·제작 기준을 규정한 표준.",
+    "category": "화학설비위험방지기술",
+    "filename": "dictionary_audio_149.mp3"
+  },
+  {
+    "rowid": 150,
+    "term": "API 570",
+    "definition": "배관 검사·수리·등급 판정을 위한 석유화학 배관 무결성 관리 표준.",
+    "category": "화학설비위험방지기술",
+    "filename": "dictionary_audio_150.mp3"
+  },
+  {
+    "rowid": 151,
+    "term": "프로세스안전관리 (PSM)",
+    "definition": "화학물질 공정의 중대사고 예방을 위한 종합적 관리 체계.",
+    "category": "화학설비위험방지기술",
+    "filename": "dictionary_audio_151.mp3"
+  },
+  {
+    "rowid": 152,
+    "term": "인화점 (Flash Point)",
+    "definition": "액체가 가연성 증기를 충분히 발생시켜 점화원이 있으면 순간 발화되는 최저 온도.",
+    "category": "화학설비위험방지기술",
+    "filename": "dictionary_audio_152.mp3"
+  },
+  {
+    "rowid": 153,
+    "term": "자연발화점 (Auto-Ignition Temperature)",
+    "definition": "점화원 없이 공기 중에서 스스로 발화하는 최저 온도.",
+    "category": "화학설비위험방지기술",
+    "filename": "dictionary_audio_153.mp3"
+  },
+  {
+    "rowid": 154,
+    "term": "폭발압력 (Explosion Pressure)",
+    "definition": "밀폐 공간에서 가스·분진 폭발 시 순간적으로 발생하는 최고 압력.",
+    "category": "화학설비위험방지기술",
+    "filename": "dictionary_audio_154.mp3"
+  },
+  {
+    "rowid": 155,
+    "term": "펌프시일 (Pump Seal)",
+    "definition": "펌프 회전체와 고정체 사이의 누설을 방지하는 메커니컬 장치.",
+    "category": "화학설비위험방지기술",
+    "filename": "dictionary_audio_155.mp3"
+  },
+  {
+    "rowid": 156,
+    "term": "가스블랭킷 (Gas Blanketing)",
+    "definition": "탱크 상부 공간에 질소 등 불활성 기체를 유지해 인화·폭발 위험을 줄이는 기법.",
+    "category": "화학설비위험방지기술",
+    "filename": "dictionary_audio_156.mp3"
+  },
+  {
+    "rowid": 157,
+    "term": "사고수습계획 (Emergency Response Plan)",
+    "definition": "화재·폭발·누출 등 비상사태 발생 시 대응 절차·책임을 규정한 계획.",
+    "category": "화학설비위험방지기술",
+    "filename": "dictionary_audio_157.mp3"
+  },
+  {
+    "rowid": 158,
+    "term": "잔류응력 (Residual Stress)",
+    "definition": "제조·용접·가공 후 외부 하중 없이도 재료 내부에 남아있는 응력.",
+    "category": "화학설비위험방지기술",
+    "filename": "dictionary_audio_158.mp3"
+  },
+  {
+    "rowid": 159,
+    "term": "위험도 행렬 (Risk Matrix)",
+    "definition": "사고의 빈도와 중대성을 교차시켜 위험 등급을 시각화하는 도구.",
+    "category": "화학설비위험방지기술",
+    "filename": "dictionary_audio_159.mp3"
+  },
+  {
+    "rowid": 160,
+    "term": "분진폭발 (Dust Explosion)",
+    "definition": "가연성 분말이 공기 중 부유 상태에서 점화원에 의해 폭발적으로 연소하는 현상.",
+    "category": "화학설비위험방지기술",
+    "filename": "dictionary_audio_160.mp3"
+  },
+  {
+    "rowid": 161,
+    "term": "분진폭발지수 (Kst)",
+    "definition": "분진 폭발 시 압력 상승 속도를 나타내는 지수로 폭발성을 분류하는 기준.",
+    "category": "화학설비위험방지기술",
+    "filename": "dictionary_audio_161.mp3"
+  },
+  {
+    "rowid": 162,
+    "term": "분산모델링",
+    "definition": "가스·증기·냄새 등이 누출 후 대기로 확산되는 농도 분포를 예측하는 기법.",
+    "category": "화학설비위험방지기술",
+    "filename": "dictionary_audio_162.mp3"
+  },
+  {
+    "rowid": 163,
+    "term": "피난경로 (Evacuation Route)",
+    "definition": "비상시 인원이 안전지역으로 신속 대피할 수 있도록 확보·표시된 통로.",
+    "category": "화학설비위험방지기술",
+    "filename": "dictionary_audio_163.mp3"
+  },
+  {
+    "rowid": 164,
+    "term": "황화수소 (H₂S)",
+    "definition": "맹독성·가연성 기체로 저농도에서도 후각이 마비되어 질식·폭발 위험이 큰 가스.",
+    "category": "화학설비위험방지기술",
+    "filename": "dictionary_audio_164.mp3"
+  },
+  {
+    "rowid": 165,
+    "term": "암모니아 누출",
+    "definition": "독성과 부식성이 강한 암모니아가 배관·탱크에서 유출되어 인명·설비에 피해를 주는 사고.",
+    "category": "화학설비위험방지기술",
+    "filename": "dictionary_audio_165.mp3"
+  },
+  {
+    "rowid": 166,
+    "term": "MSDS (물질안전보건자료)",
+    "definition": "화학물질의 위험·유해성과 취급 방법을 기술한 법적 문서.",
+    "category": "화학설비위험방지기술",
+    "filename": "dictionary_audio_166.mp3"
+  },
+  {
+    "rowid": 167,
+    "term": "재해사례 학습 (Lessons Learned)",
+    "definition": "과거 사고 원인·교훈을 분석해 재발을 방지하고 안전성을 향상하는 활동.",
+    "category": "화학설비위험방지기술",
+    "filename": "dictionary_audio_167.mp3"
+  },
+  {
+    "rowid": 168,
+    "term": "가스흐름차단장치 (Excess Flow Valve)",
+    "definition": "배관 파손 등으로 급격한 유량 증가 시 자동으로 닫혀 누출을 최소화하는 밸브.",
+    "category": "화학설비위험방지기술",
+    "filename": "dictionary_audio_168.mp3"
+  },
+  {
+    "rowid": 169,
+    "term": "Cool Down Curve",
+    "definition": "저온 설비 시운전 시 온도 강하 속도를 기록한 곡선으로 균열 방지를 위한 지표.",
+    "category": "화학설비위험방지기술",
+    "filename": "dictionary_audio_169.mp3"
+  },
+  {
+    "rowid": 170,
+    "term": "운전정지 절차 (Shutdown Procedure)",
+    "definition": "공정·설비를 안전하게 정지하기 위한 단계별 지침.",
+    "category": "화학설비위험방지기술",
+    "filename": "dictionary_audio_170.mp3"
+  },
+  {
+    "rowid": 171,
+    "term": "스윙 체크밸브 (Swing Check Valve)",
+    "definition": "유체 역류를 방지하기 위해 한쪽 방향으로만 개폐되는 밸브.",
+    "category": "화학설비위험방지기술",
+    "filename": "dictionary_audio_171.mp3"
+  },
+  {
+    "rowid": 172,
+    "term": "트랩 (Steam Trap)",
+    "definition": "스팀 시스템에서 응축수를 제거하고 증기는 유지하는 자동 밸브.",
+    "category": "화학설비위험방지기술",
+    "filename": "dictionary_audio_172.mp3"
+  },
+  {
+    "rowid": 173,
+    "term": "밸브시트 누설율",
+    "definition": "밸브 닫힘 상태에서 허용되는 미세 누설 유량을 등급화한 지표.",
+    "category": "화학설비위험방지기술",
+    "filename": "dictionary_audio_173.mp3"
+  },
+  {
+    "rowid": 174,
+    "term": "PTFE 라이닝",
+    "definition": "배관·밸브 내부를 불소수지로 코팅해 부식·점착을 방지하는 처리.",
+    "category": "화학설비위험방지기술",
+    "filename": "dictionary_audio_174.mp3"
+  },
+  {
+    "rowid": 175,
+    "term": "캐비테이션 (Cavitation)",
+    "definition": "펌프 내부 압력이 증기압 이하로 떨어져 발생한 기포가 붕괴되며 소음·손상을 주는 현상.",
+    "category": "화학설비위험방지기술",
+    "filename": "dictionary_audio_175.mp3"
+  },
+  {
+    "rowid": 176,
+    "term": "슬러지 (Sludge)",
+    "definition": "탱크·배관 바닥에 침전된 고형물 혼합물로 부식·막힘을 유발.",
+    "category": "화학설비위험방지기술",
+    "filename": "dictionary_audio_176.mp3"
+  },
+  {
+    "rowid": 177,
+    "term": "가열코일 (Heating Coil)",
+    "definition": "탱크 내부 유체를 가열하기 위해 설치하는 코일형 열교환 장치.",
+    "category": "화학설비위험방지기술",
+    "filename": "dictionary_audio_177.mp3"
+  },
+  {
+    "rowid": 178,
+    "term": "보일오버 (Boil-over)",
+    "definition": "탱크 화재 시 탱크 바닥 물층이 급격히 기화하며 내용물이 분출되는 현상.",
+    "category": "화학설비위험방지기술",
+    "filename": "dictionary_audio_178.mp3"
+  },
+  {
+    "rowid": 179,
+    "term": "무인운전 (Unattended Operation)",
+    "definition": "자동제어·모니터링으로 현장 인력 없이 운영되는 설비 운전 방식.",
+    "category": "화학설비위험방지기술",
+    "filename": "dictionary_audio_179.mp3"
+  },
+  {
+    "rowid": 180,
+    "term": "원심펌프 시동",
+    "definition": "펌프 내 공기 제거 후 일정 유량·압력 도달까지 수행되는 안전 시동 절차.",
+    "category": "화학설비위험방지기술",
+    "filename": "dictionary_audio_180.mp3"
+  },
+  {
+    "rowid": 181,
+    "term": "PSV 블로우다운",
+    "definition": "안전밸브 개방 후 닫힘까지 압력이 떨어지는 백분율로 설정 압력 대비 값.",
+    "category": "화학설비위험방지기술",
+    "filename": "dictionary_audio_181.mp3"
+  },
+  {
+    "rowid": 182,
+    "term": "배관스펀지 청소",
+    "definition": "고무 스펀지를 압송하여 배관 내 이물질을 제거하는 내부 세정 방식.",
+    "category": "화학설비위험방지기술",
+    "filename": "dictionary_audio_182.mp3"
+  },
+  {
+    "rowid": 183,
+    "term": "슬립 플랜지 (Slip-on Flange)",
+    "definition": "배관을 관통시켜 용접하는 형식의 플랜지로 저압 배관에 주로 사용.",
+    "category": "화학설비위험방지기술",
+    "filename": "dictionary_audio_183.mp3"
+  },
+  {
+    "rowid": 184,
+    "term": "누설감지액 (Leak Detector Solution)",
+    "definition": "접합부에 도포해 기포로 가스 누설 여부를 확인하는 액체.",
+    "category": "화학설비위험방지기술",
+    "filename": "dictionary_audio_184.mp3"
+  },
+  {
+    "rowid": 185,
+    "term": "사일런싱 시스템 (Silencing System)",
+    "definition": "플레어·배기관 등에서 소음을 감쇠해 주변 환경 영향을 줄이는 설비.",
+    "category": "화학설비위험방지기술",
+    "filename": "dictionary_audio_185.mp3"
+  },
+  {
+    "rowid": 186,
+    "term": "압력스너버 (Pressure Snubber)",
+    "definition": "급격한 압력 변화를 완화해 계측기의 손상을 방지하는 댐핑 장치.",
+    "category": "화학설비위험방지기술",
+    "filename": "dictionary_audio_186.mp3"
+  },
+  {
+    "rowid": 187,
+    "term": "온도퓨즈 (Thermal Fuse)",
+    "definition": "설정 온도 초과 시 회로를 차단해 과열을 방지하는 단일 작동 장치.",
+    "category": "화학설비위험방지기술",
+    "filename": "dictionary_audio_187.mp3"
+  },
+  {
+    "rowid": 188,
+    "term": "탱크붕괴 (Tank Collapse)",
+    "definition": "내·외부 압력차, 부식, 기초 침하 등으로 저장탱크가 구조적으로 파손되는 사고.",
+    "category": "화학설비위험방지기술",
+    "filename": "dictionary_audio_188.mp3"
+  },
+  {
+    "rowid": 189,
+    "term": "탱크부력 (Tank Buoyancy)",
+    "definition": "홍수 등으로 탱크 외부에 물이 차올라 탱크가 뜨려는 힘.",
+    "category": "화학설비위험방지기술",
+    "filename": "dictionary_audio_189.mp3"
+  },
+  {
+    "rowid": 190,
+    "term": "배관사이폰 (Siphon)",
+    "definition": "액체를 높은 위치에서 낮은 위치로 흘려보내기 위한 U자형 배관 구조.",
+    "category": "화학설비위험방지기술",
+    "filename": "dictionary_audio_190.mp3"
+  },
+  {
+    "rowid": 191,
+    "term": "안전원칙 ALARP",
+    "definition": "As Low As Reasonably Practicable 원칙으로 위험을 실현 가능한 최소 수준으로 감소시킨다는 개념.",
+    "category": "화학설비위험방지기술",
+    "filename": "dictionary_audio_191.mp3"
+  },
+  {
+    "rowid": 192,
+    "term": "가스프리 작업 (Gas-free Work)",
+    "definition": "용기·배관 내 가연성 가스가 허용 농도 이하로 제거된 상태에서 수행하는 작업.",
+    "category": "화학설비위험방지기술",
+    "filename": "dictionary_audio_192.mp3"
+  },
+  {
+    "rowid": 193,
+    "term": "작업위험성 분석 (JSA)",
+    "definition": "작업 단계를 분류해 잠재 위험을 식별하고 예방조치를 수립하는 도구.",
+    "category": "화학설비위험방지기술",
+    "filename": "dictionary_audio_193.mp3"
+  },
+  {
+    "rowid": 194,
+    "term": "복합재료 압력용기",
+    "definition": "섬유강화 플라스틱 등 복합재로 제작되어 경량·내식성을 가진 압력용기.",
+    "category": "화학설비위험방지기술",
+    "filename": "dictionary_audio_194.mp3"
+  },
+  {
+    "rowid": 195,
+    "term": "음향방출 검사 (AE Test)",
+    "definition": "재료 내부 균열·결함에서 발생하는 고주파 탄성파를 분석해 손상을 평가하는 비파괴검사.",
+    "category": "화학설비위험방지기술",
+    "filename": "dictionary_audio_195.mp3"
+  },
+  {
+    "rowid": 196,
+    "term": "초음파 두께측정 (UT Thickness)",
+    "definition": "초음파를 이용해 금속 벽두께를 비파괴로 측정해 부식 상태를 평가.",
+    "category": "화학설비위험방지기술",
+    "filename": "dictionary_audio_196.mp3"
+  },
+  {
+    "rowid": 197,
+    "term": "모세관현상 누유",
+    "definition": "배관 나사 틈새 등 미세 공간에서 액체가 표면장력으로 스며나오는 현상.",
+    "category": "화학설비위험방지기술",
+    "filename": "dictionary_audio_197.mp3"
+  },
+  {
+    "rowid": 198,
+    "term": "온도보상계 (Temperature Compensator)",
+    "definition": "온도 변화에 따른 압력·유량 계측 오차를 자동 보정하는 장치.",
+    "category": "화학설비위험방지기술",
+    "filename": "dictionary_audio_198.mp3"
+  },
+  {
+    "rowid": 199,
+    "term": "피팅 (Pipe Fitting)",
+    "definition": "배관을 연결·변경·종단 처리하기 위한 엘보, 티, 리듀서 등의 부속류.",
+    "category": "화학설비위험방지기술",
+    "filename": "dictionary_audio_199.mp3"
+  },
+  {
+    "rowid": 200,
+    "term": "연결플랜지 토크",
+    "definition": "플랜지 볼트 체결 시 패킹 압축·누설방지에 필요한 회전력 값.",
+    "category": "화학설비위험방지기술",
+    "filename": "dictionary_audio_200.mp3"
+  },
+  {
+    "rowid": 201,
+    "term": "배관지지대 (Pipe Support)",
+    "definition": "배관의 하중·열팽창을 지지·흡수해 변형을 제한하는 구조물.",
+    "category": "화학설비위험방지기술",
+    "filename": "dictionary_audio_201.mp3"
+  },
+  {
+    "rowid": 202,
+    "term": "스팀블로잉 (Steam Blowing)",
+    "definition": "고속 스팀으로 배관 내 용접슬래그·이물질을 제거하는 세정 작업.",
+    "category": "화학설비위험방지기술",
+    "filename": "dictionary_audio_202.mp3"
+  },
+  {
+    "rowid": 203,
+    "term": "라인워킹 (Line Walking)",
+    "definition": "운전 중 배관·장치를 시각·청각·후각으로 점검하며 누설·진동 여부를 확인하는 순찰.",
+    "category": "화학설비위험방지기술",
+    "filename": "dictionary_audio_203.mp3"
+  },
+  {
+    "rowid": 204,
+    "term": "사고빈도 (Event Frequency)",
+    "definition": "특정 사고 시나리오가 단위 기간당 발생할 확률.",
+    "category": "화학설비위험방지기술",
+    "filename": "dictionary_audio_204.mp3"
+  },
+  {
+    "rowid": 205,
+    "term": "HzS (하이드로젠 설파이드)",
+    "definition": "황화수소의 화학식으로 독성과 부식성이 강한 기체.",
+    "category": "화학설비위험방지기술",
+    "filename": "dictionary_audio_205.mp3"
+  },
+  {
+    "rowid": 206,
+    "term": "질산화물 (NOx)",
+    "definition": "연소 과정에서 발생하는 질소산화물로 독성·폭발성을 가질 수 있는 가스군.",
+    "category": "화학설비위험방지기술",
+    "filename": "dictionary_audio_206.mp3"
+  },
+  {
+    "rowid": 207,
+    "term": "VOC 회수장치",
+    "definition": "揮발성유기화합물 증기를 냉각·흡착 등으로 포집해 대기배출을 줄이는 설비.",
+    "category": "화학설비위험방지기술",
+    "filename": "dictionary_audio_207.mp3"
+  },
+  {
+    "rowid": 208,
+    "term": "망간철 중독",
+    "definition": "망간 화합물에 장기간 노출돼 신경계 손상이 발생하는 직업병.",
+    "category": "화학설비위험방지기술",
+    "filename": "dictionary_audio_208.mp3"
+  },
+  {
+    "rowid": 209,
+    "term": "도핑 장치 (Dosing System)",
+    "definition": "화학약품을 정량 공급해 공정 반응을 제어하는 설비.",
+    "category": "화학설비위험방지기술",
+    "filename": "dictionary_audio_209.mp3"
+  },
+  {
+    "rowid": 210,
+    "term": "슬러리 펌프 (Slurry Pump)",
+    "definition": "고형물이 포함된 유체를 이송하도록 특수 설계된 펌프.",
+    "category": "화학설비위험방지기술",
+    "filename": "dictionary_audio_210.mp3"
+  },
+  {
+    "rowid": 211,
+    "term": "배관코핑 (Pipe Capping)",
+    "definition": "공사 종료 전 임시로 배관 끝단을 막아 이물·습기 유입을 방지하는 작업.",
+    "category": "화학설비위험방지기술",
+    "filename": "dictionary_audio_211.mp3"
+  },
+  {
+    "rowid": 212,
+    "term": "사고영향반경 (Impact Radius)",
+    "definition": "폭발·누출 사고 발생 시 인명·재산 피해가 예상되는 거리 범위.",
+    "category": "화학설비위험방지기술",
+    "filename": "dictionary_audio_212.mp3"
+  },
+  {
+    "rowid": 213,
+    "term": "트리플 셸 원자로",
+    "definition": "반응기 내벽을 세 겹으로 제작해 고압·부식 환경에서 안전성을 강화한 장치.",
+    "category": "화학설비위험방지기술",
+    "filename": "dictionary_audio_213.mp3"
+  },
+  {
+    "rowid": 214,
+    "term": "교반기 토크 과부하",
+    "definition": "점도 상승 등으로 교반기 모터가 허용 토크를 초과하는 위험 상태.",
+    "category": "화학설비위험방지기술",
+    "filename": "dictionary_audio_214.mp3"
+  },
+  {
+    "rowid": 215,
+    "term": "보일러수 처리 (Boiler Water Treatment)",
+    "definition": "부식·스케일·거품 방지를 위해 보일러 수질을 화학적으로 관리하는 공정.",
+    "category": "화학설비위험방지기술",
+    "filename": "dictionary_audio_215.mp3"
+  },
+  {
+    "rowid": 216,
+    "term": "냉각탑 드리프트",
+    "definition": "냉각탑에서 미세 물방울이 대기로 비산해 화학물질 오염·부식원을 제공하는 현상.",
+    "category": "화학설비위험방지기술",
+    "filename": "dictionary_audio_216.mp3"
+  },
+  {
+    "rowid": 217,
+    "term": "패스라인 (Pass Line)",
+    "definition": "생산 공정 배관·케이블 등이 통과하는 지정된 경로로 안전·정리를 위해 구획화.",
+    "category": "화학설비위험방지기술",
+    "filename": "dictionary_audio_217.mp3"
+  },
+  {
+    "rowid": 218,
+    "term": "유량교정 (Flow Calibration)",
+    "definition": "유량계의 정확도를 확인·조정해 공정 제어의 신뢰성을 확보하는 작업.",
+    "category": "화학설비위험방지기술",
+    "filename": "dictionary_audio_218.mp3"
+  },
+  {
+    "rowid": 219,
+    "term": "시운전 (Commissioning)",
+    "definition": "설비 설치 후 최초 가동 전 기능·안전성·성능을 검증하는 절차.",
+    "category": "화학설비위험방지기술",
+    "filename": "dictionary_audio_219.mp3"
+  },
+  {
+    "rowid": 220,
+    "term": "운전지원 시스템 (OMS)",
+    "definition": "운영 및 유지보수 정보를 통합해 설비 신뢰성과 안전을 향상하는 관리 플랫폼.",
+    "category": "화학설비위험방지기술",
+    "filename": "dictionary_audio_220.mp3"
+  },
+  {
+    "rowid": 221,
+    "term": "가스혼합비 제어",
+    "definition": "다성분 가스의 혼합 비율을 정확히 조절해 폭발·품질 위험을 방지하는 기술.",
+    "category": "화학설비위험방지기술",
+    "filename": "dictionary_audio_221.mp3"
+  },
+  {
+    "rowid": 222,
+    "term": "이동식 탱크 로리 (Tank Lorry)",
+    "definition": "액체 화학물질을 도로 운반하는 차량으로 전도·충돌 시 대량 누출 위험이 존재.",
+    "category": "화학설비위험방지기술",
+    "filename": "dictionary_audio_222.mp3"
+  },
+  {
+    "rowid": 223,
+    "term": "해체공정 안전 (Decommissioning Safety)",
+    "definition": "사용 종료 설비를 철거·세척·폐기할 때 화학·기계적 위험을 관리하는 절차.",
+    "category": "화학설비위험방지기술",
+    "filename": "dictionary_audio_223.mp3"
+  },
+  {
+    "rowid": 224,
+    "term": "PCM (Process Control Manual)",
+    "definition": "공정 운전·제어 파라미터, 안전 한계를 상세 기술한 운영 매뉴얼.",
+    "category": "화학설비위험방지기술",
+    "filename": "dictionary_audio_224.mp3"
+  },
+  {
+    "rowid": 225,
+    "term": "폐열회수 보일러 (HRSG)",
+    "definition": "공정 배가스를 이용해 스팀을 생성하는 열 회수 설비.",
+    "category": "화학설비위험방지기술",
+    "filename": "dictionary_audio_225.mp3"
+  },
+  {
+    "rowid": 226,
+    "term": "압력경감장치 (Pressure Relief Device)",
+    "definition": "설비 압력 초과 시 자동으로 개방해 과압을 방출하는 모든 종류의 장치 총칭.",
+    "category": "화학설비위험방지기술",
+    "filename": "dictionary_audio_226.mp3"
+  },
+  {
+    "rowid": 227,
+    "term": "붕괴압 (Collapse Pressure)",
+    "definition": "배관·튜브가 외압에 의해 좌굴·파단되는 임계 압력.",
+    "category": "화학설비위험방지기술",
+    "filename": "dictionary_audio_227.mp3"
+  },
+  {
+    "rowid": 228,
+    "term": "HDPE 라이너",
+    "definition": "고밀도 폴리에틸렌 시트로 콘크리트·강재 내부를 덮어 부식을 방지하는 피막.",
+    "category": "화학설비위험방지기술",
+    "filename": "dictionary_audio_228.mp3"
+  },
+  {
+    "rowid": 229,
+    "term": "작업중지권 (Stop-Work Authority)",
+    "definition": "위험 작업 시 근로자가 즉시 작업을 중단할 수 있는 권한과 책임.",
+    "category": "화학설비위험방지기술",
+    "filename": "dictionary_audio_229.mp3"
+  },
+  {
+    "rowid": 230,
+    "term": "혼합기 폭발 (Mixer Explosion)",
+    "definition": "점화원이 있는 상태에서 가연성 분말·용제가 혼합 중 폭발적으로 연소하는 사고.",
+    "category": "화학설비위험방지기술",
+    "filename": "dictionary_audio_230.mp3"
+  },
+  {
+    "rowid": 231,
+    "term": "연속식 반응기 (CSTR)",
+    "definition": "교반 상태에서 원료가 연속 투입·배출되는 반응기로 열·압력 위험 관리가 필수.",
+    "category": "화학설비위험방지기술",
+    "filename": "dictionary_audio_231.mp3"
+  },
+  {
+    "rowid": 232,
+    "term": "접지 (Grounding)",
+    "definition": "전기 설비의 도전성 부분을 대지에 연결하여 고장 시 전위를 안정시키고 인체 감전 및 화재 위험을 줄이는 기술.",
+    "category": "전기위험방지기술",
+    "filename": "dictionary_audio_232.mp3"
+  },
+  {
+    "rowid": 233,
+    "term": "등전위 본딩 (Equipotential Bonding)",
+    "definition": "설비 내 도전성 부품을 도선으로 상호 연결해 전위 차를 없애 감전·아크 위험을 최소화하는 보호 방법.",
+    "category": "전기위험방지기술",
+    "filename": "dictionary_audio_233.mp3"
+  },
+  {
+    "rowid": 234,
+    "term": "절연 저항 (Insulation Resistance)",
+    "definition": "도전부와 대지 또는 서로 다른 전위간 절연 성능을 수치화한 값으로, 낮을수록 누전 및 감전 위험이 커짐.",
+    "category": "전기위험방지기술",
+    "filename": "dictionary_audio_234.mp3"
+  },
+  {
+    "rowid": 235,
+    "term": "차동 누전 차단기 (Residual Current Device, RCD)",
+    "definition": "선로의 통전 전류와 귀선 전류 차이를 검출해 일정 값 이상이면 즉시 차단하여 감전·화재를 방지하는 보호기기.",
+    "category": "전기위험방지기술",
+    "filename": "dictionary_audio_235.mp3"
+  },
+  {
+    "rowid": 236,
+    "term": "누전 차단기 (Earth Leakage Circuit Breaker, ELB)",
+    "definition": "잔류 누설전류가 설정치를 초과하면 회로를 자동 차단하여 간접 접촉 사고와 화재를 막는 스위치형 보호장치.",
+    "category": "전기위험방지기술",
+    "filename": "dictionary_audio_236.mp3"
+  },
+  {
+    "rowid": 237,
+    "term": "과전류 보호장치 (Overcurrent Protective Device, OCPD)",
+    "definition": "정격 전류를 초과하는 과부하·단락 전류를 검출해 회로를 분리함으로써 배선 과열과 아크 화재를 방지하는 장비.",
+    "category": "전기위험방지기술",
+    "filename": "dictionary_audio_237.mp3"
+  },
+  {
+    "rowid": 238,
+    "term": "퓨즈 (Fuse)",
+    "definition": "정해진 용단 전류를 넘으면 금속 소자 가열·용단으로 회로를 개방하여 설비를 보호하는 1회용 과전류 장치.",
+    "category": "전기위험방지기술",
+    "filename": "dictionary_audio_238.mp3"
+  },
+  {
+    "rowid": 239,
+    "term": "차단기 (Circuit Breaker)",
+    "definition": "재폐로 가능한 스위치 기능과 과전류 트립 장치를 갖추어 고장 전류를 차단하고 설비·인명을 보호하는 기기.",
+    "category": "전기위험방지기술",
+    "filename": "dictionary_audio_239.mp3"
+  },
+  {
+    "rowid": 240,
+    "term": "차단기 트립 곡선 (Trip Curve)",
+    "definition": "과전류 크기와 차단기 트립 시간을 그래프로 표현한 자료로, 보호 조정과 계전 협조 설계에 활용된다.",
+    "category": "전기위험방지기술",
+    "filename": "dictionary_audio_240.mp3"
+  },
+  {
+    "rowid": 241,
+    "term": "아크 플래시 (Arc Flash)",
+    "definition": "고장 시 전로 간 공기 절연이 파괴되며 발생하는 고온·고압 전기 아크 폭발 현상으로 심각한 화상과 설비 손상을 초래한다.",
+    "category": "전기위험방지기술",
+    "filename": "dictionary_audio_241.mp3"
+  },
+  {
+    "rowid": 242,
+    "term": "아크 플래시 경계 (Arc Flash Boundary)",
+    "definition": "사고 시 1.2 cal/cm² 이상의 열에너지가 도달하는 거리로, 작업자는 경계 밖에서 또는 적절한 PPE를 착용 후 안에서 작업해야 한다.",
+    "category": "전기위험방지기술",
+    "filename": "dictionary_audio_242.mp3"
+  },
+  {
+    "rowid": 243,
+    "term": "아크에너지 (Incident Energy)",
+    "definition": "아크 플래시로부터 단위 면적에 전달되는 열에너지로, PPE 등급 및 경계 설정의 기준이 되는 값이다.",
+    "category": "전기위험방지기술",
+    "filename": "dictionary_audio_243.mp3"
+  },
+  {
+    "rowid": 244,
+    "term": "아크 방호 복 (Arc-Rated Clothing)",
+    "definition": "아크 플래시 열·화염을 견디도록 설계되어 일정 열에너지까지 착용자를 보호하는 개인 보호구.",
+    "category": "전기위험방지기술",
+    "filename": "dictionary_audio_244.mp3"
+  },
+  {
+    "rowid": 245,
+    "term": "정격 절연 (Insulation Class)",
+    "definition": "절연 재료가 허용하는 최대 온도 상승 범주로, 장시간 운전 시 절연 열화로 인한 고장을 예방하기 위해 사용된다.",
+    "category": "전기위험방지기술",
+    "filename": "dictionary_audio_245.mp3"
+  },
+  {
+    "rowid": 246,
+    "term": "절연 파괴 전압 (Dielectric Strength)",
+    "definition": "절연체가 전기적으로 파괴되기 전까지 견딜 수 있는 최대 전압으로, 고전압 설계와 시험 기준이 된다.",
+    "category": "전기위험방지기술",
+    "filename": "dictionary_audio_246.mp3"
+  },
+  {
+    "rowid": 247,
+    "term": "부분 방전 (Partial Discharge)",
+    "definition": "절연 내 국부적 결함에서 발생하는 미소 방전으로, 반복되면 절연 열화·파괴를 유발하므로 진단이 필요하다.",
+    "category": "전기위험방지기술",
+    "filename": "dictionary_audio_247.mp3"
+  },
+  {
+    "rowid": 248,
+    "term": "누설 전류 (Leakage Current)",
+    "definition": "정상 절연 상태에서도 대지나 인체로 흐르는 미소 전류로, 기준치를 넘으면 감전 위험이 증가한다.",
+    "category": "전기위험방지기술",
+    "filename": "dictionary_audio_248.mp3"
+  },
+  {
+    "rowid": 249,
+    "term": "접촉 전압 (Touch Voltage)",
+    "definition": "사람이 도전성 부위와 대지를 동시에 접촉할 때 체내를 통해 인체에 인가되는 전압.",
+    "category": "전기위험방지기술",
+    "filename": "dictionary_audio_249.mp3"
+  },
+  {
+    "rowid": 250,
+    "term": "보폭 전압 (Step Voltage)",
+    "definition": "대지 전류 발생 시 두 발 사이 전위차로, 낙뢰·고장 전류가 지면에 흘러 인체에 전류가 통할 수 있다.",
+    "category": "전기위험방지기술",
+    "filename": "dictionary_audio_250.mp3"
+  },
+  {
+    "rowid": 251,
+    "term": "저항 접지 (Resistance Grounding)",
+    "definition": "중성점을 저항기로 접지해 고장 전류를 제한하고 아크·기계적 스트레스를 줄이는 방식.",
+    "category": "전기위험방지기술",
+    "filename": "dictionary_audio_251.mp3"
+  },
+  {
+    "rowid": 252,
+    "term": "직접 접촉 보호 (Protection Against Direct Contact)",
+    "definition": "활선부 노출을 차단하거나 차폐해 인체가 직접 닿는 것을 방지하는 안전 대책.",
+    "category": "전기위험방지기술",
+    "filename": "dictionary_audio_252.mp3"
+  },
+  {
+    "rowid": 253,
+    "term": "간접 접촉 보호 (Protection Against Indirect Contact)",
+    "definition": "고장 시 금속 외함 등에 가해지는 전위를 제한하거나 빠르게 차단해 감전을 막는 보호 체계.",
+    "category": "전기위험방지기술",
+    "filename": "dictionary_audio_253.mp3"
+  },
+  {
+    "rowid": 254,
+    "term": "로크아웃 태그아웃 (Lockout-Tagout, LOTO)",
+    "definition": "에너지 격리 후 잠금·표지로 기기 오작동을 방지하여 작업 중 예상치 못한 재통전을 막는 절차.",
+    "category": "전기위험방지기술",
+    "filename": "dictionary_audio_254.mp3"
+  },
+  {
+    "rowid": 255,
+    "term": "무전압 확인 (Absence of Voltage Verification)",
+    "definition": "작업 전 검전기로 회로의 전압 유무를 검사해 '제로 에너지 상태'를 확인하는 필수 단계.",
+    "category": "전기위험방지기술",
+    "filename": "dictionary_audio_255.mp3"
+  },
+  {
+    "rowid": 256,
+    "term": "안전 작업 허가서 (Work Permit)",
+    "definition": "위험 전기 작업 전 승인·안전조치를 문서화하여 관리하는 제도.",
+    "category": "전기위험방지기술",
+    "filename": "dictionary_audio_256.mp3"
+  },
+  {
+    "rowid": 257,
+    "term": "제한 접근 경계 (Restricted Approach Boundary)",
+    "definition": "고전압 부위 근접 시 감전 위험이 높아 특수 PPE와 절차가 요구되는 거리 한계선.",
+    "category": "전기위험방지기술",
+    "filename": "dictionary_audio_257.mp3"
+  },
+  {
+    "rowid": 258,
+    "term": "금지 접근 경계 (Prohibited Approach Boundary)",
+    "definition": "실질적으로 활선 접촉과 동일한 위험 수준으로 간주되어 작업 금지 또는 전원 차단이 필요한 거리.",
+    "category": "전기위험방지기술",
+    "filename": "dictionary_audio_258.mp3"
+  },
+  {
+    "rowid": 259,
+    "term": "제한 접근 거리 (Limited Approach Boundary)",
+    "definition": "전기 설비에 대한 비숙련자의 최소 근접 가능 거리로, 교육받은 인력만 접근할 수 있다.",
+    "category": "전기위험방지기술",
+    "filename": "dictionary_audio_259.mp3"
+  },
+  {
+    "rowid": 260,
+    "term": "절연 공구 (Insulated Tools)",
+    "definition": "손잡이 부에 절연 처리를 하여 활선 접촉 시 전류 전이를 차단하는 공구.",
+    "category": "전기위험방지기술",
+    "filename": "dictionary_audio_260.mp3"
+  },
+  {
+    "rowid": 261,
+    "term": "전기 안전 장갑 (Rubber Insulating Gloves)",
+    "definition": "정격 전압별로 시험된 절연 고무 장갑으로, 활선 작업 시 감전 보호를 제공한다.",
+    "category": "전기위험방지기술",
+    "filename": "dictionary_audio_261.mp3"
+  },
+  {
+    "rowid": 262,
+    "term": "절연 매트 (Insulating Mat)",
+    "definition": "분전반·고압반 전면 바닥에 깔아 누설전류·접촉 전압으로부터 작업자를 보호하는 절연 시트.",
+    "category": "전기위험방지기술",
+    "filename": "dictionary_audio_262.mp3"
+  },
+  {
+    "rowid": 263,
+    "term": "안전 캡 (Insulating Cap)",
+    "definition": "배전선 활선 작업 시 도전성 볼트를 가려 접촉 위험을 줄이는 절연 커버.",
+    "category": "전기위험방지기술",
+    "filename": "dictionary_audio_263.mp3"
+  },
+  {
+    "rowid": 264,
+    "term": "절연 신발 (Dielectric Shoes)",
+    "definition": "바닥·갑피 절연 재질로 제작되어 대지 전류가 인체를 통하는 것을 방지하는 안전화.",
+    "category": "전기위험방지기술",
+    "filename": "dictionary_audio_264.mp3"
+  },
+  {
+    "rowid": 265,
+    "term": "안전 표지판 (Safety Signage)",
+    "definition": "전기 위험 구역·전격 등을 시각적으로 경고하여 무단 접근을 막는 표지 체계.",
+    "category": "전기위험방지기술",
+    "filename": "dictionary_audio_265.mp3"
+  },
+  {
+    "rowid": 266,
+    "term": "전압 탐지기 (Voltage Detector)",
+    "definition": "전선·설비에 비접촉 또는 접촉 방식으로 전압 존재 여부를 알려주는 측정기.",
+    "category": "전기위험방지기술",
+    "filename": "dictionary_audio_266.mp3"
+  },
+  {
+    "rowid": 267,
+    "term": "근접 전압 경보기 (Proximity Voltage Alarm)",
+    "definition": "근접 시 음향·광으로 활선을 경고해 크레인·중장비 충돌 사고를 예방하는 장치.",
+    "category": "전기위험방지기술",
+    "filename": "dictionary_audio_267.mp3"
+  },
+  {
+    "rowid": 268,
+    "term": "정전기 방전 (Electrostatic Discharge, ESD)",
+    "definition": "축적된 정전하가 순간 방전되며 전자기기 손상 및 화재를 일으킬 수 있는 현상.",
+    "category": "전기위험방지기술",
+    "filename": "dictionary_audio_268.mp3"
+  },
+  {
+    "rowid": 269,
+    "term": "정전기 접지 (Static Grounding)",
+    "definition": "액체 이송·분말 취급 시 정전하를 대지로 방전해 점화원을 제거하는 안전 조치.",
+    "category": "전기위험방지기술",
+    "filename": "dictionary_audio_269.mp3"
+  },
+  {
+    "rowid": 270,
+    "term": "전자기장 노출 (EMF Exposure)",
+    "definition": "고전류·고전압 설비 주변에서의 인체 전자기파 흡수로 인한 잠재적 건강 위험.",
+    "category": "전기위험방지기술",
+    "filename": "dictionary_audio_270.mp3"
+  },
+  {
+    "rowid": 271,
+    "term": "전자파 적합성 (Electromagnetic Compatibility, EMC)",
+    "definition": "설비가 전자파 간섭을 발생·수신하지 않도록 설계해 오동작·안전사고를 방지하는 기술.",
+    "category": "전기위험방지기술",
+    "filename": "dictionary_audio_271.mp3"
+  },
+  {
+    "rowid": 272,
+    "term": "고조파 왜곡 (Harmonic Distortion)",
+    "definition": "비선형 부하로 인해 전류·전압 파형에 기초 주파수의 정수배가 포함돼 과열, 오동작을 유발하는 현상.",
+    "category": "전기위험방지기술",
+    "filename": "dictionary_audio_272.mp3"
+  },
+  {
+    "rowid": 273,
+    "term": "총 고조파 왜곡률 (Total Harmonic Distortion, THD)",
+    "definition": "기본파 대비 고조파 RMS의 백분율로, 전력 품질과 설비 열화 평가 지표로 사용된다.",
+    "category": "전기위험방지기술",
+    "filename": "dictionary_audio_273.mp3"
+  },
+  {
+    "rowid": 274,
+    "term": "서지 보호 장치 (Surge Protection Device, SPD)",
+    "definition": "낙뢰·개폐 서지로 인한 과도 전압을 흡수·방전하여 기기 손상을 방지한다.",
+    "category": "전기위험방지기술",
+    "filename": "dictionary_audio_274.mp3"
+  },
+  {
+    "rowid": 275,
+    "term": "낙뢰 보호 시스템 (Lightning Protection System)",
+    "definition": "피뢰침·도체·접지로 구성되어 뇌격 전류를 안전하게 대지로 방전하는 설비.",
+    "category": "전기위험방지기술",
+    "filename": "dictionary_audio_275.mp3"
+  },
+  {
+    "rowid": 276,
+    "term": "피뢰침 (Air Terminal)",
+    "definition": "건물 최상부에 설치되어 낙뢰를 우선 포획해 도선으로 전류를 안내하는 금속봉.",
+    "category": "전기위험방지기술",
+    "filename": "dictionary_audio_276.mp3"
+  },
+  {
+    "rowid": 277,
+    "term": "접지 저항 측정 (Ground Resistance Testing)",
+    "definition": "전극과 대지 접촉 저항을 측정해 접지 성능을 검증·유지하기 위한 시험.",
+    "category": "전기위험방지기술",
+    "filename": "dictionary_audio_277.mp3"
+  },
+  {
+    "rowid": 278,
+    "term": "토양 저항률 (Soil Resistivity)",
+    "definition": "대지 내 전류 흐름에 대한 저항 특성으로, 접지 설계 시 전극 깊이·갯수를 결정하는 요소.",
+    "category": "전기위험방지기술",
+    "filename": "dictionary_audio_278.mp3"
+  },
+  {
+    "rowid": 279,
+    "term": "낙뢰 전류 (Lightning Current)",
+    "definition": "낙뢰 시 수십~수백 kA 규모로 흐르는 전류로, 과전압·아크·화재를 유발한다.",
+    "category": "전기위험방지기술",
+    "filename": "dictionary_audio_279.mp3"
+  },
+  {
+    "rowid": 280,
+    "term": "절연 감시 장치 (Insulation Monitoring Device, IMD)",
+    "definition": "IT 시스템 등에서 절연 저항을 지속 감시해 고장 전 미리 경보하는 보호 장비.",
+    "category": "전기위험방지기술",
+    "filename": "dictionary_audio_280.mp3"
+  },
+  {
+    "rowid": 281,
+    "term": "고장 루프 임피던스 (Fault Loop Impedance)",
+    "definition": "고장 회로의 전체 임피던스로, 낮을수록 차단기 동작 시간이 짧아 감전·화재 위험이 감소한다.",
+    "category": "전기위험방지기술",
+    "filename": "dictionary_audio_281.mp3"
+  },
+  {
+    "rowid": 282,
+    "term": "차단 전류 (Prospective Short-Circuit Current)",
+    "definition": "단락 발생 시 임피던스가 0이라 가정할 때 흐를 수 있는 최대 전류로, 보호기기 정격 선정에 필수다.",
+    "category": "전기위험방지기술",
+    "filename": "dictionary_audio_282.mp3"
+  },
+  {
+    "rowid": 283,
+    "term": "계전기 설정 (Relay Coordination)",
+    "definition": "다단 보호계전기가 오·미동작 없이 순차적으로 차단되도록 한류·시간값을 맞추는 작업.",
+    "category": "전기위험방지기술",
+    "filename": "dictionary_audio_283.mp3"
+  },
+  {
+    "rowid": 284,
+    "term": "선택 보호 (Selectivity)",
+    "definition": "고장 구간만 차단해 광범위 정전을 방지하고 안전성을 높이는 보호 시스템 설계 원칙.",
+    "category": "전기위험방지기술",
+    "filename": "dictionary_audio_284.mp3"
+  },
+  {
+    "rowid": 285,
+    "term": "백업 보호 (Backup Protection)",
+    "definition": "주 보호계전기가 실패할 때 인접 계전기가 고장을 차단하도록 중복성을 부여한 계획.",
+    "category": "전기위험방지기술",
+    "filename": "dictionary_audio_285.mp3"
+  },
+  {
+    "rowid": 286,
+    "term": "절연 협조 (Insulation Coordination)",
+    "definition": "기기의 절연 강도·설치 간격을 시스템 과전압 특성과 맞춰 절연 파괴를 예방하는 설계 기술.",
+    "category": "전기위험방지기술",
+    "filename": "dictionary_audio_286.mp3"
+  },
+  {
+    "rowid": 287,
+    "term": "연면 거리 (Creepage Distance)",
+    "definition": "절연물 표면을 따라 측정한 도전부 간 최소 거리로, 오염·습기 환경에서 트래킹을 방지한다.",
+    "category": "전기위험방지기술",
+    "filename": "dictionary_audio_287.mp3"
+  },
+  {
+    "rowid": 288,
+    "term": "공기 거리 (Clearance)",
+    "definition": "공기 중 직선으로 측정한 절연 간격으로, 건전 상태에서 전압 인가 시 절연 파괴를 방지한다.",
+    "category": "전기위험방지기술",
+    "filename": "dictionary_audio_288.mp3"
+  },
+  {
+    "rowid": 289,
+    "term": "과전압 등급 (Overvoltage Category)",
+    "definition": "기기의 예상 과전압 수준을 I~IV로 구분해 내부 절연 요구를 정의한 분류.",
+    "category": "전기위험방지기술",
+    "filename": "dictionary_audio_289.mp3"
+  },
+  {
+    "rowid": 290,
+    "term": "이중 절연 (Double Insulation)",
+    "definition": "기본 절연 외 추가 절연을 더해 고장 한계 시에도 사용자를 보호하는 설계 개념.",
+    "category": "전기위험방지기술",
+    "filename": "dictionary_audio_290.mp3"
+  },
+  {
+    "rowid": 291,
+    "term": "보강 절연 (Reinforced Insulation)",
+    "definition": "단일 절연으로 이중 절연과 동등한 보호를 제공하는 고성능 절연 형태.",
+    "category": "전기위험방지기술",
+    "filename": "dictionary_audio_291.mp3"
+  },
+  {
+    "rowid": 292,
+    "term": "기본 절연 (Basic Insulation)",
+    "definition": "정상 상태에서 사용자 보호를 위해 필요한 최소 절연층.",
+    "category": "전기위험방지기술",
+    "filename": "dictionary_audio_292.mp3"
+  },
+  {
+    "rowid": 293,
+    "term": "기능 절연 (Functional Insulation)",
+    "definition": "장치의 정상 작동에 필요하지만 인체 보호 기능은 없는 절연으로, 추가 보호 조치가 요구된다.",
+    "category": "전기위험방지기술",
+    "filename": "dictionary_audio_293.mp3"
+  },
+  {
+    "rowid": 294,
+    "term": "차단기 등급 (Interrupting Rating)",
+    "definition": "차단기가 안전하게 개방할 수 있는 최대 고장 전류로, 예상 단락 전류보다 높게 선정해야 한다.",
+    "category": "전기위험방지기술",
+    "filename": "dictionary_audio_294.mp3"
+  },
+  {
+    "rowid": 295,
+    "term": "과전압 (Overvoltage)",
+    "definition": "정격을 초과한 전압 상태로, 절연 파괴·설비 손상·감전 위험을 유발한다.",
+    "category": "전기위험방지기술",
+    "filename": "dictionary_audio_295.mp3"
+  },
+  {
+    "rowid": 296,
+    "term": "과전압 보호 (Overvoltage Protection)",
+    "definition": "SPD, 차단기, 계전기로 순간·지속 전압 상승을 제한해 기기를 보호하는 종합 대책.",
+    "category": "전기위험방지기술",
+    "filename": "dictionary_audio_296.mp3"
+  },
+  {
+    "rowid": 297,
+    "term": "저전압 (Undervoltage)",
+    "definition": "정격 전압 이하로 떨어진 상태로, 모터 과열·계전 오동작을 초래하며 안전 기능에 영향을 준다.",
+    "category": "전기위험방지기술",
+    "filename": "dictionary_audio_297.mp3"
+  },
+  {
+    "rowid": 298,
+    "term": "저전압 방지 장치 (Undervoltage Release)",
+    "definition": "전압이 기준 이하로 감소하면 차단기를 트립시켜 기기 손상 및 안전사고를 예방한다.",
+    "category": "전기위험방지기술",
+    "filename": "dictionary_audio_298.mp3"
+  },
+  {
+    "rowid": 299,
+    "term": "전압 강하 (Voltage Drop)",
+    "definition": "배선 임피던스에 따른 전압 손실로, 과도하면 기기 오작동·과열·화재 위험을 초래한다.",
+    "category": "전기위험방지기술",
+    "filename": "dictionary_audio_299.mp3"
+  },
+  {
+    "rowid": 300,
+    "term": "전압 딥 (Voltage Dip)",
+    "definition": "전압이 짧은 시간 급락하는 현상으로, 보호 계전·인버터 오동작을 유발할 수 있다.",
+    "category": "전기위험방지기술",
+    "filename": "dictionary_audio_300.mp3"
+  },
+  {
+    "rowid": 301,
+    "term": "전력 품질 (Power Quality)",
+    "definition": "전압, 주파수, 파형 등이 규정 범위 내에 유지되는 정도로, 안전·가동 신뢰성에 직접적 영향을 준다.",
+    "category": "전기위험방지기술",
+    "filename": "dictionary_audio_301.mp3"
+  },
+  {
+    "rowid": 302,
+    "term": "무정전 전원 장치 (Uninterruptible Power Supply, UPS)",
+    "definition": "정전 시 즉시 배터리 전원을 공급해 중요 설비를 보호하고 데이터 손실·재기동 위험을 줄인다.",
+    "category": "전기위험방지기술",
+    "filename": "dictionary_audio_302.mp3"
+  },
+  {
+    "rowid": 303,
+    "term": "절연 변압기 (Isolating Transformer)",
+    "definition": "1차·2차 전기적 절연으로 직접 접촉 위험을 감소시키고 노이즈 차단 기능을 제공하는 변압기.",
+    "category": "전기위험방지기술",
+    "filename": "dictionary_audio_303.mp3"
+  },
+  {
+    "rowid": 304,
+    "term": "제로 시퀀스 전류 (Zero Sequence Current)",
+    "definition": "3상 전류 불평형이나 지락 시 생성되는 동상 전류로, 보호계전기의 지락 검출 파라미터로 사용된다.",
+    "category": "전기위험방지기술",
+    "filename": "dictionary_audio_304.mp3"
+  },
+  {
+    "rowid": 305,
+    "term": "잔류 전압 (Residual Voltage)",
+    "definition": "차단 후 회로 또는 커패시터에 잔존하는 전압으로, 방전 조치 없이 접근 시 감전 위험이 있다.",
+    "category": "전기위험방지기술",
+    "filename": "dictionary_audio_305.mp3"
+  },
+  {
+    "rowid": 306,
+    "term": "유도 전압 (Induced Voltage)",
+    "definition": "인접 활선의 전자유도에 의해 무전압 회로에 발생하는 전압으로, 접지·방전에 의해 관리한다.",
+    "category": "전기위험방지기술",
+    "filename": "dictionary_audio_306.mp3"
+  },
+  {
+    "rowid": 307,
+    "term": "중성선 접지 저항기 (Neutral Grounding Resistor, NGR)",
+    "definition": "발전기·변압기 중성점에 직렬 삽입되어 지락 전류를 제한하고 기계적 손상을 줄인다.",
+    "category": "전기위험방지기술",
+    "filename": "dictionary_audio_307.mp3"
+  },
+  {
+    "rowid": 308,
+    "term": "고임피던스 접지 (High-Impedance Grounding)",
+    "definition": "대전류 지락을 방지하기 위해 중성점에 높은 저항을 삽입해 전압 변동·아크 위험을 줄이는 방식.",
+    "category": "전기위험방지기술",
+    "filename": "dictionary_audio_308.mp3"
+  },
+  {
+    "rowid": 309,
+    "term": "저임피던스 접지 (Low-Impedance Grounding)",
+    "definition": "지락 전류를 일정 수준 허용해 보호계전기 신속 동작을 도모하는 접지 방식.",
+    "category": "전기위험방지기술",
+    "filename": "dictionary_audio_309.mp3"
+  },
+  {
+    "rowid": 310,
+    "term": "TN 시스템 (TN System)",
+    "definition": "전원 중성점과 노출 도전성 부위를 공통 PE/PEN으로 접지한 계통으로, 고장 시 차단기 빠른 동작이 필요하다.",
+    "category": "전기위험방지기술",
+    "filename": "dictionary_audio_310.mp3"
+  },
+  {
+    "rowid": 311,
+    "term": "TT 시스템 (TT System)",
+    "definition": "전원 중성점과 설비 노출 도전부를 각각 독립 접지한 계통으로, 누전 차단기 사용이 필수적이다.",
+    "category": "전기위험방지기술",
+    "filename": "dictionary_audio_311.mp3"
+  },
+  {
+    "rowid": 312,
+    "term": "IT 시스템 (IT System)",
+    "definition": "전원 중성점을 절연하거나 고임피던스로 접지해 1차 지락 시 공급을 유지하고 IMD로 감시하는 계통.",
+    "category": "전기위험방지기술",
+    "filename": "dictionary_audio_312.mp3"
+  },
+  {
+    "rowid": 313,
+    "term": "총노출선 (PEN Conductor)",
+    "definition": "중성선과 보호도체 기능을 겸하는 도체로, 연속성 확보와 절연 손상 시 위험이 커 주의가 필요하다.",
+    "category": "전기위험방지기술",
+    "filename": "dictionary_audio_313.mp3"
+  },
+  {
+    "rowid": 314,
+    "term": "보호 도체 (Protective Conductor, PE)",
+    "definition": "누전·지락 시 고장 전류를 안전하게 대지로 반환해 인체 감전을 방지하는 전용 도선.",
+    "category": "전기위험방지기술",
+    "filename": "dictionary_audio_314.mp3"
+  },
+  {
+    "rowid": 315,
+    "term": "접지 전극 (Earth Electrode)",
+    "definition": "접지 저항을 낮추기 위해 대지에 매설된 금속봉·플레이트·메시 등으로, 전류를 분산 방전한다.",
+    "category": "전기위험방지기술",
+    "filename": "dictionary_audio_315.mp3"
+  },
+  {
+    "rowid": 316,
+    "term": "주 접지 단자 (Main Earthing Terminal)",
+    "definition": "설비 내 모든 보호도체·접지 도체를 집결해 접지 시스템 연속성을 확보하는 접속 지점.",
+    "category": "전기위험방지기술",
+    "filename": "dictionary_audio_316.mp3"
+  },
+  {
+    "rowid": 317,
+    "term": "등전위 바 (Equipotential Bonding Bar)",
+    "definition": "기기·배관·철골 등을 결합해 등전위를 형성, 번개·고장 시 전위 상승을 균등 분배한다.",
+    "category": "전기위험방지기술",
+    "filename": "dictionary_audio_317.mp3"
+  },
+  {
+    "rowid": 318,
+    "term": "거리안전 작업 (Live-Line Working Distance)",
+    "definition": "활선 상태에서 유지·보수 시 절연봉 등 이용해 안전 거리를 확보하는 작업 기법.",
+    "category": "전기위험방지기술",
+    "filename": "dictionary_audio_318.mp3"
+  },
+  {
+    "rowid": 319,
+    "term": "고전압 (High Voltage)",
+    "definition": "일반적으로 교류 1kV·직류 1.5kV 초과 전압 영역으로, 절연·접근 기준이 강화된다.",
+    "category": "전기위험방지기술",
+    "filename": "dictionary_audio_319.mp3"
+  },
+  {
+    "rowid": 320,
+    "term": "저전압 (Low Voltage)",
+    "definition": "교류 50–1000V 범위로, 가정·산업 설비에서 주로 사용되지만 감전 위험은 여전히 존재한다.",
+    "category": "전기위험방지기술",
+    "filename": "dictionary_audio_320.mp3"
+  },
+  {
+    "rowid": 321,
+    "term": "초고전압 (Extra-High Voltage)",
+    "definition": "교류 345kV 이상 전송 계통 전압으로, 전기적 스트레스와 전자기 환경 영향이 극대화된다.",
+    "category": "전기위험방지기술",
+    "filename": "dictionary_audio_321.mp3"
+  },
+  {
+    "rowid": 322,
+    "term": "무장애 작동 (Fail-Safe Operation)",
+    "definition": "고장 발생 시 안전한 상태로 자동 전환하여 인명·설비 피해를 최소화하는 설계 철학.",
+    "category": "전기위험방지기술",
+    "filename": "dictionary_audio_322.mp3"
+  },
+  {
+    "rowid": 323,
+    "term": "상실 전원 (Loss of Supply)",
+    "definition": "공급 전원 상실 상태로, 비상 조명·UPS 등 안전 기능 작동이 중요하다.",
+    "category": "전기위험방지기술",
+    "filename": "dictionary_audio_323.mp3"
+  },
+  {
+    "rowid": 324,
+    "term": "인터록 장치 (Interlock Device)",
+    "definition": "개폐기·문 등이 순차적으로만 작동하도록 기계적·전기적 연동을 제공해 오조작을 방지한다.",
+    "category": "전기위험방지기술",
+    "filename": "dictionary_audio_324.mp3"
+  },
+  {
+    "rowid": 325,
+    "term": "개폐기 (Disconnect Switch)",
+    "definition": "무부하 상태에서 회로를 격리하여 유지보수 시 안전한 작업 환경을 제공하는 스위치.",
+    "category": "전기위험방지기술",
+    "filename": "dictionary_audio_325.mp3"
+  },
+  {
+    "rowid": 326,
+    "term": "절연 개폐기 (Load Break Switch)",
+    "definition": "정격 부하 전류를 안전하게 차단할 수 있으며 활선 노출 없이 분리 작업이 가능한 개폐 장치.",
+    "category": "전기위험방지기술",
+    "filename": "dictionary_audio_326.mp3"
+  },
+  {
+    "rowid": 327,
+    "term": "송수전 점검 (Maintenance Testing)",
+    "definition": "변전설비 차단기·계전기·절연 상태를 정기 점검해 고장을 예방하고 안전 신뢰성을 확보한다.",
+    "category": "전기위험방지기술",
+    "filename": "dictionary_audio_327.mp3"
+  },
+  {
+    "rowid": 328,
+    "term": "작업 위험 분석 (Job Safety Analysis, JSA)",
+    "definition": "작업 단계를 세분화해 잠재 위험을 식별·대책을 수립함으로써 사고를 예방하는 절차.",
+    "category": "전기위험방지기술",
+    "filename": "dictionary_audio_328.mp3"
+  },
+  {
+    "rowid": 329,
+    "term": "위험 평가 (Risk Assessment)",
+    "definition": "위험성(빈도×중대성)을 정량·정성 분석하여 우선순위를 정하고 제어 대책을 마련하는 활동.",
+    "category": "전기위험방지기술",
+    "filename": "dictionary_audio_329.mp3"
+  },
+  {
+    "rowid": 330,
+    "term": "사고 경험 학습 (Lessons Learned)",
+    "definition": "과거 전기 사고의 원인·대응을 분석해 조직 전반에 공유, 재발 방지를 도모하는 관리 기법.",
+    "category": "전기위험방지기술",
+    "filename": "dictionary_audio_330.mp3"
+  },
+  {
+    "rowid": 331,
+    "term": "전기안전관리자 (Electrical Safety Manager)",
+    "definition": "전기 설비의 안전 운영·유지보수·교육·법규 준수를 총괄하며 사고 예방 책임을 지는 전문가.",
+    "category": "전기위험방지기술",
+    "filename": "dictionary_audio_331.mp3"
+  },
+  {
+    "rowid": 332,
+    "term": "낙하물 방지망",
+    "definition": "고소 작업 시 공구나 자재의 추락을 방지하기 위해 설치하는 그물형 보호장치.",
+    "category": "건설안전기술",
+    "filename": "dictionary_audio_332.mp3"
+  },
+  {
+    "rowid": 333,
+    "term": "동바리",
+    "definition": "콘크리트 거푸집의 하중을 지지하기 위해 세우는 가설 지주.",
+    "category": "건설안전기술",
+    "filename": "dictionary_audio_333.mp3"
+  },
+  {
+    "rowid": 334,
+    "term": "비계",
+    "definition": "작업자가 고소에서 이동·작업할 수 있도록 설치하는 가설 구조물.",
+    "category": "건설안전기술",
+    "filename": "dictionary_audio_334.mp3"
+  },
+  {
+    "rowid": 335,
+    "term": "작업발판",
+    "definition": "비계나 구조물 위에 작업자가 서는 평평한 판.",
+    "category": "건설안전기술",
+    "filename": "dictionary_audio_335.mp3"
+  },
+  {
+    "rowid": 336,
+    "term": "안전난간",
+    "definition": "추락을 막기 위해 가장자리나 개구부에 설치하는 난간 구조.",
+    "category": "건설안전기술",
+    "filename": "dictionary_audio_336.mp3"
+  },
+  {
+    "rowid": 337,
+    "term": "가설통로",
+    "definition": "현장 내 안전한 이동을 위해 임시로 설치하는 보행 통로.",
+    "category": "건설안전기술",
+    "filename": "dictionary_audio_337.mp3"
+  },
+  {
+    "rowid": 338,
+    "term": "추락방지대",
+    "definition": "개구부 주변에 설치하여 인원 및 자재의 추락을 막는 방호대.",
+    "category": "건설안전기술",
+    "filename": "dictionary_audio_338.mp3"
+  },
+  {
+    "rowid": 339,
+    "term": "안전대(풀 하니스)",
+    "definition": "추락 시 신체를 지지하도록 설계된 전신형 추락 보호구.",
+    "category": "건설안전기술",
+    "filename": "dictionary_audio_339.mp3"
+  },
+  {
+    "rowid": 340,
+    "term": "개인보호구(PPE)",
+    "definition": "근로자를 위험요인으로부터 보호하기 위해 착용하는 장비 및 복장.",
+    "category": "건설안전기술",
+    "filename": "dictionary_audio_340.mp3"
+  },
+  {
+    "rowid": 341,
+    "term": "안전모",
+    "definition": "머리 부위를 낙하물 및 충격으로부터 보호하는 보호구.",
+    "category": "건설안전기술",
+    "filename": "dictionary_audio_341.mp3"
+  },
+  {
+    "rowid": 342,
+    "term": "안전화",
+    "definition": "발 부위를 눌림·찔림 등 위험으로부터 보호하는 신발.",
+    "category": "건설안전기술",
+    "filename": "dictionary_audio_342.mp3"
+  },
+  {
+    "rowid": 343,
+    "term": "안전장갑",
+    "definition": "손을 절단·마찰·화학물질 등으로부터 보호하는 장갑.",
+    "category": "건설안전기술",
+    "filename": "dictionary_audio_343.mp3"
+  },
+  {
+    "rowid": 344,
+    "term": "방진마스크",
+    "definition": "분진 흡입을 줄이기 위해 착용하는 필터형 호흡 보호구.",
+    "category": "건설안전기술",
+    "filename": "dictionary_audio_344.mp3"
+  },
+  {
+    "rowid": 345,
+    "term": "방독마스크",
+    "definition": "유해가스나 증기를 제거하기 위한 정화통 부착 호흡 보호구.",
+    "category": "건설안전기술",
+    "filename": "dictionary_audio_345.mp3"
+  },
+  {
+    "rowid": 346,
+    "term": "귀마개",
+    "definition": "고소음 환경에서 청력 손실을 예방하기 위해 귀에 삽입하는 보호구.",
+    "category": "건설안전기술",
+    "filename": "dictionary_audio_346.mp3"
+  },
+  {
+    "rowid": 347,
+    "term": "보안경",
+    "definition": "비산물이나 화학약품으로부터 눈을 보호하는 안경식 보호구.",
+    "category": "건설안전기술",
+    "filename": "dictionary_audio_347.mp3"
+  },
+  {
+    "rowid": 348,
+    "term": "안전표지",
+    "definition": "위험·주의 사항을 시각적으로 알리는 표지판이나 스티커.",
+    "category": "건설안전기술",
+    "filename": "dictionary_audio_348.mp3"
+  },
+  {
+    "rowid": 349,
+    "term": "위험예지훈련(KYT)",
+    "definition": "작업 전 잠재 위험을 찾아 대책을 세우는 팀별 토의 활동.",
+    "category": "건설안전기술",
+    "filename": "dictionary_audio_349.mp3"
+  },
+  {
+    "rowid": 350,
+    "term": "작업허가서(Work Permit)",
+    "definition": "고위험 작업 수행 전 승인과 안전조치를 기록한 문서.",
+    "category": "건설안전기술",
+    "filename": "dictionary_audio_350.mp3"
+  },
+  {
+    "rowid": 351,
+    "term": "위험성평가(RA)",
+    "definition": "위험요인을 식별·분석해 위험도를 정량화하고 대책을 수립하는 절차.",
+    "category": "건설안전기술",
+    "filename": "dictionary_audio_351.mp3"
+  },
+  {
+    "rowid": 352,
+    "term": "안전관리계획서",
+    "definition": "공사 전 현장 안전·보건 목표와 관리 방법을 정리한 공식 문서.",
+    "category": "건설안전기술",
+    "filename": "dictionary_audio_352.mp3"
+  },
+  {
+    "rowid": 353,
+    "term": "TBM(Tool Box Meeting)",
+    "definition": "작업 시작 전 근로자와 안전 사항을 공유하는 짧은 미팅.",
+    "category": "건설안전기술",
+    "filename": "dictionary_audio_353.mp3"
+  },
+  {
+    "rowid": 354,
+    "term": "밀폐공간",
+    "definition": "환기가 불충분해 산소결핍·유해가스 축적 위험이 있는 제한공간.",
+    "category": "건설안전기술",
+    "filename": "dictionary_audio_354.mp3"
+  },
+  {
+    "rowid": 355,
+    "term": "산소결핍",
+    "definition": "공기 중 산소 농도가 18% 미만으로 떨어져 질식 위험이 있는 상태.",
+    "category": "건설안전기술",
+    "filename": "dictionary_audio_355.mp3"
+  },
+  {
+    "rowid": 356,
+    "term": "가스측정기",
+    "definition": "산소 농도와 유해가스 농도를 실시간 측정하는 휴대형 장비.",
+    "category": "건설안전기술",
+    "filename": "dictionary_audio_356.mp3"
+  },
+  {
+    "rowid": 357,
+    "term": "환기장치",
+    "definition": "오염된 공기를 배출하고 신선한 공기를 공급하는 설비.",
+    "category": "건설안전기술",
+    "filename": "dictionary_audio_357.mp3"
+  },
+  {
+    "rowid": 358,
+    "term": "폭발방지",
+    "definition": "가연성 가스·분진 폭발을 예방하기 위한 설계 및 관리기법.",
+    "category": "건설안전기술",
+    "filename": "dictionary_audio_358.mp3"
+  },
+  {
+    "rowid": 359,
+    "term": "화재감시자",
+    "definition": "용접·절단 등 화기작업 중 화재 발생 여부를 감시하는 전담 인원.",
+    "category": "건설안전기술",
+    "filename": "dictionary_audio_359.mp3"
+  },
+  {
+    "rowid": 360,
+    "term": "소화기",
+    "definition": "초기 화재를 진압하기 위한 휴대형 소화 장비.",
+    "category": "건설안전기술",
+    "filename": "dictionary_audio_360.mp3"
+  },
+  {
+    "rowid": 361,
+    "term": "비상대피로",
+    "definition": "사고 시 근로자가 신속히 대피할 수 있도록 확보한 통로.",
+    "category": "건설안전기술",
+    "filename": "dictionary_audio_361.mp3"
+  },
+  {
+    "rowid": 362,
+    "term": "비상조명",
+    "definition": "정전 등 유사시 탈출로를 밝히기 위한 독립 전원 조명.",
+    "category": "건설안전기술",
+    "filename": "dictionary_audio_362.mp3"
+  },
+  {
+    "rowid": 363,
+    "term": "크레인",
+    "definition": "중량물 인양·이동을 위해 사용하는 기중기 장비.",
+    "category": "건설안전기술",
+    "filename": "dictionary_audio_363.mp3"
+  },
+  {
+    "rowid": 364,
+    "term": "타워크레인",
+    "definition": "고층 건축물 시공에 사용하는 고정식 회전 기중기.",
+    "category": "건설안전기술",
+    "filename": "dictionary_audio_364.mp3"
+  },
+  {
+    "rowid": 365,
+    "term": "신호수",
+    "definition": "양중 작업 시 지휘·신호를 통해 충돌 및 낙하 사고를 방지하는 인원.",
+    "category": "건설안전기술",
+    "filename": "dictionary_audio_365.mp3"
+  },
+  {
+    "rowid": 366,
+    "term": "와이어로프",
+    "definition": "인양장치에서 하중을 지지하는 강선 꼬임 형태의 로프.",
+    "category": "건설안전기술",
+    "filename": "dictionary_audio_366.mp3"
+  },
+  {
+    "rowid": 367,
+    "term": "샤클",
+    "definition": "와이어로프와 훅을 연결하는 U자형 금속 연결구.",
+    "category": "건설안전기술",
+    "filename": "dictionary_audio_367.mp3"
+  },
+  {
+    "rowid": 368,
+    "term": "체인블록",
+    "definition": "체인을 당겨 하중을 들어 올리는 수동 인양 장치.",
+    "category": "건설안전기술",
+    "filename": "dictionary_audio_368.mp3"
+  },
+  {
+    "rowid": 369,
+    "term": "하역장비",
+    "definition": "자재의 상·하역을 위해 사용하는 기계·설비의 총칭.",
+    "category": "건설안전기술",
+    "filename": "dictionary_audio_369.mp3"
+  },
+  {
+    "rowid": 370,
+    "term": "플랫폼 트럭",
+    "definition": "자재 운반용 평저 운반차.",
+    "category": "건설안전기술",
+    "filename": "dictionary_audio_370.mp3"
+  },
+  {
+    "rowid": 371,
+    "term": "지게차",
+    "definition": "포크를 이용해 팔레트 등 자재를 들어 운반하는 장비.",
+    "category": "건설안전기술",
+    "filename": "dictionary_audio_371.mp3"
+  },
+  {
+    "rowid": 372,
+    "term": "과부하방지장치",
+    "definition": "장비가 지정 하중을 초과할 때 작동을 멈추는 안전장치.",
+    "category": "건설안전기술",
+    "filename": "dictionary_audio_372.mp3"
+  },
+  {
+    "rowid": 373,
+    "term": "역타공법",
+    "definition": "흙막이 벽과 기초를 먼저 설치하고 지하층을 상향으로 시공하는 공법.",
+    "category": "건설안전기술",
+    "filename": "dictionary_audio_373.mp3"
+  },
+  {
+    "rowid": 374,
+    "term": "흙막이",
+    "definition": "굴착면 붕괴를 막기 위해 설치하는 지보 구조물.",
+    "category": "건설안전기술",
+    "filename": "dictionary_audio_374.mp3"
+  },
+  {
+    "rowid": 375,
+    "term": "버팀보(서포트)",
+    "definition": "흙막이나 구조물의 변형을 억제하기 위해 가로로 지지하는 부재.",
+    "category": "건설안전기술",
+    "filename": "dictionary_audio_375.mp3"
+  },
+  {
+    "rowid": 376,
+    "term": "어스앵커",
+    "definition": "토류판을 지반에 고정하기 위해 삽입하는 인장재.",
+    "category": "건설안전기술",
+    "filename": "dictionary_audio_376.mp3"
+  },
+  {
+    "rowid": 377,
+    "term": "굴착사면",
+    "definition": "토사를 굴착한 면; 붕괴 위험이 있어 경사와 보강이 중요하다.",
+    "category": "건설안전기술",
+    "filename": "dictionary_audio_377.mp3"
+  },
+  {
+    "rowid": 378,
+    "term": "사면안정",
+    "definition": "사면 붕괴를 방지하기 위한 설계·시공 및 관리 기술.",
+    "category": "건설안전기술",
+    "filename": "dictionary_audio_378.mp3"
+  },
+  {
+    "rowid": 379,
+    "term": "낙석방지망",
+    "definition": "절개지에서 떨어지는 암석을 차단하기 위해 설치하는 망.",
+    "category": "건설안전기술",
+    "filename": "dictionary_audio_379.mp3"
+  },
+  {
+    "rowid": 380,
+    "term": "토사붕괴",
+    "definition": "사면 또는 굴착면이 자중·우수 등으로 붕괴되는 사고.",
+    "category": "건설안전기술",
+    "filename": "dictionary_audio_380.mp3"
+  },
+  {
+    "rowid": 381,
+    "term": "물막이댐",
+    "definition": "수중 굴착 시 수위를 차단하여 건식 작업공간을 확보하는 가설 구조물.",
+    "category": "건설안전기술",
+    "filename": "dictionary_audio_381.mp3"
+  },
+  {
+    "rowid": 382,
+    "term": "수중작업",
+    "definition": "수면 아래에서 진행되는 공사로, 잠수·시야불량 등 위험이 크다.",
+    "category": "건설안전기술",
+    "filename": "dictionary_audio_382.mp3"
+  },
+  {
+    "rowid": 383,
+    "term": "잠함공법",
+    "definition": "케이슨을 지중으로 가라앉혀 기초나 구획을 만드는 시공법.",
+    "category": "건설안전기술",
+    "filename": "dictionary_audio_383.mp3"
+  },
+  {
+    "rowid": 384,
+    "term": "콘크리트양생",
+    "definition": "콘크리트가 설계 강도를 얻도록 온·습도를 유지하는 관리.",
+    "category": "건설안전기술",
+    "filename": "dictionary_audio_384.mp3"
+  },
+  {
+    "rowid": 385,
+    "term": "거푸집",
+    "definition": "콘크리트를 부어 형상을 만드는 틀.",
+    "category": "건설안전기술",
+    "filename": "dictionary_audio_385.mp3"
+  },
+  {
+    "rowid": 386,
+    "term": "거푸집동바리",
+    "definition": "거푸집에 가해지는 하중을 지지하는 수직 지주.",
+    "category": "건설안전기술",
+    "filename": "dictionary_audio_386.mp3"
+  },
+  {
+    "rowid": 387,
+    "term": "장선",
+    "definition": "거푸집 하중을 분산하기 위해 설치하는 가로보.",
+    "category": "건설안전기술",
+    "filename": "dictionary_audio_387.mp3"
+  },
+  {
+    "rowid": 388,
+    "term": "철근가공",
+    "definition": "철근 절단·절곡 등의 작업; 비산물·끼임 사고 위험이 있다.",
+    "category": "건설안전기술",
+    "filename": "dictionary_audio_388.mp3"
+  },
+  {
+    "rowid": 389,
+    "term": "가설전기",
+    "definition": "현장 임시 설비에 전기를 공급하기 위한 임시 전기설치.",
+    "category": "건설안전기술",
+    "filename": "dictionary_audio_389.mp3"
+  },
+  {
+    "rowid": 390,
+    "term": "전기접지",
+    "definition": "누전 시 전류를 대지로 흘려 감전 위험을 방지하는 설비.",
+    "category": "건설안전기술",
+    "filename": "dictionary_audio_390.mp3"
+  },
+  {
+    "rowid": 391,
+    "term": "누전차단기",
+    "definition": "절연 불량 시 전원을 빠르게 차단하여 감전·화재를 예방하는 장치.",
+    "category": "건설안전기술",
+    "filename": "dictionary_audio_391.mp3"
+  },
+  {
+    "rowid": 392,
+    "term": "과전류차단기",
+    "definition": "허용 전류를 초과하면 회로를 차단하여 설비를 보호하는 장치.",
+    "category": "건설안전기술",
+    "filename": "dictionary_audio_392.mp3"
+  },
+  {
+    "rowid": 393,
+    "term": "고소작업대",
+    "definition": "작업자를 높이 들어 올려 고소 작업을 수행하는 이동식 플랫폼.",
+    "category": "건설안전기술",
+    "filename": "dictionary_audio_393.mp3"
+  },
+  {
+    "rowid": 394,
+    "term": "이동식비계",
+    "definition": "바퀴를 부착하여 이동이 가능한 파이프 비계.",
+    "category": "건설안전기술",
+    "filename": "dictionary_audio_394.mp3"
+  },
+  {
+    "rowid": 395,
+    "term": "시스템비계",
+    "definition": "규격화된 부재를 조립해 설치하는 모듈식 비계.",
+    "category": "건설안전기술",
+    "filename": "dictionary_audio_395.mp3"
+  },
+  {
+    "rowid": 396,
+    "term": "앵커볼트",
+    "definition": "구조물 또는 안전설비를 콘크리트에 고정하기 위한 볼트.",
+    "category": "건설안전기술",
+    "filename": "dictionary_audio_396.mp3"
+  },
+  {
+    "rowid": 397,
+    "term": "인양장치",
+    "definition": "하중을 들어 올리거나 내리는 기계·설비의 총칭.",
+    "category": "건설안전기술",
+    "filename": "dictionary_audio_397.mp3"
+  },
+  {
+    "rowid": 398,
+    "term": "승강기방호울",
+    "definition": "건물 승강기 출입구에서 추락을 방지하기 위해 설치하는 방호망.",
+    "category": "건설안전기술",
+    "filename": "dictionary_audio_398.mp3"
+  },
+  {
+    "rowid": 399,
+    "term": "개구부덮개",
+    "definition": "바닥이나 데크의 구멍을 덮어 추락을 방지하는 판.",
+    "category": "건설안전기술",
+    "filename": "dictionary_audio_399.mp3"
+  },
+  {
+    "rowid": 400,
+    "term": "작업등",
+    "definition": "야간 또는 암부에서 시야 확보를 위해 사용하는 조명.",
+    "category": "건설안전기술",
+    "filename": "dictionary_audio_400.mp3"
+  },
+  {
+    "rowid": 401,
+    "term": "이동식사다리",
+    "definition": "휴대가 가능하며 각도·길이를 조절할 수 있는 사다리.",
+    "category": "건설안전기술",
+    "filename": "dictionary_audio_401.mp3"
+  },
+  {
+    "rowid": 402,
+    "term": "작업사다리각도",
+    "definition": "사다리 설치 시 안정성을 확보하기 위한 추천 각도(4:1).",
+    "category": "건설안전기술",
+    "filename": "dictionary_audio_402.mp3"
+  },
+  {
+    "rowid": 403,
+    "term": "파쇄기(브레이커)",
+    "definition": "암반·콘크리트를 파쇄하는 공구; 비산물·소음 위험이 있다.",
+    "category": "건설안전기술",
+    "filename": "dictionary_audio_403.mp3"
+  },
+  {
+    "rowid": 404,
+    "term": "소음측정기",
+    "definition": "현장 소음도를 측정해 노출 기준을 관리하는 계측기.",
+    "category": "건설안전기술",
+    "filename": "dictionary_audio_404.mp3"
+  },
+  {
+    "rowid": 405,
+    "term": "진동관리",
+    "definition": "기계·발파 등으로 발생하는 진동을 평가·저감하는 활동.",
+    "category": "건설안전기술",
+    "filename": "dictionary_audio_405.mp3"
+  },
+  {
+    "rowid": 406,
+    "term": "분진폭발",
+    "definition": "가연성 분진이 공기 중에 부유해 발화원에 점화될 때 일어나는 폭발.",
+    "category": "건설안전기술",
+    "filename": "dictionary_audio_406.mp3"
+  },
+  {
+    "rowid": 407,
+    "term": "화학물질관리",
+    "definition": "유해 화학품의 취급·보관·표지·비상대응을 포함한 관리체계.",
+    "category": "건설안전기술",
+    "filename": "dictionary_audio_407.mp3"
+  },
+  {
+    "rowid": 408,
+    "term": "근골격계질환예방",
+    "definition": "반복·중량 작업으로 인한 근골격계 부담을 줄이는 대책.",
+    "category": "건설안전기술",
+    "filename": "dictionary_audio_408.mp3"
+  },
+  {
+    "rowid": 409,
+    "term": "중량물취급",
+    "definition": "인력 또는 기계로 무거운 자재를 이동·적재하는 작업.",
+    "category": "건설안전기술",
+    "filename": "dictionary_audio_409.mp3"
+  },
+  {
+    "rowid": 410,
+    "term": "허리보호대",
+    "definition": "중량물 취급 시 허리 부상 예방을 위한 지지대.",
+    "category": "건설안전기술",
+    "filename": "dictionary_audio_410.mp3"
+  },
+  {
+    "rowid": 411,
+    "term": "열사병",
+    "definition": "고열 환경에서 체온 조절이 실패해 발생하는 급성 건강장애.",
+    "category": "건설안전기술",
+    "filename": "dictionary_audio_411.mp3"
+  },
+  {
+    "rowid": 412,
+    "term": "한랭질환",
+    "definition": "추위 노출로 체온이 과도하게 떨어져 발생하는 질환.",
+    "category": "건설안전기술",
+    "filename": "dictionary_audio_412.mp3"
+  },
+  {
+    "rowid": 413,
+    "term": "산업재해조사",
+    "definition": "사고 발생 원인을 분석해 재발방지 대책을 수립하는 절차.",
+    "category": "건설안전기술",
+    "filename": "dictionary_audio_413.mp3"
+  },
+  {
+    "rowid": 414,
+    "term": "사고근로자처치",
+    "definition": "사고 발생 시 부상자에 대한 응급처치 및 이송 절차.",
+    "category": "건설안전기술",
+    "filename": "dictionary_audio_414.mp3"
+  },
+  {
+    "rowid": 415,
+    "term": "안전보건표준",
+    "definition": "현장에서 준수해야 할 안전·보건 기준을 문서화한 규정.",
+    "category": "건설안전기술",
+    "filename": "dictionary_audio_415.mp3"
+  },
+  {
+    "rowid": 416,
+    "term": "안전감시단",
+    "definition": "현장의 위험행동·설비를 상시 점검하는 전담 조직.",
+    "category": "건설안전기술",
+    "filename": "dictionary_audio_416.mp3"
+  },
+  {
+    "rowid": 417,
+    "term": "공정안전관리(PSM)",
+    "definition": "중대 위험물 공정의 사고 예방을 위한 체계적 관리제도.",
+    "category": "건설안전기술",
+    "filename": "dictionary_audio_417.mp3"
+  },
+  {
+    "rowid": 418,
+    "term": "직무교육",
+    "definition": "근로자에게 필요한 안전지식·기술을 교육하는 과정.",
+    "category": "건설안전기술",
+    "filename": "dictionary_audio_418.mp3"
+  },
+  {
+    "rowid": 419,
+    "term": "안전성검토",
+    "definition": "설계·공법 변경 시 위험요인과 안전대책을 사전에 확인하는 절차.",
+    "category": "건설안전기술",
+    "filename": "dictionary_audio_419.mp3"
+  },
+  {
+    "rowid": 420,
+    "term": "리프트카",
+    "definition": "터널 등에서 인원·자재를 운반하는 레일 이동식 운반차.",
+    "category": "건설안전기술",
+    "filename": "dictionary_audio_420.mp3"
+  },
+  {
+    "rowid": 421,
+    "term": "퍼스널락아웃(LOTO)",
+    "definition": "설비 유지보수 시 에너지원을 잠그고 표시하는 개인 잠금조치.",
+    "category": "건설안전기술",
+    "filename": "dictionary_audio_421.mp3"
+  },
+  {
+    "rowid": 422,
+    "term": "에너지차단장치",
+    "definition": "유틸리티 에너지를 안전하게 차단하기 위한 밸브·스위치.",
+    "category": "건설안전기술",
+    "filename": "dictionary_audio_422.mp3"
+  },
+  {
+    "rowid": 423,
+    "term": "추락거리",
+    "definition": "추락 보호구 체결 후 지면 충돌까지 필요한 최소 공간.",
+    "category": "건설안전기술",
+    "filename": "dictionary_audio_423.mp3"
+  },
+  {
+    "rowid": 424,
+    "term": "안전난간높이",
+    "definition": "법령이 정한 난간 상단 레일의 최소 높이(1.1m 등).",
+    "category": "건설안전기술",
+    "filename": "dictionary_audio_424.mp3"
+  },
+  {
+    "rowid": 425,
+    "term": "작업발판하중",
+    "definition": "발판이 안전하게 지지해야 하는 설계 하중.",
+    "category": "건설안전기술",
+    "filename": "dictionary_audio_425.mp3"
+  },
+  {
+    "rowid": 426,
+    "term": "건설주행로",
+    "definition": "현장 차량이 안전하게 통행하도록 정비한 도로.",
+    "category": "건설안전기술",
+    "filename": "dictionary_audio_426.mp3"
+  },
+  {
+    "rowid": 427,
+    "term": "차량동선계획",
+    "definition": "건설장비·차량의 이동 경로를 구획·통제하는 계획.",
+    "category": "건설안전기술",
+    "filename": "dictionary_audio_427.mp3"
+  },
+  {
+    "rowid": 428,
+    "term": "가설배수로",
+    "definition": "강우 시 현장배수를 위해 임시로 구축한 수로.",
+    "category": "건설안전기술",
+    "filename": "dictionary_audio_428.mp3"
+  },
+  {
+    "rowid": 429,
+    "term": "비상대피훈련",
+    "definition": "사고 상황을 가정하여 대피 절차를 체험·숙달하는 훈련.",
+    "category": "건설안전기술",
+    "filename": "dictionary_audio_429.mp3"
+  },
+  {
+    "rowid": 430,
+    "term": "현장순찰",
+    "definition": "관리자·감시자가 현장을 돌며 위험요인을 확인하는 활동.",
+    "category": "건설안전기술",
+    "filename": "dictionary_audio_430.mp3"
+  },
+  {
+    "rowid": 431,
+    "term": "종료점검",
+    "definition": "일일 작업 종료 후 기계·설비·현장을 안전 상태로 확인하는 절차.",
+    "category": "건설안전기술",
+    "filename": "dictionary_audio_431.mp3"
+  },
+  {
+    "rowid": 432,
+    "term": "인간-기계 상호작용 (HMI)",
+    "definition": "사용자와 기계‧시스템 간 정보를 주고받는 모든 인터페이스와 과정.",
+    "category": "인간공학 및 시스템안전공학",
+    "filename": "dictionary_audio_432.mp3"
+  },
+  {
+    "rowid": 433,
+    "term": "작업 부하 (Workload)",
+    "definition": "작업자가 수행해야 할 물리적·인지적 요구 수준.",
+    "category": "인간공학 및 시스템안전공학",
+    "filename": "dictionary_audio_433.mp3"
+  },
+  {
+    "rowid": 434,
+    "term": "인지 과부하 (Cognitive Overload)",
+    "definition": "정보 처리 요구가 작업자의 인지 용량을 초과한 상태.",
+    "category": "인간공학 및 시스템안전공학",
+    "filename": "dictionary_audio_434.mp3"
+  },
+  {
+    "rowid": 435,
+    "term": "허용 한계값 (TLV)",
+    "definition": "근로자가 반복적으로 노출돼도 건강상 해를 주지 않는 물리·화학적 한계치.",
+    "category": "인간공학 및 시스템안전공학",
+    "filename": "dictionary_audio_435.mp3"
+  },
+  {
+    "rowid": 436,
+    "term": "개인보호구 (PPE)",
+    "definition": "작업자가 위험 요인으로부터 자신을 보호하기 위해 착용하는 장비.",
+    "category": "인간공학 및 시스템안전공학",
+    "filename": "dictionary_audio_436.mp3"
+  },
+  {
+    "rowid": 437,
+    "term": "상황 인식 (Situation Awareness)",
+    "definition": "현재와 미래 작업 상황을 정확히 이해·예측하는 능력.",
+    "category": "인간공학 및 시스템안전공학",
+    "filename": "dictionary_audio_437.mp3"
+  },
+  {
+    "rowid": 438,
+    "term": "실패 모드 및 영향 분석 (FMEA)",
+    "definition": "시스템 고장 유형을 식별하고 그 영향과 위험도를 평가하는 기법.",
+    "category": "인간공학 및 시스템안전공학",
+    "filename": "dictionary_audio_438.mp3"
+  },
+  {
+    "rowid": 439,
+    "term": "안전 무결성 수준 (SIL)",
+    "definition": "안전 계측 시스템이 요구되는 위험 감소 성능의 등급.",
+    "category": "인간공학 및 시스템안전공학",
+    "filename": "dictionary_audio_439.mp3"
+  },
+  {
+    "rowid": 440,
+    "term": "휴먼에러 (Human Error)",
+    "definition": "계획된 행동이 의도한 결과를 이루지 못하거나 잘못된 계획을 실행하는 행위.",
+    "category": "인간공학 및 시스템안전공학",
+    "filename": "dictionary_audio_440.mp3"
+  },
+  {
+    "rowid": 441,
+    "term": "잠재위험 분석 (PHA)",
+    "definition": "설계 초기 단계에서 시스템의 잠재적 위험을 파악·평가하는 절차.",
+    "category": "인간공학 및 시스템안전공학",
+    "filename": "dictionary_audio_441.mp3"
+  },
+  {
+    "rowid": 442,
+    "term": "인체 치수 (Anthropometry)",
+    "definition": "인간 신체의 치수와 비율을 측정·활용하는 과학.",
+    "category": "인간공학 및 시스템안전공학",
+    "filename": "dictionary_audio_442.mp3"
+  },
+  {
+    "rowid": 443,
+    "term": "정적 강도 (Static Strength)",
+    "definition": "근육이 움직임 없이 유지 가능한 최대 힘.",
+    "category": "인간공학 및 시스템안전공학",
+    "filename": "dictionary_audio_443.mp3"
+  },
+  {
+    "rowid": 444,
+    "term": "반복작업 손상 (RSI)",
+    "definition": "같은 동작을 반복해 발생하는 근육·건·신경계 손상.",
+    "category": "인간공학 및 시스템안전공학",
+    "filename": "dictionary_audio_444.mp3"
+  },
+  {
+    "rowid": 445,
+    "term": "제어가능 위험 (Controllable Risk)",
+    "definition": "기술·관리 대책으로 허용 가능 수준까지 낮출 수 있는 위험.",
+    "category": "인간공학 및 시스템안전공학",
+    "filename": "dictionary_audio_445.mp3"
+  },
+  {
+    "rowid": 446,
+    "term": "사용성 테스트 (Usability Test)",
+    "definition": "제품이 사용 목적에 맞게 효율적·만족스럽게 사용되는지 측정하는 평가.",
+    "category": "인간공학 및 시스템안전공학",
+    "filename": "dictionary_audio_446.mp3"
+  },
+  {
+    "rowid": 447,
+    "term": "경계 유지 시간 (Time to Boundary)",
+    "definition": "시스템이 안전 한계에 도달하기까지 남은 예상 시간.",
+    "category": "인간공학 및 시스템안전공학",
+    "filename": "dictionary_audio_447.mp3"
+  },
+  {
+    "rowid": 448,
+    "term": "근골격계 질환 (MSD)",
+    "definition": "근육·건·신경·관절 등에 과부하가 누적돼 발생하는 질병.",
+    "category": "인간공학 및 시스템안전공학",
+    "filename": "dictionary_audio_448.mp3"
+  },
+  {
+    "rowid": 449,
+    "term": "피로 누적 (Accumulated Fatigue)",
+    "definition": "반복 작업과 불충분한 회복으로 체력·주의력이 감소한 상태.",
+    "category": "인간공학 및 시스템안전공학",
+    "filename": "dictionary_audio_449.mp3"
+  },
+  {
+    "rowid": 450,
+    "term": "작업생리 (Work Physiology)",
+    "definition": "작업 중 인체의 생리적 반응과 에너지 소비를 연구하는 학문.",
+    "category": "인간공학 및 시스템안전공학",
+    "filename": "dictionary_audio_450.mp3"
+  },
+  {
+    "rowid": 451,
+    "term": "피드백 루프 (Feedback Loop)",
+    "definition": "시스템 결과가 다시 입력으로 돌아가 성능을 조정하는 메커니즘.",
+    "category": "인간공학 및 시스템안전공학",
+    "filename": "dictionary_audio_451.mp3"
+  },
+  {
+    "rowid": 452,
+    "term": "경고 디자인 (Warning Design)",
+    "definition": "위험 정보를 시각·청각 등으로 효과적으로 전달하는 설계 원칙.",
+    "category": "인간공학 및 시스템안전공학",
+    "filename": "dictionary_audio_452.mp3"
+  },
+  {
+    "rowid": 453,
+    "term": "접근성 (Accessibility)",
+    "definition": "다양한 사용자가 제품·시설을 쉽게 이용할 수 있는 정도.",
+    "category": "인간공학 및 시스템안전공학",
+    "filename": "dictionary_audio_453.mp3"
+  },
+  {
+    "rowid": 454,
+    "term": "안전문화 (Safety Culture)",
+    "definition": "조직 구성원이 공유하는 안전에 대한 가치·태도·행동 규범.",
+    "category": "인간공학 및 시스템안전공학",
+    "filename": "dictionary_audio_454.mp3"
+  },
+  {
+    "rowid": 455,
+    "term": "인간 신뢰성 (Human Reliability)",
+    "definition": "특정 조건에서 사람이 오류 없이 과업을 수행할 확률.",
+    "category": "인간공학 및 시스템안전공학",
+    "filename": "dictionary_audio_455.mp3"
+  },
+  {
+    "rowid": 456,
+    "term": "오류 허용 설계 (Error-Tolerant Design)",
+    "definition": "사용자 실수가 발생해도 심각한 결과로 이어지지 않도록 하는 설계.",
+    "category": "인간공학 및 시스템안전공학",
+    "filename": "dictionary_audio_456.mp3"
+  },
+  {
+    "rowid": 457,
+    "term": "폭로 한계값 (Exposure Limit)",
+    "definition": "화학물질·소음·진동 등 유해 요인에 대한 최대 허용 노출치.",
+    "category": "인간공학 및 시스템안전공학",
+    "filename": "dictionary_audio_457.mp3"
+  },
+  {
+    "rowid": 458,
+    "term": "작업 공간 설계 (Workspace Design)",
+    "definition": "인체 치수와 동작 범위를 고려하여 공간을 배치하는 설계.",
+    "category": "인간공학 및 시스템안전공학",
+    "filename": "dictionary_audio_458.mp3"
+  },
+  {
+    "rowid": 459,
+    "term": "시야각 (Field of View)",
+    "definition": "고개를 움직이지 않고 볼 수 있는 시각 범위.",
+    "category": "인간공학 및 시스템안전공학",
+    "filename": "dictionary_audio_459.mp3"
+  },
+  {
+    "rowid": 460,
+    "term": "조도 (Illuminance)",
+    "definition": "표면에 도달하는 빛의 양, 작업 시 필요한 밝기 수준을 의미.",
+    "category": "인간공학 및 시스템안전공학",
+    "filename": "dictionary_audio_460.mp3"
+  },
+  {
+    "rowid": 461,
+    "term": "소음 허용도 (Noise Dose)",
+    "definition": "작업자가 일정 기간 노출돼도 청력 손상이 발생하지 않는 소음량.",
+    "category": "인간공학 및 시스템안전공학",
+    "filename": "dictionary_audio_461.mp3"
+  },
+  {
+    "rowid": 462,
+    "term": "진동 노출 값 (Vibration Exposure Value)",
+    "definition": "작업자가 진동에 노출됐을 때 건강상 해가 없는 기준치.",
+    "category": "인간공학 및 시스템안전공학",
+    "filename": "dictionary_audio_462.mp3"
+  },
+  {
+    "rowid": 463,
+    "term": "열쾌적 범위 (Thermal Comfort Range)",
+    "definition": "대다수 사람이 쾌적함을 느끼는 온도·습도 범위.",
+    "category": "인간공학 및 시스템안전공학",
+    "filename": "dictionary_audio_463.mp3"
+  },
+  {
+    "rowid": 464,
+    "term": "휴먼-센터드 설계 (Human-Centered Design)",
+    "definition": "사용자 요구와 한계를 중심으로 문제를 해결하는 설계 접근법.",
+    "category": "인간공학 및 시스템안전공학",
+    "filename": "dictionary_audio_464.mp3"
+  },
+  {
+    "rowid": 465,
+    "term": "작업 분석 (Task Analysis)",
+    "definition": "작업을 세분화하여 순서·도구·지식 요구 사항을 파악하는 기법.",
+    "category": "인간공학 및 시스템안전공학",
+    "filename": "dictionary_audio_465.mp3"
+  },
+  {
+    "rowid": 466,
+    "term": "절차 준수율 (Procedure Compliance Rate)",
+    "definition": "작업자가 공식 절차를 정확히 따르는 비율.",
+    "category": "인간공학 및 시스템안전공학",
+    "filename": "dictionary_audio_466.mp3"
+  },
+  {
+    "rowid": 467,
+    "term": "방호장치 (Guarding Device)",
+    "definition": "작동 부위와 사용자 사이를 물리적으로 차단해 위험을 예방하는 장치.",
+    "category": "인간공학 및 시스템안전공학",
+    "filename": "dictionary_audio_467.mp3"
+  },
+  {
+    "rowid": 468,
+    "term": "오류 복구 (Error Recovery)",
+    "definition": "발생한 오류를 감지하고 정상 상태로 되돌리는 과정.",
+    "category": "인간공학 및 시스템안전공학",
+    "filename": "dictionary_audio_468.mp3"
+  },
+  {
+    "rowid": 469,
+    "term": "사고 빈도율 (Incident Rate)",
+    "definition": "단위 근로시간당 발생한 사고 건수를 나타내는 지표.",
+    "category": "인간공학 및 시스템안전공학",
+    "filename": "dictionary_audio_469.mp3"
+  },
+  {
+    "rowid": 470,
+    "term": "위험 행위 (At-Risk Behavior)",
+    "definition": "규정·안전 절차를 무시해 사고 가능성을 높이는 행동.",
+    "category": "인간공학 및 시스템안전공학",
+    "filename": "dictionary_audio_470.mp3"
+  },
+  {
+    "rowid": 471,
+    "term": "근로시간 제한 (Work Hour Limit)",
+    "definition": "피로와 사고를 줄이기 위해 정한 최대 근무시간 기준.",
+    "category": "인간공학 및 시스템안전공학",
+    "filename": "dictionary_audio_471.mp3"
+  },
+  {
+    "rowid": 472,
+    "term": "주의 자원 (Attention Resource)",
+    "definition": "사람이 동시에 처리할 수 있는 주의력의 한정된 용량.",
+    "category": "인간공학 및 시스템안전공학",
+    "filename": "dictionary_audio_472.mp3"
+  },
+  {
+    "rowid": 473,
+    "term": "적합성 (Fit)",
+    "definition": "작업 대상이나 보호구가 사용자의 신체 치수와 기능 요구에 잘 맞는 정도.",
+    "category": "인간공학 및 시스템안전공학",
+    "filename": "dictionary_audio_473.mp3"
+  },
+  {
+    "rowid": 474,
+    "term": "반응 시간 (Reaction Time)",
+    "definition": "자극 발생 후 원하는 반응이 나타날 때까지 걸리는 시간.",
+    "category": "인간공학 및 시스템안전공학",
+    "filename": "dictionary_audio_474.mp3"
+  },
+  {
+    "rowid": 475,
+    "term": "생체리듬 (Circadian Rhythm)",
+    "definition": "24시간 주기로 반복되는 인체 생리적 리듬.",
+    "category": "인간공학 및 시스템안전공학",
+    "filename": "dictionary_audio_475.mp3"
+  },
+  {
+    "rowid": 476,
+    "term": "서포트 핸들 (Support Handle)",
+    "definition": "작업 중 균형 유지와 근력 지원을 위해 설치된 손잡이.",
+    "category": "인간공학 및 시스템안전공학",
+    "filename": "dictionary_audio_476.mp3"
+  },
+  {
+    "rowid": 477,
+    "term": "버퍼 존 (Buffer Zone)",
+    "definition": "위험원과 작업자 사이에 설치해 위험을 완충하는 공간.",
+    "category": "인간공학 및 시스템안전공학",
+    "filename": "dictionary_audio_477.mp3"
+  },
+  {
+    "rowid": 478,
+    "term": "표시장치 가독성 (Display Legibility)",
+    "definition": "표시 정보가 쉽게 읽히고 해석될 수 있는 정도.",
+    "category": "인간공학 및 시스템안전공학",
+    "filename": "dictionary_audio_478.mp3"
+  },
+  {
+    "rowid": 479,
+    "term": "신뢰도 공학 (Reliability Engineering)",
+    "definition": "시스템 부품이 지정된 조건에서 고장 없이 작동하는 확률을 설계·평가하는 공학.",
+    "category": "인간공학 및 시스템안전공학",
+    "filename": "dictionary_audio_479.mp3"
+  },
+  {
+    "rowid": 480,
+    "term": "방호계층 분석 (LOPA)",
+    "definition": "위험 감소를 위한 독립적 보호계층의 충분성을 평가하는 방법.",
+    "category": "인간공학 및 시스템안전공학",
+    "filename": "dictionary_audio_480.mp3"
+  },
+  {
+    "rowid": 481,
+    "term": "스위스 치즈 모델 (Swiss Cheese Model)",
+    "definition": "여러 방어층의 결함이 중첩될 때 사고가 발생함을 설명하는 개념적 모델.",
+    "category": "인간공학 및 시스템안전공학",
+    "filename": "dictionary_audio_481.mp3"
+  },
+  {
+    "rowid": 482,
+    "term": "이중안전 설계 (Redundancy Design)",
+    "definition": "주요 기능을 중복 구성해 단일 고장 시에도 시스템을 유지하는 설계.",
+    "category": "인간공학 및 시스템안전공학",
+    "filename": "dictionary_audio_482.mp3"
+  },
+  {
+    "rowid": 483,
+    "term": "상호 검토 (Cross-Check)",
+    "definition": "두 명 이상의 작업자가 서로의 작업을 확인하여 오류를 예방하는 절차.",
+    "category": "인간공학 및 시스템안전공학",
+    "filename": "dictionary_audio_483.mp3"
+  },
+  {
+    "rowid": 484,
+    "term": "위험 허용 기준 (ALARP)",
+    "definition": "위험을 실질적으로 실행 가능한 한도까지 낮추는 수용 기준.",
+    "category": "인간공학 및 시스템안전공학",
+    "filename": "dictionary_audio_484.mp3"
+  },
+  {
+    "rowid": 485,
+    "term": "안전 기술 보고서 (Safety Case)",
+    "definition": "시스템이 규정된 안전 목표를 달성했다는 증거와 논리를 제시하는 문서.",
+    "category": "인간공학 및 시스템안전공학",
+    "filename": "dictionary_audio_485.mp3"
+  },
+  {
+    "rowid": 486,
+    "term": "자동화 정도 (Level of Automation)",
+    "definition": "시스템 의사결정·작동 과정에서 자동화가 차지하는 비중.",
+    "category": "인간공학 및 시스템안전공학",
+    "filename": "dictionary_audio_486.mp3"
+  },
+  {
+    "rowid": 487,
+    "term": "휴먼오토메이션 신뢰 (Trust in Automation)",
+    "definition": "사용자가 자동화 시스템의 능력·의도·결과를 믿는 정도.",
+    "category": "인간공학 및 시스템안전공학",
+    "filename": "dictionary_audio_487.mp3"
+  },
+  {
+    "rowid": 488,
+    "term": "공정 정지 (Process Shutdown)",
+    "definition": "위험 상황 시 시스템을 안전 상태로 빠르게 전환하는 절차.",
+    "category": "인간공학 및 시스템안전공학",
+    "filename": "dictionary_audio_488.mp3"
+  },
+  {
+    "rowid": 489,
+    "term": "오염 제어 (Contamination Control)",
+    "definition": "미립자·미생물·화학물질 등이 제품·환경에 침투하는 것을 방지하는 관리.",
+    "category": "인간공학 및 시스템안전공학",
+    "filename": "dictionary_audio_489.mp3"
+  },
+  {
+    "rowid": 490,
+    "term": "이동식 장비 안전 (Mobile Equipment Safety)",
+    "definition": "지게차·크레인 등 이동 장비 사용 시 요구되는 안전 수칙과 설계.",
+    "category": "인간공학 및 시스템안전공학",
+    "filename": "dictionary_audio_490.mp3"
+  },
+  {
+    "rowid": 491,
+    "term": "위험 인지 훈련 (Hazard Awareness Training)",
+    "definition": "작업자가 잠재 위험을 식별하고 대응 능력을 향상시키는 교육.",
+    "category": "인간공학 및 시스템안전공학",
+    "filename": "dictionary_audio_491.mp3"
+  },
+  {
+    "rowid": 492,
+    "term": "인간공학 감수성 평가 (Ergonomic Sensitivity Assessment)",
+    "definition": "설계 변경 시 인체공학적 영향 정도를 정량·정성 평가하는 절차.",
+    "category": "인간공학 및 시스템안전공학",
+    "filename": "dictionary_audio_492.mp3"
+  },
+  {
+    "rowid": 493,
+    "term": "손잡이 설계 (Handle Design)",
+    "definition": "그립력·각도·재질 등을 고려해 작업 효율과 안전을 높이는 손잡이 설계.",
+    "category": "인간공학 및 시스템안전공학",
+    "filename": "dictionary_audio_493.mp3"
+  },
+  {
+    "rowid": 494,
+    "term": "시그널 색상 (Signal Color)",
+    "definition": "위험 수준이나 기능 상태를 직관적으로 전달하기 위한 규정색.",
+    "category": "인간공학 및 시스템안전공학",
+    "filename": "dictionary_audio_494.mp3"
+  },
+  {
+    "rowid": 495,
+    "term": "근로자 참여 (Worker Involvement)",
+    "definition": "작업자가 위험 평가·개선 활동에 적극적으로 의견을 제시하고 참여하는 과정.",
+    "category": "인간공학 및 시스템안전공학",
+    "filename": "dictionary_audio_495.mp3"
+  },
+  {
+    "rowid": 496,
+    "term": "시스템 복잡도 (System Complexity)",
+    "definition": "구성요소 수, 상호작용, 예측 어려움 등으로 평가되는 시스템 난이도.",
+    "category": "인간공학 및 시스템안전공학",
+    "filename": "dictionary_audio_496.mp3"
+  },
+  {
+    "rowid": 497,
+    "term": "고장 감지성 (Fault Detectability)",
+    "definition": "시스템 내 결함이 사용자 또는 장치에 의해 신속히 식별될 수 있는 정도.",
+    "category": "인간공학 및 시스템안전공학",
+    "filename": "dictionary_audio_497.mp3"
+  },
+  {
+    "rowid": 498,
+    "term": "작동 확인 (Verification of Operation)",
+    "definition": "설비나 시스템이 의도한 대로 작동하는지 공식적으로 확인하는 절차.",
+    "category": "인간공학 및 시스템안전공학",
+    "filename": "dictionary_audio_498.mp3"
+  },
+  {
+    "rowid": 499,
+    "term": "대책 이행률 (Mitigation Implementation Rate)",
+    "definition": "식별된 위험 완화 대책이 실제로 완료된 비율.",
+    "category": "인간공학 및 시스템안전공학",
+    "filename": "dictionary_audio_499.mp3"
+  },
+  {
+    "rowid": 500,
+    "term": "후위 분석 (After-Action Review)",
+    "definition": "사고·훈련 후 발생 원인과 교훈을 도출해 개선 활동으로 연결하는 과정.",
+    "category": "인간공학 및 시스템안전공학",
+    "filename": "dictionary_audio_500.mp3"
+  },
+  {
+    "rowid": 501,
+    "term": "교대근무 설계 (Shift Schedule Design)",
+    "definition": "피로와 생활 리듬을 고려해 교대 시간을 최적으로 배치하는 설계.",
+    "category": "인간공학 및 시스템안전공학",
+    "filename": "dictionary_audio_501.mp3"
+  },
+  {
+    "rowid": 502,
+    "term": "비정상 상황 관리 (Abnormal Situation Management)",
+    "definition": "정상 운전에서 벗어난 상태를 인지·판단·제어하는 시스템과 절차.",
+    "category": "인간공학 및 시스템안전공학",
+    "filename": "dictionary_audio_502.mp3"
+  },
+  {
+    "rowid": 503,
+    "term": "프로세스 안전 지수 (Process Safety Index)",
+    "definition": "공정 안전 성과를 수치화해 모니터링하는 지표.",
+    "category": "인간공학 및 시스템안전공학",
+    "filename": "dictionary_audio_503.mp3"
+  },
+  {
+    "rowid": 504,
+    "term": "리스크 매트릭스 (Risk Matrix)",
+    "definition": "발생 확률과 영향도를 교차해 위험 수준을 시각적으로 구분한 표.",
+    "category": "인간공학 및 시스템안전공학",
+    "filename": "dictionary_audio_504.mp3"
+  },
+  {
+    "rowid": 505,
+    "term": "외부 조건 적응 (Adaptation to External Conditions)",
+    "definition": "조명·온도·소음 등 환경 변화에 따라 인간과 시스템이 성능을 유지하는 과정.",
+    "category": "인간공학 및 시스템안전공학",
+    "filename": "dictionary_audio_505.mp3"
+  },
+  {
+    "rowid": 506,
+    "term": "재해 방재 계획 (Disaster Prevention Plan)",
+    "definition": "자연·화재·폭발 등 대형 재해를 예방·대응하기 위한 종합 계획.",
+    "category": "인간공학 및 시스템안전공학",
+    "filename": "dictionary_audio_506.mp3"
+  },
+  {
+    "rowid": 507,
+    "term": "생체역학적 부하 (Biomechanical Load)",
+    "definition": "작업 동작이 인체 관절과 조직에 가하는 기계적 힘.",
+    "category": "인간공학 및 시스템안전공학",
+    "filename": "dictionary_audio_507.mp3"
+  },
+  {
+    "rowid": 508,
+    "term": "부적합 자세 (Awkward Posture)",
+    "definition": "관절이 편안한 중립 위치를 벗어나 근골격계 부담을 주는 자세.",
+    "category": "인간공학 및 시스템안전공학",
+    "filename": "dictionary_audio_508.mp3"
+  },
+  {
+    "rowid": 509,
+    "term": "작업 간 휴식 (Work Rest Cycle)",
+    "definition": "피로 회복과 성과 유지를 위해 작업과 휴식을 교대로 배치하는 주기.",
+    "category": "인간공학 및 시스템안전공학",
+    "filename": "dictionary_audio_509.mp3"
+  },
+  {
+    "rowid": 510,
+    "term": "경영진 안전 리더십 (Management Safety Leadership)",
+    "definition": "경영진이 안전 목표를 제시하고 자원·지원으로 모범을 보이는 행동.",
+    "category": "인간공학 및 시스템안전공학",
+    "filename": "dictionary_audio_510.mp3"
+  },
+  {
+    "rowid": 511,
+    "term": "자발적 보호 행동 (Voluntary Protective Behavior)",
+    "definition": "규정 외에도 근로자가 스스로 추가 안전 행동을 취하는 것.",
+    "category": "인간공학 및 시스템안전공학",
+    "filename": "dictionary_audio_511.mp3"
+  },
+  {
+    "rowid": 512,
+    "term": "사전 위험 제거 (Design Out)",
+    "definition": "설계 단계에서 위험요인을 근본적으로 제거하는 접근.",
+    "category": "인간공학 및 시스템안전공학",
+    "filename": "dictionary_audio_512.mp3"
+  },
+  {
+    "rowid": 513,
+    "term": "교육 효과성 (Training Effectiveness)",
+    "definition": "교육 후 지식·행동·성과 변화로 측정되는 실질적 효과.",
+    "category": "인간공학 및 시스템안전공학",
+    "filename": "dictionary_audio_513.mp3"
+  },
+  {
+    "rowid": 514,
+    "term": "생체 신호 모니터링 (Physiological Monitoring)",
+    "definition": "심박·뇌파 등 신체 지표를 실시간 측정해 피로·스트레스를 파악하는 기술.",
+    "category": "인간공학 및 시스템안전공학",
+    "filename": "dictionary_audio_514.mp3"
+  },
+  {
+    "rowid": 515,
+    "term": "위험 의사소통 (Risk Communication)",
+    "definition": "이해관계자 간 위험 정보와 인식을 교류하여 공감대를 형성하는 활동.",
+    "category": "인간공학 및 시스템안전공학",
+    "filename": "dictionary_audio_515.mp3"
+  },
+  {
+    "rowid": 516,
+    "term": "전염 위험 관리 (Infection Risk Control)",
+    "definition": "작업장 내 감염성 질환 확산을 예방·통제하기 위한 조치.",
+    "category": "인간공학 및 시스템안전공학",
+    "filename": "dictionary_audio_516.mp3"
+  },
+  {
+    "rowid": 517,
+    "term": "공정 안전 관리 (PSM)",
+    "definition": "화학 공정에서 중대사고를 예방하기 위한 법적·기술적 관리 체계.",
+    "category": "인간공학 및 시스템안전공학",
+    "filename": "dictionary_audio_517.mp3"
+  },
+  {
+    "rowid": 518,
+    "term": "사전 대응 시간 (Response Time Margin)",
+    "definition": "위험 신호 감지 후 조치를 취할 수 있는 여유 시간.",
+    "category": "인간공학 및 시스템안전공학",
+    "filename": "dictionary_audio_518.mp3"
+  },
+  {
+    "rowid": 519,
+    "term": "시스템 복원력 (System Resilience)",
+    "definition": "교란·위기 후에도 빠르게 기능을 회복하고 적응하는 능력.",
+    "category": "인간공학 및 시스템안전공학",
+    "filename": "dictionary_audio_519.mp3"
+  },
+  {
+    "rowid": 520,
+    "term": "인간 요인 표준 (Human Factors Standard)",
+    "definition": "인간공학 설계·평가 시 따라야 할 국제·국가 규격.",
+    "category": "인간공학 및 시스템안전공학",
+    "filename": "dictionary_audio_520.mp3"
+  },
+  {
+    "rowid": 521,
+    "term": "신체 부위별 하중 (Body Part Load)",
+    "definition": "작업 중 특정 신체 부위에 집중되는 힘과 압력.",
+    "category": "인간공학 및 시스템안전공학",
+    "filename": "dictionary_audio_521.mp3"
+  },
+  {
+    "rowid": 522,
+    "term": "실근무 재현 실험 (Simulation-Based Evaluation)",
+    "definition": "가상환경에서 실제 근무 상황을 재현해 설계·교육 효과를 검증하는 방법.",
+    "category": "인간공학 및 시스템안전공학",
+    "filename": "dictionary_audio_522.mp3"
+  },
+  {
+    "rowid": 523,
+    "term": "서브시스템 상호의존성 (Subsystem Interdependency)",
+    "definition": "한 서브시스템의 상태가 다른 부분 성능·안전에 영향을 미치는 관계.",
+    "category": "인간공학 및 시스템안전공학",
+    "filename": "dictionary_audio_523.mp3"
+  },
+  {
+    "rowid": 524,
+    "term": "작동 모드 오류 (Mode Error)",
+    "definition": "사용자가 시스템의 현재 작동 모드를 오인해 잘못된 조작을 하는 실수.",
+    "category": "인간공학 및 시스템안전공학",
+    "filename": "dictionary_audio_524.mp3"
+  },
+  {
+    "rowid": 525,
+    "term": "사용자 정신 모델 (Mental Model)",
+    "definition": "사용자가 시스템 구조와 작동 방식을 머릿속에서 구성한 틀.",
+    "category": "인간공학 및 시스템안전공학",
+    "filename": "dictionary_audio_525.mp3"
+  },
+  {
+    "rowid": 526,
+    "term": "절차 가이드 (Procedure Aid)",
+    "definition": "작업 절차를 빠짐없이 따라갈 수 있도록 돕는 체크리스트·시스템.",
+    "category": "인간공학 및 시스템안전공학",
+    "filename": "dictionary_audio_526.mp3"
+  },
+  {
+    "rowid": 527,
+    "term": "피로 위험 관리 시스템 (FRMS)",
+    "definition": "조직 차원에서 피로로 인한 사고 위험을 체계적으로 관리하는 시스템.",
+    "category": "인간공학 및 시스템안전공학",
+    "filename": "dictionary_audio_527.mp3"
+  },
+  {
+    "rowid": 528,
+    "term": "안전성 무결성 분석 (Safety Integrity Analysis)",
+    "definition": "시스템이 요구된 안전 기능을 수행할 신뢰도를 갖추었는지 분석.",
+    "category": "인간공학 및 시스템안전공학",
+    "filename": "dictionary_audio_528.mp3"
+  },
+  {
+    "rowid": 529,
+    "term": "감각 과부하 (Sensory Overload)",
+    "definition": "동시에 과도한 시각·청각·촉각 자극이 입력돼 성능이 저하되는 현상.",
+    "category": "인간공학 및 시스템안전공학",
+    "filename": "dictionary_audio_529.mp3"
+  },
+  {
+    "rowid": 530,
+    "term": "휴먼팩터 검증 (Human Factor Verification)",
+    "definition": "설계가 인간공학 요구사항을 충족했는지 시험·검증하는 활동.",
+    "category": "인간공학 및 시스템안전공학",
+    "filename": "dictionary_audio_530.mp3"
+  },
+  {
+    "rowid": 531,
+    "term": "위험 등급 (Risk Ranking)",
+    "definition": "여러 위험을 심각도 순으로 정렬해 우선관리 대상을 결정하는 과정.",
+    "category": "인간공학 및 시스템안전공학",
+    "filename": "dictionary_audio_531.mp3"
+  }
+]

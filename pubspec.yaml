@@ -1,0 +1,73 @@
+name: sanupjongmin
+description: A new Flutter project.
+publish_to: none
+version: 8.0.0+6
+environment:
+  sdk: ^3.7.2
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.8
+  fluttertoast: ^8.2.8
+  sqflite: ^2.4.0
+  shared_preferences: ^2.3.2
+  google_mobile_ads: ^4.0.0
+  path: ^1.8.0
+  in_app_purchase: ^3.2.1
+  provider: ^6.1.2
+  fl_chart: ^0.70.2
+  url_launcher: ^6.3.1
+  just_audio: ^0.9.46
+  in_app_review: ^2.0.10
+  app_tracking_transparency: ^2.0.4
+  audioplayers: ^6.4.0
+  table_calendar: ^3.2.0
+  intl: ^0.20.0
+  vector_math: ^2.1.4
+  flutter_html: ^3.0.0
+  font_awesome_flutter: ^10.8.0
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+  flutter_launcher_icons: ^0.13.1
+  integration_test:
+    sdk: flutter
+flutter:
+  uses-material-design: true
+  assets:
+  - assets/audio/
+  - assets/audio/question1/
+  - assets/audio/question2/
+  - assets/audio/question3/
+  - assets/audio/summary/
+  - assets/audio_output/
+  - assets/audio_output/dictionary_audio/
+  - assets/dictionary.db
+  - assets/output/
+  - assets/question1.db
+  - assets/question10.db
+  - assets/question11.db
+  - assets/question12.db
+  - assets/question13.db
+  - assets/question14.db
+  - assets/question15.db
+  - assets/question16.db
+  - assets/question17.db
+  - assets/question18.db
+  - assets/question19.db
+  - assets/question2.db
+  - assets/question3.db
+  - assets/question4.db
+  - assets/question5.db
+  - assets/question6.db
+  - assets/question7.db
+  - assets/question8.db
+  - assets/question9.db
+  - assets/quiz.db
+  - assets/splash_logo.png
+flutter_launcher_icons:
+  android: true
+  ios: true
+  image_path: assets/splash_logo.png
+  min_sdk_android: 21

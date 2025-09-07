@@ -1,0 +1,902 @@
+[
+  {
+    "Question_id": 1,
+    "Big_Question": "산업안전보건법령상 보일러의 두 번째 압력방출장치는 최고사용압력의 1.05배 이하에서 작동되도록 설정해야 한다.",
+    "Option1": "O",
+    "Option2": "X",
+    "Correct_Option": 1,
+    "Category": "기계위험방지기술",
+    "Answer_description": "법령에서는 보일러에 압력방출장치가 2개 이상 설치될 경우, 첫 번째는 최고사용압력 이하, 두 번째는 최고사용압력의 1.05배 이하에서 작동하도록 규정하고 있다."
+  },
+  {
+    "Question_id": 2,
+    "Big_Question": "밀링 작업 시 강력 절삭을 할 때 일감을 바이스에 짧게 물리는 것이 안전하다.",
+    "Option1": "O",
+    "Option2": "X",
+    "Correct_Option": 2,
+    "Category": "기계위험방지기술",
+    "Answer_description": "강력 절삭 시 일감을 짧게 물리면 고정력이 약해져 이탈 위험이 커진다. 충분히 깊게 물려야 안전하다."
+  },
+  {
+    "Question_id": 3,
+    "Big_Question": "연삭기 덮개는 산업안전보건법령상 안전인증대상 방호장치에 해당한다.",
+    "Option1": "O",
+    "Option2": "X",
+    "Correct_Option": 2,
+    "Category": "기계위험방지기술",
+    "Answer_description": "연삭기 덮개는 안전인증대상이 아니라 자율안전확인대상 방호장치로 분류된다."
+  },
+  {
+    "Question_id": 4,
+    "Big_Question": "지게차의 기준 부하상태 하역작업 시 전후 안정도 기준은 18% 이내이다.",
+    "Option1": "O",
+    "Option2": "X",
+    "Correct_Option": 1,
+    "Category": "기계위험방지기술",
+    "Answer_description": "산업안전보건법령에 따르면 기준 부하상태 하역작업 시 전후 안정도는 18% 이내여야 한다."
+  },
+  {
+    "Question_id": 5,
+    "Big_Question": "프레스 작업 시작 전 점검사항에는 압력방출장치의 기능 점검이 포함된다.",
+    "Option1": "O",
+    "Option2": "X",
+    "Correct_Option": 2,
+    "Category": "기계위험방지기술",
+    "Answer_description": "압력방출장치는 보일러·압력용기 관련 설비에 대한 점검 항목이며 프레스기의 작업 전 점검사항에는 포함되지 않는다."
+  },
+  {
+    "Question_id": 6,
+    "Big_Question": "이산화탄소는 산업안전보건법령상 독성가스로 분류되지 않는다.",
+    "Option1": "O",
+    "Option2": "X",
+    "Correct_Option": 1,
+    "Category": "화학설비위험방지기술",
+    "Answer_description": "이산화탄소는 비활성 기체로 고농도 시 질식 위험은 있지만 독성가스로는 분류되지 않는다."
+  },
+  {
+    "Question_id": 7,
+    "Big_Question": "산업안전보건법령에 따르면 인화성 가스를 저장·취급하는 설비의 화염방지기는 설비의 하단에 설치해야 한다.",
+    "Option1": "O",
+    "Option2": "X",
+    "Correct_Option": 2,
+    "Category": "화학설비위험방지기술",
+    "Answer_description": "화염방지기는 외부 화염이 내부로 유입되는 것을 막기 위해 증기·가스 배출구가 있는 설비의 상단에 설치해야 한다."
+  },
+  {
+    "Question_id": 8,
+    "Big_Question": "부탄의 폭발하한계는 약 1.7 vol%이다.",
+    "Option1": "O",
+    "Option2": "X",
+    "Correct_Option": 1,
+    "Category": "화학설비위험방지기술",
+    "Answer_description": "Jones식과 실험값에 따르면 부탄(C₄H₁₀)의 폭발하한계는 약 1.7 vol%로 알려져 있다."
+  },
+  {
+    "Question_id": 9,
+    "Big_Question": "가열퍼지는 퍼지(purge)의 한 종류이다.",
+    "Option1": "O",
+    "Option2": "X",
+    "Correct_Option": 2,
+    "Category": "화학설비위험방지기술",
+    "Answer_description": "퍼지는 압력퍼지, 진공퍼지, 스위프퍼지처럼 불활성 가스로 내부를 치환하는 방법을 말하며 ‘가열퍼지’라는 분류는 존재하지 않는다."
+  },
+  {
+    "Question_id": 10,
+    "Big_Question": "매슬로우의 욕구단계에서 자아실현의 욕구는 다섯 번째 단계에 해당한다.",
+    "Option1": "O",
+    "Option2": "X",
+    "Correct_Option": 1,
+    "Category": "안전관리론",
+    "Answer_description": "매슬로우 이론은 생리→안전→사회적→존경→자아실현 순으로 5단계를 제시하며, 자아실현이 최상위(5단계)이다."
+  },
+  {
+    "Question_id": 11,
+    "Big_Question": "재해예방의 4원칙은 예방가능, 손실우연, 원인연계, 재해 연쇄성의 원칙으로 구성된다.",
+    "Option1": "O",
+    "Option2": "X",
+    "Correct_Option": 2,
+    "Category": "안전관리론",
+    "Answer_description": "재해예방 4원칙은 예방가능·손실우연·원인연계·대책선정의 원칙이다. ‘재해 연쇄성의 원칙’은 포함되지 않는다."
+  },
+  {
+    "Question_id": 12,
+    "Big_Question": "산업안전보건법령상 사무직 종사 근로자의 정기교육 시간은 매년 3시간 이상이다.",
+    "Option1": "O",
+    "Option2": "X",
+    "Correct_Option": 1,
+    "Category": "안전관리론",
+    "Answer_description": "법령은 사무직 근로자에 대해 매년 3시간 이상의 안전보건 정기교육을 규정하고 있다."
+  },
+  {
+    "Question_id": 13,
+    "Big_Question": "TWI 프로그램에는 Job Instruction, Job Relation, Job Method, Job Standardization Training이 포함된다.",
+    "Option1": "O",
+    "Option2": "X",
+    "Correct_Option": 2,
+    "Category": "안전관리론",
+    "Answer_description": "TWI는 JI, JR, JM 세 분야로 구성되며 ‘Job Standardization Training’은 공식 프로그램에 포함되지 않는다."
+  },
+  {
+    "Question_id": 14,
+    "Big_Question": "한국전기설비규정에 따르면 금속제 외함을 가진 저압 기계기구의 사용전압이 60 V인 경우 누전차단기를 설치해야 한다.",
+    "Option1": "O",
+    "Option2": "X",
+    "Correct_Option": 1,
+    "Category": "전기위험방지기술",
+    "Answer_description": "누전차단기 의무 설치 기준은 사용전압이 50 V를 초과할 때이므로 60 V이면 설치 대상이 맞다."
+  },
+  {
+    "Question_id": 15,
+    "Big_Question": "정전기 발생량은 물체의 분리속도가 빠를수록 감소한다.",
+    "Option1": "O",
+    "Option2": "X",
+    "Correct_Option": 2,
+    "Category": "전기위험방지기술",
+    "Answer_description": "분리속도가 빠를수록 전하 이동이 증가해 정전기 발생량이 오히려 커진다."
+  },
+  {
+    "Question_id": 16,
+    "Big_Question": "피뢰기는 제한 전압이 낮을수록 보호 성능이 좋다.",
+    "Option1": "O",
+    "Option2": "X",
+    "Correct_Option": 1,
+    "Category": "전기위험방지기술",
+    "Answer_description": "제한 전압이 낮아야 과전압이 설비에 전달되지 않으므로 피뢰기의 성능이 우수하다."
+  },
+  {
+    "Question_id": 17,
+    "Big_Question": "이황화탄소를 배관으로 수송할 때 정전기 방지를 위해 유속을 2.5 m/s 이상으로 유지해야 한다.",
+    "Option1": "O",
+    "Option2": "X",
+    "Correct_Option": 2,
+    "Category": "전기위험방지기술",
+    "Answer_description": "인화성 액체 수송 시 정전기 억제를 위해 유속을 1 m/s 이하로 낮추는 것이 원칙이며 2.5 m/s 이상은 위험을 증가시킨다."
+  },
+  {
+    "Question_id": 18,
+    "Big_Question": "거푸집 동바리 파이프서포트 높이가 3.5 m를 초과할 경우 2 m 이내마다 두 방향 수평연결재를 설치해야 한다.",
+    "Option1": "O",
+    "Option2": "X",
+    "Correct_Option": 1,
+    "Category": "건설안전기술",
+    "Answer_description": "가설 공사 기준에서 파이프서포트가 3.5 m를 초과하면 2 m 이내마다 2방향 수평연결재를 설치하도록 규정한다."
+  },
+  {
+    "Question_id": 19,
+    "Big_Question": "이동식 비계 작업발판의 최대 적재하중은 400 kg 이하로 해야 한다.",
+    "Option1": "O",
+    "Option2": "X",
+    "Correct_Option": 2,
+    "Category": "건설안전기술",
+    "Answer_description": "산업안전보건기준에 따르면 이동식 비계 작업발판의 최대 적재하중은 250 kg 이하로 제한된다."
+  },
+  {
+    "Question_id": 20,
+    "Big_Question": "건설용 타워크레인에는 과부하 방지장치가 필수 안전장치로 설치된다.",
+    "Option1": "O",
+    "Option2": "X",
+    "Correct_Option": 1,
+    "Category": "건설안전기술",
+    "Answer_description": "타워크레인의 안전장치에는 과부하 방지장치, 권과 방지장치, 비상정지장치 등이 포함된다."
+  },
+  {
+    "Question_id": 21,
+    "Big_Question": "사다리식 통로의 길이가 10 m 이상이면 7 m 이내마다 계단참을 설치해야 한다.",
+    "Option1": "O",
+    "Option2": "X",
+    "Correct_Option": 2,
+    "Category": "건설안전기술",
+    "Answer_description": "사다리식 통로가 10 m 이상일 때 계단참은 9 m 이내마다 설치하도록 규정되어 있다."
+  },
+  {
+    "Question_id": 22,
+    "Big_Question": "태양광이 있는 옥외 WBGT 계산식은 0.7×습구 + 0.2×흑구 + 0.1×건구 온도이다.",
+    "Option1": "O",
+    "Option2": "X",
+    "Correct_Option": 1,
+    "Category": "인간공학 및 시스템안전공학",
+    "Answer_description": "ISO 및 산업안전보건 기준에서 옥외(직사광) WBGT는 0.7 Tw + 0.2 Tg + 0.1 Td 공식을 사용한다."
+  },
+  {
+    "Question_id": 23,
+    "Big_Question": "HAZOP 기법은 짧은 시간과 저렴한 비용으로 수행 가능한 간단한 위험분석 방법이다.",
+    "Option1": "O",
+    "Option2": "X",
+    "Correct_Option": 2,
+    "Category": "인간공학 및 시스템안전공학",
+    "Answer_description": "HAZOP은 팀 회의 기반의 체계적·심층적 분석으로 많은 시간과 인력이 필요하며 비용도 상대적으로 높다."
+  },
+  {
+    "Question_id": 24,
+    "Big_Question": "착오(Mistake)는 계획 단계에서의 오류로, 상황을 잘못 해석하거나 목표를 잘못 설정해 발생한다.",
+    "Option1": "O",
+    "Option2": "X",
+    "Correct_Option": 1,
+    "Category": "인간공학 및 시스템안전공학",
+    "Answer_description": "인간 오류 분류에서 착오는 인지·계획 단계에서 잘못된 판단으로 생기는 오류를 의미한다."
+  },
+  {
+    "Question_id": 25,
+    "Big_Question": "완전 암조응이 일어나기까지는 보통 5분이면 충분하다.",
+    "Option1": "O",
+    "Option2": "X",
+    "Correct_Option": 2,
+    "Category": "인간공학 및 시스템안전공학",
+    "Answer_description": "암조응은 간상세포 로돕신 재합성에 약 30~40분이 소요되므로 5분은 충분하지 않다."
+  },
+  {
+    "Question_id": 26,
+    "Big_Question": "와이어 로프의 구성요소에는 소선, 스트랜드, 클립이 포함된다.",
+    "Option1": "O",
+    "Option2": "X",
+    "Correct_Option": 2,
+    "Category": "기계위험방지기술",
+    "Answer_description": "클립은 와이어 로프를 고정하는 부속품으로 구성요소가 아니다. 구성요소는 소선, 스트랜드, 심강으로 이루어진다."
+  },
+  {
+    "Question_id": 27,
+    "Big_Question": "산업안전보건법령상 기준 부하상태에서 지게차의 하역작업 시 전후 안정도는 18% 이내여야 한다.",
+    "Option1": "O",
+    "Option2": "X",
+    "Correct_Option": 1,
+    "Category": "기계위험방지기술",
+    "Answer_description": "법령 기준에 따르면 기준 부하상태 하역작업 시 지게차 전후 안정도 허용치는 18% 이내가 맞다."
+  },
+  {
+    "Question_id": 28,
+    "Big_Question": "금형을 설치하는 프레스의 T홈 안길이는 설치 볼트 지름의 최소 1.5배 이상이어야 한다.",
+    "Option1": "O",
+    "Option2": "X",
+    "Correct_Option": 1,
+    "Category": "기계위험방지기술",
+    "Answer_description": "T홈 안길이가 볼트 지름보다 작으면 고정력이 부족해 금형이 이탈할 위험이 있으므로 최소 1.5배 이상 확보하도록 규정한다."
+  },
+  {
+    "Question_id": 29,
+    "Big_Question": "밀링 작업에서 강력 절삭을 할 때 일감을 바이스에 짧게 물리는 것이 안전하다.",
+    "Option1": "O",
+    "Option2": "X",
+    "Correct_Option": 2,
+    "Category": "기계위험방지기술",
+    "Answer_description": "일감을 짧게 물면 고정력이 약해져 절삭 중 일감이 이탈할 수 있다. 강력 절삭 시에는 깊게 물려야 안전하다."
+  },
+  {
+    "Question_id": 30,
+    "Big_Question": "칩 브레이커는 절삭 시 발생한 칩을 짧게 끊어 작업 안전성을 높여준다.",
+    "Option1": "O",
+    "Option2": "X",
+    "Correct_Option": 1,
+    "Category": "기계위험방지기술",
+    "Answer_description": "칩 브레이커는 칩을 미세하게 분절시켜 칩 감김‧비산을 방지하므로 작업자의 안전과 공정 효율을 향상시킨다."
+  },
+  {
+    "Question_id": 31,
+    "Big_Question": "가열퍼지는 퍼지(purge)의 한 종류로 분류된다.",
+    "Option1": "O",
+    "Option2": "X",
+    "Correct_Option": 2,
+    "Category": "화학설비위험방지기술",
+    "Answer_description": "퍼지는 압력퍼지, 진공퍼지, 스위프퍼지처럼 불활성 가스로 내부 기체를 치환하는 방법을 말하며 ‘가열퍼지’라는 분류는 존재하지 않는다."
+  },
+  {
+    "Question_id": 32,
+    "Big_Question": "부탄의 폭발하한계는 약 1.7 vol%이다.",
+    "Option1": "O",
+    "Option2": "X",
+    "Correct_Option": 1,
+    "Category": "화학설비위험방지기술",
+    "Answer_description": "Jones식 및 실험값에 따르면 부탄(C₄H₁₀)의 폭발하한계는 약 1.7 vol%로 알려져 있다."
+  },
+  {
+    "Question_id": 33,
+    "Big_Question": "이산화탄소는 독성가스로 분류되지 않는다.",
+    "Option1": "O",
+    "Option2": "X",
+    "Correct_Option": 1,
+    "Category": "화학설비위험방지기술",
+    "Answer_description": "이산화탄소는 고농도에서 질식 위험은 있지만 독성가스 기준에 해당하지 않는다."
+  },
+  {
+    "Question_id": 34,
+    "Big_Question": "불활성화(inerting)는 폭발 방호 대책에 해당한다.",
+    "Option1": "O",
+    "Option2": "X",
+    "Correct_Option": 2,
+    "Category": "화학설비위험방지기술",
+    "Answer_description": "불활성화는 폭발을 ‘예방’하기 위한 방법이며, 폭발이 발생한 뒤 피해를 줄이는 ‘방호’ 대책과는 구분된다."
+  },
+  {
+    "Question_id": 35,
+    "Big_Question": "매슬로우의 욕구단계 이론에서 자아실현의 욕구는 다섯 번째 단계이다.",
+    "Option1": "O",
+    "Option2": "X",
+    "Correct_Option": 1,
+    "Category": "안전관리론",
+    "Answer_description": "매슬로우는 생리→안전→사회→존경→자아실현 순으로 5단계를 제시하며, 최상위 단계가 자아실현이다."
+  },
+  {
+    "Question_id": 36,
+    "Big_Question": "사무직 종사 근로자의 정기 안전보건교육은 산업안전보건법령에 따라 매분기 1시간 이상 실시해야 한다.",
+    "Option1": "O",
+    "Option2": "X",
+    "Correct_Option": 2,
+    "Category": "안전관리론",
+    "Answer_description": "사무직 근로자의 정기교육 기준은 ‘매년 3시간 이상’이며, 분기 1시간은 제조·현장근로 기준과 혼동한 내용이다."
+  },
+  {
+    "Question_id": 37,
+    "Big_Question": "재해예방의 4원칙에는 대책선정의 원칙이 포함된다.",
+    "Option1": "O",
+    "Option2": "X",
+    "Correct_Option": 1,
+    "Category": "안전관리론",
+    "Answer_description": "4원칙은 예방가능·원인연계·손실우연·대책선정의 원칙으로 구성된다."
+  },
+  {
+    "Question_id": 38,
+    "Big_Question": "안전보건관리규정에 ‘재해사례 연구 토의 결과’는 반드시 포함해야 하는 사항이다.",
+    "Option1": "O",
+    "Option2": "X",
+    "Correct_Option": 2,
+    "Category": "안전관리론",
+    "Answer_description": "필수 항목은 교육, 사고조사·대책, 작업장 안전·보건관리, 조직·직무 등에 한정되며 재해사례 토의 결과는 선택사항이다."
+  },
+  {
+    "Question_id": 39,
+    "Big_Question": "사용전압이 60 V인 금속제 외함의 저압 기계기구라면 누전차단기를 설치하지 않아도 된다.",
+    "Option1": "O",
+    "Option2": "X",
+    "Correct_Option": 2,
+    "Category": "전기위험방지기술",
+    "Answer_description": "한국전기설비규정상 50 V를 초과하면 사람이 쉽게 접촉할 우려가 있는 금속 외함에는 누전차단기를 의무적으로 설치해야 한다."
+  },
+  {
+    "Question_id": 40,
+    "Big_Question": "물체의 분리 속도가 빠를수록 정전기 발생량은 증가한다.",
+    "Option1": "O",
+    "Option2": "X",
+    "Correct_Option": 1,
+    "Category": "전기위험방지기술",
+    "Answer_description": "분리 속도가 빨라지면 전하 이동이 활발해져 표면에 축적되는 정전기가 많아진다."
+  },
+  {
+    "Question_id": 41,
+    "Big_Question": "피뢰기의 보호 성능은 제한전압이 낮을수록 우수하다.",
+    "Option1": "O",
+    "Option2": "X",
+    "Correct_Option": 1,
+    "Category": "전기위험방지기술",
+    "Answer_description": "제한전압이 낮으면 과전압이 설비에 전달되기 전에 충분히 차단·방전되므로 보호 효과가 높다."
+  },
+  {
+    "Question_id": 42,
+    "Big_Question": "KS C IEC 60079-10-2에서 20종 장소는 분진 폭발성 분위기가 가끔 존재하는 장소를 의미한다.",
+    "Option1": "O",
+    "Option2": "X",
+    "Correct_Option": 2,
+    "Category": "전기위험방지기술",
+    "Answer_description": "20종 장소는 분진 폭발성 분위기가 ‘지속적·장기간·빈번히’ 존재하는 구역이며, ‘가끔’ 존재하는 구역은 21종이다."
+  },
+  {
+    "Question_id": 43,
+    "Big_Question": "파이프서포트 높이가 4.5 m를 초과할 때는 높이 2 m 이내마다 두 방향으로 수평 연결재를 설치한다.",
+    "Option1": "O",
+    "Option2": "X",
+    "Correct_Option": 2,
+    "Category": "건설안전기술",
+    "Answer_description": "규정상 파이프서포트 높이가 3.5 m를 초과하면 2 m 이내마다 설치해야 하므로 4.5 m 기준은 잘못된 설명이다."
+  },
+  {
+    "Question_id": 44,
+    "Big_Question": "고소작업대에 사용하는 와이어로프나 체인의 안전율은 5 이상이어야 한다.",
+    "Option1": "O",
+    "Option2": "X",
+    "Correct_Option": 1,
+    "Category": "건설안전기술",
+    "Answer_description": "산업안전보건기준에 따라 고소작업대용 와이어로프·체인은 안전율 5 이상을 확보해야 한다."
+  },
+  {
+    "Question_id": 45,
+    "Big_Question": "토사붕괴의 원인에는 토사중량의 감소가 포함된다.",
+    "Option1": "O",
+    "Option2": "X",
+    "Correct_Option": 2,
+    "Category": "건설안전기술",
+    "Answer_description": "붕괴 위험은 토사중량이 증가할 때 커진다. 중량 감소는 오히려 안정도를 높이므로 원인에 해당하지 않는다."
+  },
+  {
+    "Question_id": 46,
+    "Big_Question": "유해·위험방지계획서는 건설공사 착공 전날까지 제출해야 한다.",
+    "Option1": "O",
+    "Option2": "X",
+    "Correct_Option": 1,
+    "Category": "건설안전기술",
+    "Answer_description": "산업안전보건법령에 따라 계획서는 착공 이전에 제출해야 하며, 최종 시한이 착공 전날이다."
+  },
+  {
+    "Question_id": 47,
+    "Big_Question": "PHA는 시스템 수명주기에서 가장 초기 단계에서 수행되는 위험분석 기법이다.",
+    "Option1": "O",
+    "Option2": "X",
+    "Correct_Option": 1,
+    "Category": "인간공학 및 시스템안전공학",
+    "Answer_description": "PHA(Preliminary Hazard Analysis)는 개념·설계 초기에 잠재 위험을 선별하기 위해 실시된다."
+  },
+  {
+    "Question_id": 48,
+    "Big_Question": "착오(Mistake)는 실행 단계에서 발생하는 오류를 의미한다.",
+    "Option1": "O",
+    "Option2": "X",
+    "Correct_Option": 2,
+    "Category": "인간공학 및 시스템안전공학",
+    "Answer_description": "착오는 계획·의사결정 단계에서 잘못된 목표나 규칙을 선택해 발생하며, 실행 과정에서의 실수(Slip)와 구분된다."
+  },
+  {
+    "Question_id": 49,
+    "Big_Question": "태양광이 있는 옥외 WBGT 계산식은 0.7 습구온도 + 0.2 흑구온도 + 0.1 건구온도이다.",
+    "Option1": "O",
+    "Option2": "X",
+    "Correct_Option": 1,
+    "Category": "인간공학 및 시스템안전공학",
+    "Answer_description": "ISO 7243 기준에 따라 태양광 노출 옥외 WBGT는 해당 가중치를 사용해 산출한다."
+  },
+  {
+    "Question_id": 50,
+    "Big_Question": "완전한 암조응이 이루어지는 데는 약 5 분이면 충분하다.",
+    "Option1": "O",
+    "Option2": "X",
+    "Correct_Option": 2,
+    "Category": "인간공학 및 시스템안전공학",
+    "Answer_description": "간상세포의 로돕신 재합성이 완료돼 완전 암조응이 되기까지는 약 30~40 분이 필요하다."
+  },
+  {
+    "Question_id": 51,
+    "Big_Question": "산업안전보건법령상 보일러의 두 번째 압력방출장치는 최고사용압력의 1.05배 이하에서 작동되도록 해야 한다.",
+    "Option1": "O",
+    "Option2": "X",
+    "Correct_Option": 1,
+    "Category": "기계위험방지기술",
+    "Answer_description": "법령에서는 압력방출장치가 2개 이상일 경우 첫 번째는 최고사용압력 이하, 두 번째는 최고사용압력의 1.05배 이하에서 작동하도록 규정하고 있다."
+  },
+  {
+    "Question_id": 52,
+    "Big_Question": "밀링 작업에서 강력 절삭 시에는 일감을 바이스에 짧게 물리는 것이 안전하다.",
+    "Option1": "O",
+    "Option2": "X",
+    "Correct_Option": 2,
+    "Category": "기계위험방지기술",
+    "Answer_description": "일감을 짧게 물리면 고정력이 약해져 이탈·파손 위험이 커진다. 강력 절삭 시에는 충분히 깊게 물려야 한다."
+  },
+  {
+    "Question_id": 53,
+    "Big_Question": "산업용 로봇 작업 중 이상을 발견한 근로자는 즉시 작업을 중지하고 관리감독자에게 보고해야 한다.",
+    "Option1": "O",
+    "Option2": "X",
+    "Correct_Option": 1,
+    "Category": "기계위험방지기술",
+    "Answer_description": "법령은 로봇 작업 중 이상 발견 시 즉시 작업중지 후 보고하도록 명시하고 있다. 계속 작업하는 것은 위법·위험하다."
+  },
+  {
+    "Question_id": 54,
+    "Big_Question": "지게차 기준 부하상태 하역작업 시 전후 안정도 기준은 25% 이내이다.",
+    "Option1": "O",
+    "Option2": "X",
+    "Correct_Option": 2,
+    "Category": "기계위험방지기술",
+    "Answer_description": "전후 안정도 기준은 18% 이내이다. 25%는 규정보다 큰 값으로 오답이다."
+  },
+  {
+    "Question_id": 55,
+    "Big_Question": "연삭기 작업 전 숫돌과 작업 받침대 간격은 2 mm 이하로 유지하는 것이 안전수칙이다.",
+    "Option1": "O",
+    "Option2": "X",
+    "Correct_Option": 1,
+    "Category": "기계위험방지기술",
+    "Answer_description": "산업안전보건기준에 따라 숫돌과 작업받침대 간격은 2 mm 이하로 유지해야 이물 끼임과 숫돌 파손을 예방할 수 있다."
+  },
+  {
+    "Question_id": 56,
+    "Big_Question": "흡열반응이 일어나는 반응장치는 계측장치(온도계·압력계 등) 설치 대상에 포함된다.",
+    "Option1": "O",
+    "Option2": "X",
+    "Correct_Option": 2,
+    "Category": "화학설비위험방지기술",
+    "Answer_description": "흡열반응 장치는 폭열 위험이 상대적으로 낮아 법령상 계측장치 의무설치 대상에서 제외된다."
+  },
+  {
+    "Question_id": 57,
+    "Big_Question": "부탄(C₄H₁₀)의 폭발하한계는 약 1.7 vol%이다.",
+    "Option1": "O",
+    "Option2": "X",
+    "Correct_Option": 1,
+    "Category": "화학설비위험방지기술",
+    "Answer_description": "Jones식 및 실험값 모두 부탄의 폭발하한계를 약 1.7 vol%로 제시한다."
+  },
+  {
+    "Question_id": 58,
+    "Big_Question": "가열퍼지는 퍼지(purge)의 한 종류로 국제 기준에 포함된다.",
+    "Option1": "O",
+    "Option2": "X",
+    "Correct_Option": 2,
+    "Category": "화학설비위험방지기술",
+    "Answer_description": "퍼지는 압력퍼지·진공퍼지·스위프퍼지 등이 있으며 가열퍼지는 퍼지 방법으로 인정되지 않는다."
+  },
+  {
+    "Question_id": 59,
+    "Big_Question": "이산화탄소는 독성가스가 아닌 비활성 기체로 분류된다.",
+    "Option1": "O",
+    "Option2": "X",
+    "Correct_Option": 1,
+    "Category": "화학설비위험방지기술",
+    "Answer_description": "CO₂는 질식 위험은 있지만 독성가스로 분류되지 않는다. 황화수소·시안화수소 등이 독성가스에 해당한다."
+  },
+  {
+    "Question_id": 60,
+    "Big_Question": "매슬로우 욕구단계에서 자아실현의 욕구는 다섯 번째 단계이다.",
+    "Option1": "O",
+    "Option2": "X",
+    "Correct_Option": 1,
+    "Category": "안전관리론",
+    "Answer_description": "매슬로우는 생리→안전→사회→존경→자아실현 순으로 제시하였으며 자아실현이 최상위(5단계) 욕구이다."
+  },
+  {
+    "Question_id": 61,
+    "Big_Question": "재해예방의 4원칙에는 ‘재해 연쇄성의 원칙’이 포함된다.",
+    "Option1": "O",
+    "Option2": "X",
+    "Correct_Option": 2,
+    "Category": "안전관리론",
+    "Answer_description": "재해연쇄성은 하인리히의 원리로 4원칙(예방가능·손실우연·원인연계·대책선정)에는 포함되지 않는다."
+  },
+  {
+    "Question_id": 62,
+    "Big_Question": "사무직 근로자의 정기 안전보건교육은 매년 3시간 이상 실시해야 한다.",
+    "Option1": "O",
+    "Option2": "X",
+    "Correct_Option": 1,
+    "Category": "안전관리론",
+    "Answer_description": "산업안전보건법령은 사무직 정기교육을 ‘매년 3 시간 이상’으로 규정한다. 분기 1시간은 잘못된 기준이다."
+  },
+  {
+    "Question_id": 63,
+    "Big_Question": "버드의 신 도미노이론 5단계에는 ‘간접원인’ 단계가 포함된다.",
+    "Option1": "O",
+    "Option2": "X",
+    "Correct_Option": 2,
+    "Category": "안전관리론",
+    "Answer_description": "신 도미노 5단계는 제어부족-기본원인-직접원인-사고-손실이며 ‘간접원인’이라는 단계는 없다."
+  },
+  {
+    "Question_id": 64,
+    "Big_Question": "금속 외함을 가진 저압 기계의 사용전압이 50 V를 초과하면 누전차단기를 설치해야 한다.",
+    "Option1": "O",
+    "Option2": "X",
+    "Correct_Option": 1,
+    "Category": "전기위험방지기술",
+    "Answer_description": "한국전기설비규정에서 50 V를 초과하는 저압 금속 외함 기기는 누전차단기 설치를 의무화한다."
+  },
+  {
+    "Question_id": 65,
+    "Big_Question": "물체의 분리 속도가 빠를수록 정전기 발생량은 줄어든다.",
+    "Option1": "O",
+    "Option2": "X",
+    "Correct_Option": 2,
+    "Category": "전기위험방지기술",
+    "Answer_description": "분리 속도가 빠르면 전하 이동이 활발해져 정전기 발생량이 증가한다. 진술은 옳지 않다."
+  },
+  {
+    "Question_id": 66,
+    "Big_Question": "피뢰기는 제한전압이 낮을수록 보호 성능이 우수하다.",
+    "Option1": "O",
+    "Option2": "X",
+    "Correct_Option": 1,
+    "Category": "전기위험방지기술",
+    "Answer_description": "제한전압이 낮아야 과전압이 설비에 전달되지 않으므로 성능이 좋다고 평가된다."
+  },
+  {
+    "Question_id": 67,
+    "Big_Question": "접지저항을 낮추기 위해 접지극의 크기를 가능한 한 작게 해야 한다.",
+    "Option1": "O",
+    "Option2": "X",
+    "Correct_Option": 2,
+    "Category": "전기위험방지기술",
+    "Answer_description": "접지극 면적을 넓혀야 접촉저항이 줄어들어 접지저항이 감소한다. 작게 하면 오히려 증가한다."
+  },
+  {
+    "Question_id": 68,
+    "Big_Question": "고소작업대에서 사용하는 와이어로프 또는 체인의 안전율은 5 이상이어야 한다.",
+    "Option1": "O",
+    "Option2": "X",
+    "Correct_Option": 1,
+    "Category": "건설안전기술",
+    "Answer_description": "가설공사 표준안전지침은 고소작업대 로프·체인의 안전율을 5 이상으로 규정한다. 3은 기준 미달이다."
+  },
+  {
+    "Question_id": 69,
+    "Big_Question": "이동식 비계 작업발판의 최대 적재하중 기준은 400 kg이다.",
+    "Option1": "O",
+    "Option2": "X",
+    "Correct_Option": 2,
+    "Category": "건설안전기술",
+    "Answer_description": "산업안전보건기준에 따르면 이동식 비계 발판 적재하중은 250 kg 이하로 제한된다. 400 kg은 초과치이다."
+  },
+  {
+    "Question_id": 70,
+    "Big_Question": "토사 붕괴 원인에는 토사중량의 증가가 포함된다.",
+    "Option1": "O",
+    "Option2": "X",
+    "Correct_Option": 1,
+    "Category": "건설안전기술",
+    "Answer_description": "경사 증대, 하중 작용 및 토사중량 증가 등은 사면 안정성을 악화시켜 붕괴 위험을 높인다."
+  },
+  {
+    "Question_id": 71,
+    "Big_Question": "사다리식 통로의 길이가 10 m 이상일 때 계단참은 7 m 이내마다 설치하면 된다.",
+    "Option1": "O",
+    "Option2": "X",
+    "Correct_Option": 2,
+    "Category": "건설안전기술",
+    "Answer_description": "규정상 10 m 이상인 경우 9 m 이내마다 계단참을 설치해야 한다. 7 m는 아닌 9 m 기준이다."
+  },
+  {
+    "Question_id": 72,
+    "Big_Question": "태양광이 있는 옥외 WBGT는 0.7×습구 + 0.2×흑구 + 0.1×건구 온도로 계산한다.",
+    "Option1": "O",
+    "Option2": "X",
+    "Correct_Option": 1,
+    "Category": "인간공학 및 시스템안전공학",
+    "Answer_description": "ISO 7243와 국내 고시에 따라 옥외(태양 있음) WBGT 산식은 0.7 Tn + 0.2 Tg + 0.1 Td 이다."
+  },
+  {
+    "Question_id": 73,
+    "Big_Question": "HAZOP 가이드워드 ‘Other than’은 ‘기타 환경적 요인’을 의미한다.",
+    "Option1": "O",
+    "Option2": "X",
+    "Correct_Option": 2,
+    "Category": "인간공학 및 시스템안전공학",
+    "Answer_description": "‘Other than’은 의도와 다른 동작·상태를 의미하며 환경요인을 가리키지 않는다."
+  },
+  {
+    "Question_id": 74,
+    "Big_Question": "완전 암조응이 이루어지는 데는 약 30~40분이 소요된다.",
+    "Option1": "O",
+    "Option2": "X",
+    "Correct_Option": 1,
+    "Category": "인간공학 및 시스템안전공학",
+    "Answer_description": "간상세포 로돕신 재합성이 완료돼 시감도가 최대가 되려면 약 30–40 분이 필요하다."
+  },
+  {
+    "Question_id": 75,
+    "Big_Question": "부정 게이트(NOT 게이트)는 입력과 동일한 상태를 출력한다.",
+    "Option1": "O",
+    "Option2": "X",
+    "Correct_Option": 2,
+    "Category": "인간공학 및 시스템안전공학",
+    "Answer_description": "부정 게이트는 입력을 반전시켜 출력하며, 입력과 동일하지 않고 반대 상태를 나타낸다."
+  },
+  {
+    "Question_id": 76,
+    "Big_Question": "산업안전보건법령에 따르면 보일러에 압력방출장치를 2개 이상 설치한 경우 두 번째 방출장치는 최고사용압력의 1.05배 이하에서 작동하도록 해야 한다.",
+    "Option1": "O",
+    "Option2": "X",
+    "Correct_Option": 1,
+    "Category": "기계위험방지기술",
+    "Answer_description": "법령은 첫 번째 방출장치를 최고사용압력 이하, 두 번째 방출장치를 최고사용압력의 1.05배 이하에서 작동하도록 규정하고 있으므로 진술은 옳다."
+  },
+  {
+    "Question_id": 77,
+    "Big_Question": "연삭기 덮개는 산업안전보건법령상 안전인증대상 방호장치에 해당한다.",
+    "Option1": "O",
+    "Option2": "X",
+    "Correct_Option": 2,
+    "Category": "기계위험방지기술",
+    "Answer_description": "연삭기 덮개는 안전인증대상이 아니라 자율안전확인대상 방호장치이므로 진술은 틀렸다."
+  },
+  {
+    "Question_id": 78,
+    "Big_Question": "밀링 작업에서 강력 절삭을 할 때는 일감을 바이스에 깊게 물려 고정력을 높이는 것이 안전수칙이다.",
+    "Option1": "O",
+    "Option2": "X",
+    "Correct_Option": 1,
+    "Category": "기계위험방지기술",
+    "Answer_description": "강력 절삭 시 일감을 짧게 물리면 이탈 위험이 커지므로 충분히 깊게 물려야 한다. 진술은 옳다."
+  },
+  {
+    "Question_id": 79,
+    "Big_Question": "자동보수장치는 크레인의 방호장치에 해당한다.",
+    "Option1": "O",
+    "Option2": "X",
+    "Correct_Option": 2,
+    "Category": "기계위험방지기술",
+    "Answer_description": "자동보수장치는 유지‧보수 관련 설비로 권과방지, 과부하방지, 비상정지와 같은 방호장치에 포함되지 않는다."
+  },
+  {
+    "Question_id": 80,
+    "Big_Question": "천장크레인에서 3 kN 화물을 두 줄 와이어(각도 55°)로 매달면 각 와이어에 약 1.7 kN의 장력이 걸린다.",
+    "Option1": "O",
+    "Option2": "X",
+    "Correct_Option": 1,
+    "Category": "기계위험방지기술",
+    "Answer_description": "T = W /(2 cos θ/2)=3 / (2×cos27.5°)=≈1.7 kN이므로 진술이 맞다."
+  },
+  {
+    "Question_id": 81,
+    "Big_Question": "질화면은 건조 상태에서 자연분해로 발화 위험이 있어 에틸알코올 등으로 습윤 상태를 유지해야 한다.",
+    "Option1": "O",
+    "Option2": "X",
+    "Correct_Option": 1,
+    "Category": "화학설비위험방지기술",
+    "Answer_description": "질화면은 건조 시 열·충격에 민감해 자연발화할 수 있으므로 습윤 저장이 필수이다."
+  },
+  {
+    "Question_id": 82,
+    "Big_Question": "이산화탄소는 산업안전보건법령상 독성가스로 분류된다.",
+    "Option1": "O",
+    "Option2": "X",
+    "Correct_Option": 2,
+    "Category": "화학설비위험방지기술",
+    "Answer_description": "이산화탄소는 질식성 비활성가스로, 황화수소·시안화수소 등과 같은 독성가스에 포함되지 않는다."
+  },
+  {
+    "Question_id": 83,
+    "Big_Question": "폭발 방호 대책에는 불활성화(inerting)가 포함된다.",
+    "Option1": "O",
+    "Option2": "X",
+    "Correct_Option": 2,
+    "Category": "화학설비위험방지기술",
+    "Answer_description": "불활성화는 폭발 자체를 예방하는 방법이며, 방호(억제·방산·봉쇄)는 폭발 후 피해 저감 대책이다."
+  },
+  {
+    "Question_id": 84,
+    "Big_Question": "산업안전보건법령에서 인화성 가스란 인화한계 최저한도가 13 % 이하이거나 최고한도와 최저한도의 차가 12 % 이상인 가스를 말한다.",
+    "Option1": "O",
+    "Option2": "X",
+    "Correct_Option": 1,
+    "Category": "화학설비위험방지기술",
+    "Answer_description": "법령 정의가 그대로 적용되므로 진술은 옳다."
+  },
+  {
+    "Question_id": 85,
+    "Big_Question": "매슬로우 욕구단계 이론에서 자아실현의 욕구는 다섯 번째 단계에 해당한다.",
+    "Option1": "O",
+    "Option2": "X",
+    "Correct_Option": 1,
+    "Category": "안전관리론",
+    "Answer_description": "1 생리→2 안전→3 사회→4 존경→5 자아실현 순이므로 진술이 맞다."
+  },
+  {
+    "Question_id": 86,
+    "Big_Question": "산업안전보건관리규정에는 재해사례 연구‧토의 결과를 반드시 포함해야 한다.",
+    "Option1": "O",
+    "Option2": "X",
+    "Correct_Option": 2,
+    "Category": "안전관리론",
+    "Answer_description": "필수 항목은 교육, 사고조사, 작업장 안전관리, 조직‧직무 등이며 재해사례 토의 결과는 의무사항이 아니다."
+  },
+  {
+    "Question_id": 87,
+    "Big_Question": "사망만인율은 (사망자 수 ÷ 근로자 수) × 10 000 으로 계산한다.",
+    "Option1": "O",
+    "Option2": "X",
+    "Correct_Option": 1,
+    "Category": "안전관리론",
+    "Answer_description": "사망만인율 정의가 그대로이므로 진술은 옳다."
+  },
+  {
+    "Question_id": 88,
+    "Big_Question": "버드의 신(新) 도미노이론 5단계에는 ‘간접원인’ 단계가 포함되어 있다.",
+    "Option1": "O",
+    "Option2": "X",
+    "Correct_Option": 2,
+    "Category": "안전관리론",
+    "Answer_description": "신 도미노이론 단계는 제어부족→기본원인→직접원인→사고→손실이며 ‘간접원인’은 포함되지 않는다."
+  },
+  {
+    "Question_id": 89,
+    "Big_Question": "이황화탄소를 배관으로 수송할 때 유속을 2.5 m/s 이상으로 올리면 정전기 재해 위험이 감소한다.",
+    "Option1": "O",
+    "Option2": "X",
+    "Correct_Option": 2,
+    "Category": "전기위험방지기술",
+    "Answer_description": "가연성 액체는 1 m/s 이하의 저유속으로 이송해야 정전기 발생이 억제된다. 고유속은 위험을 증가시킨다."
+  },
+  {
+    "Question_id": 90,
+    "Big_Question": "KS C IEC 60079-10-2에서 폭발성 분진 분위기가 지속적·장기간 존재하는 장소를 20종 장소라고 정의한다.",
+    "Option1": "O",
+    "Option2": "X",
+    "Correct_Option": 1,
+    "Category": "전기위험방지기술",
+    "Answer_description": "규정에 따르면 20종 장소가 ‘지속 또는 빈번히’ 존재하는 구역이므로 진술이 옳다."
+  },
+  {
+    "Question_id": 91,
+    "Big_Question": "피뢰기의 보호 성능을 높이려면 제한전압이 높아야 한다.",
+    "Option1": "O",
+    "Option2": "X",
+    "Correct_Option": 2,
+    "Category": "전기위험방지기술",
+    "Answer_description": "제한전압은 낮을수록 설비에 전달되는 과전압을 줄여 보호 효과가 커진다. 진술은 잘못되었다."
+  },
+  {
+    "Question_id": 92,
+    "Big_Question": "금속제 외함을 가진 저압 기계기구가 사용전압 60 V이면 한국전기설비규정상 누전차단기를 설치해야 한다.",
+    "Option1": "O",
+    "Option2": "X",
+    "Correct_Option": 1,
+    "Category": "전기위험방지기술",
+    "Answer_description": "사람이 접촉할 우려가 있는 금속 외함은 사용전압이 50 V를 초과하면 누전차단기 설치 의무가 있다."
+  },
+  {
+    "Question_id": 93,
+    "Big_Question": "거푸집 동바리의 파이프서포트 높이가 4.5 m를 초과하는 경우에만 2 m 이내마다 두 방향으로 수평 연결재를 설치하면 된다.",
+    "Option1": "O",
+    "Option2": "X",
+    "Correct_Option": 2,
+    "Category": "건설안전기술",
+    "Answer_description": "기준은 3.5 m 초과 시 2 m 이내마다 설치하도록 하고 있으므로 진술은 틀렸다."
+  },
+  {
+    "Question_id": 94,
+    "Big_Question": "고소작업대에 사용하는 와이어로프·체인의 안전율은 5 이상이어야 한다.",
+    "Option1": "O",
+    "Option2": "X",
+    "Correct_Option": 1,
+    "Category": "건설안전기술",
+    "Answer_description": "산업안전보건규칙은 고소작업대용 와이어로프·체인의 안전율을 5 이상으로 규정한다."
+  },
+  {
+    "Question_id": 95,
+    "Big_Question": "토사붕괴의 원인에는 ‘토사 중량의 감소’가 포함된다.",
+    "Option1": "O",
+    "Option2": "X",
+    "Correct_Option": 2,
+    "Category": "건설안전기술",
+    "Answer_description": "붕괴는 토사 중량 증가, 경사 증가 등으로 발생하며 중량 감소는 오히려 안정성을 높인다."
+  },
+  {
+    "Question_id": 96,
+    "Big_Question": "옥외 주행크레인은 순간풍속이 초당 30 m를 초과할 우려가 있을 때 이탈방지장치를 작동시키는 등 조치를 해야 한다.",
+    "Option1": "O",
+    "Option2": "X",
+    "Correct_Option": 1,
+    "Category": "건설안전기술",
+    "Answer_description": "산업안전보건기준에 관한 규칙에서 정한 풍속 기준(30 m/s 초과)과 일치하므로 진술은 옳다."
+  },
+  {
+    "Question_id": 97,
+    "Big_Question": "PHA(Preliminary Hazard Analysis)는 시스템 수명주기에서 가장 이른 단계에 적용되는 위험분석 기법이다.",
+    "Option1": "O",
+    "Option2": "X",
+    "Correct_Option": 1,
+    "Category": "인간공학 및 시스템안전공학",
+    "Answer_description": "PHA는 개념‧설계 초기 단계에서 잠재적 위험을 폭넓게 파악하기 위해 실시되는 최초 분석이다."
+  },
+  {
+    "Question_id": 98,
+    "Big_Question": "착오(Mistake)는 실행 단계에서 잘못된 동작을 수행하여 발생하는 오류이다.",
+    "Option1": "O",
+    "Option2": "X",
+    "Correct_Option": 2,
+    "Category": "인간공학 및 시스템안전공학",
+    "Answer_description": "착오는 계획‧의사결정 단계의 오류이고, 실행 단계 오류는 실수(Slip)·건망증(Lapse)에 해당한다."
+  },
+  {
+    "Question_id": 99,
+    "Big_Question": "OWAS 작업자세 평가에서는 상지·허리·하지 자세와 취급 하중을 모두 평가요소로 사용한다.",
+    "Option1": "O",
+    "Option2": "X",
+    "Correct_Option": 1,
+    "Category": "인간공학 및 시스템안전공학",
+    "Answer_description": "OWAS는 네 가지 요소(허리, 상지, 하지, 하중)를 조합해 부담등급을 판정한다."
+  },
+  {
+    "Question_id": 100,
+    "Big_Question": "태양광이 있는 옥외 WBGT는 0.7 습구온도 + 0.3 흑구온도로 계산한다.",
+    "Option1": "O",
+    "Option2": "X",
+    "Correct_Option": 2,
+    "Category": "인간공학 및 시스템안전공학",
+    "Answer_description": "옥외(태양광) WBGT 공식은 0.7 습구 + 0.2 흑구 + 0.1 건구이다. 진술 식은 옥내용 식이므로 틀렸다."
+  }
+]

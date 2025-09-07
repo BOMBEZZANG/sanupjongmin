@@ -1,0 +1,151 @@
+final Map<String, Map<String, dynamic>> studyNotes = {
+  '1. 위험분석 기법과 수명주기 적용': {
+    'description': ''' - 위험성 평가는 ‘유해‧위험요인 파악 → 빈도·중대성 평가 → 허용 여부 판단 → 저감 대책 수립·실행’의 순으로 진행된다.
+ - PHA(Preliminary Hazard Analysis): 시스템 정의·개념 설계 단계에서 수행, 사고 범주는 파국적‧중대‧한계적‧무시가능이 표준이며 ‘수용가능’은 범주가 아니다.
+ - FHA(Functional Hazard Analysis): 기능 단위로 위험을 점검, 기본 설계‧요구조건 정의 단계에 적용된다.
+ - OHA(Operational Hazard Analysis): 운전·정비 단계의 위험을 다루며 PHA/FHA 이후에 실시된다.
+ - HAZOP: P&ID 수준의 세부 설계 단계에서 ‘Guide-word(예: Other than = 의도와 다른 상태)’를 이용해 공정 편차를 체계적으로 도출한다. 시간·비용이 많이 들지만 은닉 위험을 잘 찾아낸다.
+ - ETA(Event Tree Analysis): ‘초기사건 → 연속적 성공/실패 가지’ 구조로 결과 시나리오를 정량화(예: 화재 발생 후 감지기·경보·스프링클러 작동 여부).
+ - Technology Assessment: 기술 개발 시 효율성과 위험성을 종합적으로 판단해 사업성을 결정한다.''',
+    'related_questions': [
+      {'date': '2022년 4월', 'question_id': 21},
+      {'date': '2022년 4월', 'question_id': 27},
+      {'date': '2022년 4월', 'question_id': 37},
+      {'date': '2022년 3월', 'question_id': 23},
+      {'date': '2022년 3월', 'question_id': 25},
+      {'date': '2022년 3월', 'question_id': 29},
+      {'date': '2021년 8월', 'question_id': 31},
+      {'date': '2021년 8월', 'question_id': 34},
+    ],
+  },
+  '2. FTA·논리 해석과 최소 컷셋': {
+    'description': ''' - FTA(Fault Tree Analysis)는 Top-down 방식으로 정상(Top)사건의 논리 구조를 AND, OR, 부정(NOT) 게이트로 표현하여 정성·정량 분석 모두 수행한다.
+ - 기호: 사각형-결함사상, 원형-기초사상, 구름-외부사상, ‘조건사상’ 기호는 평상 조건(작업·환경) 존재를 표시한다.
+ - 최소 컷셋(MCS): Top 사건을 유발하는 ‘최소’ 기본사상 조합. Fussell 알고리즘이나 Boolean 축약으로 도출한다. 예) {1,3}.
+ - 확률 계산: 독립 가정 시 P(T)=q₁q₂+q₁q₃+q₂q₃−2q₁q₂q₃ 등 공집합 배제법 활용.
+ - Boolean 대수 핵심 정리: A·Ā=0, A+Ā=1, A(A+B)=A, (A+B)(A+ C)=A+BC 등. 오식 오류는 컷셋 단순화에 직결된다.
+ - NOT(부정) 게이트는 입력의 반대를 출력하며, 논리식 부정(¯) 기호와 동일 개념이다.''',
+    'related_questions': [
+      {'date': '2022년 4월', 'question_id': 28},
+      {'date': '2022년 4월', 'question_id': 30},
+      {'date': '2022년 4월', 'question_id': 31},
+      {'date': '2022년 4월', 'question_id': 39},
+      {'date': '2022년 3월', 'question_id': 26},
+      {'date': '2022년 3월', 'question_id': 30},
+      {'date': '2022년 3월', 'question_id': 37},
+      {'date': '2021년 8월', 'question_id': 25},
+      {'date': '2021년 8월', 'question_id': 28},
+      {'date': '2021년 8월', 'question_id': 33},
+    ],
+  },
+  '3. 시스템 신뢰도와 욕조곡선': {
+    'description': ''' - 욕조곡선: 초기고장(감소형)-우발(상수)-마모(증가형). 초기 구간의 고장률 저감을 ‘디버깅’이라 한다.
+ - 직렬 시스템: R=∏ri. 병렬 시스템: R=1−∏(1−ri). 동일 부품 두 직렬 블록 병렬 연결 시 R=r²(2−r²).
+ - n개 요소 병렬(지수수명)의 평균수명: MTTF_system = MTTF ×(1+½+…+1/n).
+ - 사례 계산: 타이어 4개(고장 0.01) 자동차의 신뢰도 =0.99⁴≈0.96.
+ - Fail-operational: 요소 고장 후에도 일정 기간 안전 기능 유지(운항·제어 연속성 확보).''',
+    'related_questions': [
+      {'date': '2022년 4월', 'question_id': 24},
+      {'date': '2022년 4월', 'question_id': 34},
+      {'date': '2022년 3월', 'question_id': 22},
+      {'date': '2022년 3월', 'question_id': 38},
+      {'date': '2021년 8월', 'question_id': 23},
+      {'date': '2021년 8월', 'question_id': 35},
+    ],
+  },
+  '4. 휴먼에러 분류와 대책': {
+    'description': ''' - Mistake(착오): 계획 단계 오류, 상황 해석·목표 설정 오판.
+• Rule-based mistake: 익숙한 규칙을 다른 상황에 부적절 적용(좌측통행 도로에서 우측 운전).
+ - Slip/omission: 실행 단계에서 필요한 행위 누락(부품 하나 빼먹음).
+ - Violation: 의도적 규칙 위반.
+ - 효과적 예방: 인터페이스 단순화, 체크리스트, 피드백 제공, 규칙 전이 교육.''',
+    'related_questions': [
+      {'date': '2022년 4월', 'question_id': 22},
+      {'date': '2022년 3월', 'question_id': 40},
+      {'date': '2021년 8월', 'question_id': 21},
+    ],
+  },
+  '5. 인간-기계 기능 할당과 시스템 설계': {
+    'description': ''' - 인간공학 철학: 작업·기계를 인간 특성에 맞춘다(반대로 설계 X).
+ - 시스템 설계 단계: 목표 명세 → 시스템 정의 → 기본 설계(인간·기계 기능 할당) → 인터페이스 설계 → 편의/보조물 설계 → 평가.
+ - 수동 시스템: 인간이 동력·제어. 반자동‧자동은 기계가 동력 제공.
+ - Fail-safe 설계: fail-operational, fail-active, fail-passive, fail-soft 등 조건에 맞춰 안전성 확보.
+ - 최종 목표: 안전성과 효율성 동시 향상.''',
+    'related_questions': [
+      {'date': '2022년 4월', 'question_id': 26},
+      {'date': '2022년 4월', 'question_id': 35},
+      {'date': '2022년 3월', 'question_id': 38},
+      {'date': '2021년 8월', 'question_id': 27},
+      {'date': '2021년 8월', 'question_id': 30},
+    ],
+  },
+  '6. 인체치수·작업자세 설계와 근골격계 평가': {
+    'description': ''' - 치수 적용 원칙:
+• 최대치(95~99백분위): 통로·문, 가드 간격 등 ‘들어갈 수 있어야 하는’ 설계.
+• 최소치(1~5백분위): 손잡이 거리, 발판 높이 등 ‘닿을 수 있어야 하는’ 설계.
+• 평균치: 조작 위치가 고정된 공용 설비.
+ - 좌판 높이: 5% 오금높이 기준 → 대부분 착석 가능.
+ - 좌식작업 적합 작업: 정밀 조립처럼 안정·정밀성이 핵심인 과제.
+ - OWAS 평가요소: 상지·하지·허리 자세 + 취급 하중.
+ - 근골격계부담작업 고시 예외: 손/무릎 충격 작업(2h·5회/h) 등은 제외 항목.''',
+    'related_questions': [
+      {'date': '2022년 4월', 'question_id': 32},
+      {'date': '2022년 4월', 'question_id': 33},
+      {'date': '2022년 3월', 'question_id': 32},
+      {'date': '2021년 8월', 'question_id': 29},
+      {'date': '2021년 8월', 'question_id': 32},
+    ],
+  },
+  '7. 작업 부하·휴식 및 생리적 지표': {
+    'description': ''' - 에너지 부하 관리: ‘작업+휴식’ 1시간 평균 ≤5 kcal/min 유지. 필요 휴식시간 t_r = (E_work−E_limit)/(E_work−E_rest) × 60. 예) 13.3 분.
+ - 정신적 작업 부하 지표: EEG, 부정맥 지수, 점멸융합주파수(CFF) 등. EMG·GSR은 주로 신체적‧정서적 반응용.
+ - 스트레스→스트레인: 자율신경·근육 반응 측정으로 부담을 정량화하고, 작업시간·휴식배분·레イ아웃 개선으로 저감한다.''',
+    'related_questions': [
+      {'date': '2022년 4월', 'question_id': 23},
+      {'date': '2022년 3월', 'question_id': 24},
+      {'date': '2021년 8월', 'question_id': 22},
+    ],
+  },
+  '8. 열 환경 지수와 적정 한계': {
+    'description': ''' - WBGT(습구흑구온도지수)
+• 옥외(태양): 0.7 Tn + 0.2 Tg + 0.1 Td.
+• 옥내(무태양): 0.7 Tn + 0.3 Tg.
+• 예) 20 ℃/18 ℃/30 ℃ 옥외 → 20.6 ℃.
+ - Oxford index: (건구+습구)/2.
+ - WBGT 30 ℃ 이상은 고온 작업, 강도·노출시간·휴식 비율을 조정해야 함.''',
+    'related_questions': [
+      {'date': '2022년 4월', 'question_id': 38},
+      {'date': '2022년 3월', 'question_id': 36},
+      {'date': '2021년 8월', 'question_id': 39},
+    ],
+  },
+  '9. 감각·표시 설계와 양립성': {
+    'description': ''' - 시각
+• 조도 E = I/d², 광원의 세기는 광도(I), illuminance가 아님. 3 m 300 lx → 2 m 675 lx.
+• 어둠 순응(암조응) 완전 형성: 약 30~40 분.
+• 시야 구분: 유도시야는 존재 여부만 판별 가능하나 공간 감각에는 영향.
+• 시각 식별 ↑: 충분 조도, 고휘도 대비, 적절 반사율.
+ - 청각
+• 긴급·장거리 경보(>300 m)는 1 kHz 이하 저주파가 감쇠 적어 효과적.
+• 1 sone: 1 kHz 40 dB 순음의 음량.
+• 음성전달 품질 지표: Speech Interference Level(=통화간섭수준)·명료도 지수(C₅₀, 예 1.38).
+• 양식 양립성(modal compatibility): 청각 자극-음성 반응처럼 입력·출력 감각양식 일치. 감성 양립성은 정식 분류에 없음.
+• 청각 표시 설계 원리: 검약성(적은 ‘음’ 종류), 근사성(같은 의미는 비슷한 소리), 분리성(상충 신호 주파수 분리), 양립성(직관적 연결).
+ - 정보량: I=log₂N, 대안 64개 → 6 bit 필요.
+---''',
+    'related_questions': [
+      {'date': '2022년 4월', 'question_id': 25},
+      {'date': '2022년 4월', 'question_id': 29},
+      {'date': '2022년 4월', 'question_id': 36},
+      {'date': '2022년 4월', 'question_id': 40},
+      {'date': '2022년 3월', 'question_id': 28},
+      {'date': '2022년 3월', 'question_id': 31},
+      {'date': '2022년 3월', 'question_id': 33},
+      {'date': '2022년 3월', 'question_id': 39},
+      {'date': '2021년 8월', 'question_id': 24},
+      {'date': '2021년 8월', 'question_id': 26},
+      {'date': '2021년 8월', 'question_id': 36},
+      {'date': '2021년 8월', 'question_id': 37},
+    ],
+  },
+};
