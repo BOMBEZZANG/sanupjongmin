@@ -1,7 +1,7 @@
 name: sanupjongmin
 description: A new Flutter project.
 publish_to: none
-version: 8.0.0+6
+version: 8.10.0+8
 environment:
   sdk: ^3.7.2
 dependencies:
@@ -11,7 +11,7 @@ dependencies:
   fluttertoast: ^8.2.8
   sqflite: ^2.4.0
   shared_preferences: ^2.3.2
-  google_mobile_ads: ^4.0.0
+  google_mobile_ads: ^6.0.0
   path: ^1.8.0
   in_app_purchase: ^3.2.1
   provider: ^6.1.2
@@ -26,6 +26,14 @@ dependencies:
   vector_math: ^2.1.4
   flutter_html: ^3.0.0
   font_awesome_flutter: ^10.8.0
+  gma_mediation_applovin: ^2.3.2
+  gma_mediation_ironsource: ^1.5.0
+  # gma_mediation_pangle: ^3.2.1
+  gma_mediation_unity: ^1.6.0
+  firebase_core: ^4.1.0
+
+  firebase_analytics: ^12.0.1
+
 dev_dependencies:
   flutter_test:
     sdk: flutter
@@ -40,9 +48,12 @@ flutter:
   - assets/audio/question1/
   - assets/audio/question2/
   - assets/audio/question3/
+  - assets/audio/question4/
+  - assets/audio/question5/
+  - assets/audio/question6/
+  - assets/audio/question7/
   - assets/audio/summary/
   - assets/audio_output/
-  - assets/audio_output/dictionary_audio/
   - assets/dictionary.db
   - assets/output/
   - assets/question1.db

@@ -21,7 +21,7 @@ class AdHelper {
     if (Platform.isAndroid) {
       return "ca-app-pub-3940256099942544/1033173712";
     } else if (Platform.isIOS) {
-      return 'ca-app-pub-3940256099942544/4411468910';
+      return 'ca-app-pub-2598779635969436/1818130114';
     } else {
       throw new UnsupportedError("Unsupported platform");
     }
@@ -31,7 +31,7 @@ class AdHelper {
     if (Platform.isAndroid) {
       return "ca-app-pub-3940256099942544/5224354917";
     } else if (Platform.isIOS) {
-      return 'ca-app-pub-3940256099942544/1712485313';
+      return 'ca-app-pub-2598779635969436/1674659888';
     } else {
       throw new UnsupportedError("Unsupported platform");
     }
@@ -43,7 +43,7 @@ class AdHelper {
     if (Platform.isAndroid) {
       return 'ca-app-pub-3940256099942544/3419835294'; // 테스트용
     } else if (Platform.isIOS) {
-      return 'ca-app-pub-3940256099942544/5575463023'; // 테스트용
+      return 'ca-app-pub-2598779635969436/8375799608'; // 테스트용
     } else {
       throw UnsupportedError('Unsupported platform');
     }

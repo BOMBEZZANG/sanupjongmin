@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "746290625033",
+    "project_id": "sanupjongmin",
+    "storage_bucket": "sanupjongmin.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:746290625033:android:0109f7840a761ec83256d8",
+        "android_client_info": {
+          "package_name": "com.example.sanupjongmin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvvR1jWLg3k3dO4xamOuwEx3SDzCsnfpk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

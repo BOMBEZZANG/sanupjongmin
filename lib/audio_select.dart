@@ -186,7 +186,7 @@ class _AudioSelectPageState extends State<AudioSelectPage> {
     bool isDarkMode = Theme.of(context).brightness == Brightness.dark;
 
     final filteredRounds = Map.fromEntries(
-      reverseRoundMapping.entries.where((entry) => entry.key >= 1 && entry.key <= 3),
+      reverseRoundMapping.entries.where((entry) => entry.key >= 1 && entry.key <= 7),
     );
 
     return Scaffold(
@@ -212,7 +212,7 @@ class _AudioSelectPageState extends State<AudioSelectPage> {
               shape: RoundedRectangleBorder(
                 borderRadius: BorderRadius.circular(12.0),
               ),
-              elevation: 3,
+              elevation: 7,
               child: ExpansionTile(
                 initiallyExpanded: _isYearExpanded,
                 onExpansionChanged: (val) {
@@ -238,7 +238,7 @@ class _AudioSelectPageState extends State<AudioSelectPage> {
                           shape: RoundedRectangleBorder(
                             borderRadius: BorderRadius.circular(12.0),
                           ),
-                          elevation: 3,
+                          elevation: 7,
                         ),
                         onPressed: () => _showAdDialog(entry.key.toString(), true),
                         child: Text(

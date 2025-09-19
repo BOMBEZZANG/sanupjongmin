@@ -24,7 +24,6 @@ import 'package:app_tracking_transparency/app_tracking_transparency.dart';
 import 'config.dart';
 import 'ox_quiz_page.dart';
 import 'dictionary_select.dart';
-import 'mindmap.dart';
 import 'widgets/common/index.dart';
 
 
@@ -221,7 +220,7 @@ void _launchReview() async {
       ),
     );
     
-    const url = 'https://apps.apple.com/app/id6747970390';
+    const url = 'https://apps.apple.com/app/id6740614771';
     if (await canLaunchUrl(Uri.parse(url))) {
       await launchUrl(Uri.parse(url));
     } else {
@@ -413,34 +412,38 @@ void _showStatsWithAd() {
     Navigator.push(context, MaterialPageRoute(builder: (context) => StatisticsPage()));
   }
 
-  // 마인드맵 광고 및 내비게이션 함수 추가
-  void _showMindMapWithAd() {
+
+
+  void _showDictionaryWithAd() {
     final adState = Provider.of<AdState>(context, listen: false);
 
+    // 광고가 제거되었거나 테스트 중이면 바로 페이지로 이동
     if (adState.adsRemoved || kDisableAdsForTesting) {
-      _navigateToMindMap();
+      _navigateToDictionary();
       return;
     }
 
+    // 보상형 광고가 로드되지 않았다면 로드 시도
     if (!_isRewardedAdLoaded) {
       _loadRewardedAd();
     }
 
+    // 광고 시청 여부를 묻는 대화상자 표시
     showDialog(
       context: context,
       builder: (context) => AlertDialog(
-        title: Text("마인드맵 보기"),
-        content: Text("마인드맵을 보기 위해 광고를 시청하시겠습니까?"),
+        title: Text("용어사전 보기"),
+        content: Text("용어사전을 보기 위해 광고를 시청하시겠습니까?"),
         actions: [
           TextButton(
             child: Text("아니요"),
-            onPressed: () => Navigator.pop(context),
+            onPressed: () => Navigator.pop(context), // 대화상자 닫기
           ),
           TextButton(
             child: Text("예: 시청하기"),
             onPressed: () {
-              Navigator.pop(context);
-              _showRewardedAdAndNavigateToMindMap();
+              Navigator.pop(context); // 대화상자 닫기
+              _showRewardedAdAndNavigateToDictionary(); // 광고 표시 및 페이지 이동 함수 호출
             },
           ),
         ],
@@ -448,32 +451,35 @@ void _showStatsWithAd() {
     );
   }
 
-  void _showRewardedAdAndNavigateToMindMap() {
+  void _showRewardedAdAndNavigateToDictionary() {
+    // 보상형 광고가 준비되었다면 광고 표시
     if (_rewardedAd != null && _isRewardedAdLoaded) {
       _rewardedAd!.show(
         onUserEarnedReward: (AdWithoutView ad, RewardItem rewardItem) {
           print("User earned reward: ${rewardItem.amount} ${rewardItem.type}");
-          _navigateToMindMap();
+          _navigateToDictionary(); // 보상 완료 후 페이지 이동
         },
       );
     } else {
+      // 광고가 준비되지 않은 경우 토스트 메시지 표시 후 바로 이동
       Fluttertoast.showToast(
-        msg: '광고가 아직 준비되지 않았습니다. 바로 마인드맵으로 이동합니다.',
+        msg: '광고가 아직 준비되지 않았습니다. 바로 용어사전으로 이동합니다.',
         toastLength: Toast.LENGTH_SHORT,
         gravity: ToastGravity.BOTTOM,
       );
-      _navigateToMindMap();
+      _navigateToDictionary();
     }
   }
 
-  void _navigateToMindMap() {
+  void _navigateToDictionary() {
     Navigator.push(
       context,
       MaterialPageRoute(
-        builder: (context) => MindMapScreen(),
+        builder: (context) => DictionarySelectPage(),
       ),
     );
   }
+
 
   void _showOXQuizWithAd() {
     final adState = Provider.of<AdState>(context, listen: false);
@@ -801,14 +807,6 @@ void _showStatsWithAd() {
         onTap: () => Navigator.push(context, MaterialPageRoute(builder: (context) => SummarySelectPage())),
       ),
 
-            SizedBox(height: 12),
-      _buildWideFeatureCard(
-        title: '마인드맵',
-        subtitle: '체계적으로 학습 내용을 정리하세요',
-        icon: Icons.account_tree_rounded,
-        color: Color(0xFFFF7043),
-        onTap: _showMindMapWithAd,
-      ),
       SizedBox(height: 12),
       _buildWideFeatureCard(
         title: '학습 통계보기',

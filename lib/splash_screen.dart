@@ -90,33 +90,33 @@ class _SplashScreenState extends State<SplashScreen> with SingleTickerProviderSt
 
   /// 앱 오픈 광고를 미리 로드합니다.
   Future<void> _loadAppOpenAd() async {
-    final adState = Provider.of<AdState>(context, listen: false);
-    if (adState.adsRemoved || kDisableAdsForTesting) {
-      print('SplashScreen: 광고가 제거되었거나 테스트 모드이므로 앱 오픈 광고를 로드하지 않습니다.');
-      return;
-    }
-
-    try {
-      await AppOpenAd.load(
-        adUnitId: AdHelper.appOpenAdUnitId,
-        request: const AdRequest(),
-        orientation: AppOpenAd.orientationPortrait,
-        adLoadCallback: AppOpenAdLoadCallback(
-          onAdLoaded: (ad) {
-            print("SplashScreen: AppOpenAd 로드 성공");
-            _appOpenAd = ad;
-          },
-          onAdFailedToLoad: (error) {
-            print("SplashScreen: AppOpenAd 로드 실패: $error");
-            _appOpenAd = null;
-          },
-        ),
-      );
-    } catch (e) {
-      print("SplashScreen: AppOpenAd.load() 호출 중 예외 발생: $e");
-      _appOpenAd = null;
-    }
+  final adState = Provider.of<AdState>(context, listen: false);
+  if (adState.adsRemoved || kDisableAdsForTesting) {
+    print('SplashScreen: 광고가 제거되었거나 테스트 모드이므로 앱 오픈 광고를 로드하지 않습니다.');
+    return;
   }
+
+  try {
+    await AppOpenAd.load(
+      adUnitId: AdHelper.appOpenAdUnitId,
+      request: const AdRequest(),
+      // orientation 파라미터 제거 (6.0.0에서 지원 안 함)
+      adLoadCallback: AppOpenAdLoadCallback(
+        onAdLoaded: (ad) {
+          print("SplashScreen: AppOpenAd 로드 성공");
+          _appOpenAd = ad;
+        },
+        onAdFailedToLoad: (error) {
+          print("SplashScreen: AppOpenAd 로드 실패: $error");
+          _appOpenAd = null;
+        },
+      ),
+    );
+  } catch (e) {
+    print("SplashScreen: AppOpenAd.load() 호출 중 예외 발생: $e");
+    _appOpenAd = null;
+  }
+}
 
   /// 로드된 앱 오픈 광고를 표시합니다.
   void _showAppOpenAd() {
